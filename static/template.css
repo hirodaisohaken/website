@@ -1,0 +1,17 @@
+.ruler {
+    display: flex;
+    align-items: center;
+    text-align: center;
+}
+
+.ruler::before, {
+    content: "";
+    flex-grow: 1;
+    border-bottom: solide #4a5568;
+    margin-right: 10px;
+    padding-left: 15px;
+}
+
+.foo {
+    background-color: red;
+}
