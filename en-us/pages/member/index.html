@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Hiroshima University</title>
+    <link rel="stylesheet" href="/static/style.css">
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.0/jquery.min.js" 
+        integrity="sha512-894YE6QWD5I59HgZOGReFYm4dnWc1Qt5NtvYSaNcOP+u1T9qYdvdihz0PPSiiqn/+/3e7Jo4EaG7TubfWGUrMQ=="
+        crossorigin="anonymous" 
+        referrerpolicy="no-referrer"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery-csv/1.0.11/jquery.csv.min.js"
+        integrity="sha512-Y8iWYJDo6HiTo5xtml1g4QqHtl/PO1w+dmUpQfQSOTqKNsMhExfyPN2ncNAe9JuJUSKzwK/b6oaNPop4MXzkwg=="
+        crossorigin="anonymous"
+        referrerpolicy="no-referrer"></script>
+    <script src="https://kit.fontawesome.com/cd2827d70c.js" crossorigin="anonymous"></script>
+    <link href="https://fonts.googleapis.com/css?family=M+PLUS+Rounded+1c" rel="stylesheet">
+</head>
+
+<body class="text-sm text-gray-700 bg-gray-100" style="font-family: &#39;M PLUS Rounded 1c&#39;">
+
+    <header id='header' class="flex items-center justify-between flex-wrap px-12 py-6 mb-24">
+        <div class="flex items-center flex-shrink-0 mr-6">
+            <span class="font-semibold text-xl tracking-tight">Elementary Particle Physics</span>
+        </div>
+        <div class="block flex items-center w-auto">
+            <div class="text-sm font-semibold lg:flex-grow">
+                
+                    <a href='/en-us/index.html' class="block mt-4 inline-block mt-0 text-gray-600 hover:text-gray-700 mr-4">
+                        Home
+                    </a>
+                
+                    <a href='/en-us/pages/member/index.html' class="block mt-4 inline-block mt-0 text-gray-600 hover:text-gray-700 mr-4">
+                        Members
+                    </a>
+
+                    <a href='/en-us/pages/schedule/index.html' class="block mt-4 inline-block mt-0 text-gray-600 hover:text-gray-700 mr-4">
+                        Schedule
+                    </a>
+    
+                    <a href='/pages/member/index.html' class="block mt-4 inline-block mt-0 text-gray-600 hover:text-gray-700 mr-4">
+                        日本語
+                    </a>
+                
+            </div>
+        </div>
+        <div class="border-solid border border-gray-200 justify-center w-full mt-2"></div>
+    </header>
+
+<!-- This is a script for inputing table data to generate the member listing  -->
+    <div class="px-12 py-16 w-full">
+        <div id="membershipinfo" class="grid grid-cols-5 gap-2">
+            <script src="/scripts/main.js"> </script>
+        </div>
+    </div>
+
+    <footer>
+        <div class="relative h-64 w-full">
+            <div class="bg-gray-900 text-gray-100 p-6 absolute inset-x-0 bottom-0">
+            <span>Hiroshima University Theoretical Particle and Hadron Physics Group</span>
+            </div>
+        </div>
+    </footer>
+</body>
+</html>
+
