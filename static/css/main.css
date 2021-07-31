@@ -23,11 +23,9 @@
     font-weight: 600;
     column-gap: 2rem;
 }
-.globalheader h:last-child { /* border-solid border border-gray-600 mt-2 */
+.globalheader h:last-child {
     flex-basis: 100%;
-    border-width: 1.5px;
-    border-style: solid;
-    border-color: #718096;
+    border: 1.5px solid #718096;
 }
 .globalheader a:nth-child(2) {
     margin-left: auto;
@@ -35,7 +33,7 @@
 .globalheader a:nth-child(1) {
     max-width: 30%;
 }
-.headerlinks { /* class="block mt-4 inline-block mt-0 text-gray-600 hover:text-gray-700 mr-4" */
+.headerlinks {
     color: #718096; /* Gray */
 }
 .headerlinks:hover {
@@ -58,18 +56,24 @@
 .globalmain {
     grid-column: 3 / -2;
 }
-.globalfeed { /* class="px-12 py-16 w-full", w-full bg-gray-200 */
+.globalfeed {
     display: flex;
     flex-flow: column wrap;
     row-gap: 1rem;
-    padding: 4rem 3rem;
+    padding: 3rem 3rem;
     background-color: #edf2f7;
 }
-.globalfeed ul:nth-child(n){
+.globalfeed ul {
     list-style-type: disc;
     list-style-position: inside;
 }
-.aboutus { /* px-12 py-16 w-full bg-indigo-900 flex content-between justify-center */
+.globalfeed a {
+    margin-left: auto;
+}
+.globalfeed a:hover {
+    color: #000000;
+}
+.aboutus {
     display: flex;
     flex-flow: row wrap;
     justify-content: space-around;
@@ -77,18 +81,49 @@
     background-color: #3c366b;
     text-align: center;
 }
-.aboutus div:nth-child(n) { /* "max-w-sm rounded overflow-hidden w-1/3" */
+.aboutus div {
     max-width: 24rem;
-    border-radius: 0.25rem;
+    /* border-radius: 0.25rem; */
     overflow: hidden;
     color: #f7fafc;
 }
-.aboutus p:nth-child(n) { /* mt-2 mb-2 */
-    margin-top: 0.5rem;
-    margin-bottom: 0.5rem;
+.aboutus p {
+    margin: 0.5rem 0;
 }
 
-.membergrid { /* class="grid grid-cols-5 gap-2" */
+.schedulenav {
+    display: flex;
+    justify-content: center;
+    padding: 0.5rem;
+}
+.schedulepagination {
+    display: flex;
+    flex-basis: 100rem;
+    justify-content: space-evenly;
+}
+.schedulepagination li {
+    border-bottom: solid 0.15rem;
+    padding: 0 2rem;
+}
+.schedulepagination li:hover {
+    color: #000000;
+}
+.schedulegrid {
+    display: grid;
+    grid-template-columns: repeat(3, minmax(0, 1fr));
+    grid-gap: 0.5rem;
+    align-items: center;
+    text-align: center;
+    justify-items: center;
+}
+.schedulegrid span {
+    border: solid;
+    border-radius: 0.5rem;
+    padding: 0.25rem 0.25rem;
+    background-color: #fff;
+}
+
+.membergrid {
     display: grid;
     grid-template-columns: repeat(5, minmax(0, 1fr));
     grid-gap: 0.5rem;
@@ -101,7 +136,7 @@
     max-width: 75%;
 }
 
-.textheading { /* class="flex uppercase font-thin 1.875rem mb-4" */
+.textheading {
     text-transform: uppercase;
     font-weight: 200; /* thin */
     font-size: 1.6rem;
