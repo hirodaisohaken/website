@@ -10,18 +10,19 @@ function generateHTML(memberData){
     let n = 0;
     const studinfo = document.querySelector('#studentinfo'); // pull in the different html locations
     const staffinfo = document.querySelector('#staffinfo');
+    const researcherinfo = document.querySelector('#researcherinfo');
 
+    while (memberData[n] !== 'Researchers') {
+        let divName = document.createElement('div');
+        divName.innerHTML = memberData[n];
+        staffinfo.appendChild(divName);
+        n++;
+    };
+    n++;
     while (memberData[n] !== 'Students') {
-        if ( (n%5 == 0) && n!==0 ) {
-            let imgTag = document.createElement('img');
-            imgTag.src = memberData[n];
-            imgTag.className ='staffImgs';
-            staffinfo.appendChild(imgTag);
-        } else { 
-            let divName = document.createElement('div');
-            divName.innerHTML = memberData[n];
-            staffinfo.appendChild(divName);
-        };
+        let divName = document.createElement('div');  // what html to make
+        divName.innerHTML = memberData[n];
+        researcherinfo.appendChild(divName);
         n++;
     };
     n++;

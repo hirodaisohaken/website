@@ -1,6 +1,42 @@
-@tailwind base;
+/* @tailwind base;
 @tailwind components;
-@tailwind utilities;
+@tailwind utilities; */
+
+/* Global Settings */
+img {max-width:100%;}
+ol,ul {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+a {
+    color: inherit;
+    text-decoration: inherit;
+}
+/* 1. Prevent padding and border from affecting element width.
+    We used to set this in the html element and inherit from
+    the parent element for everything else. This caused issues
+    in shadow-dom-enhanced elements like <details> where the content
+    is wrapped by a div with box-sizing set to `content-box`.
+    https://github.com/mozdevs/cssremedy/issues/4 */
+*,::before,::after {
+  box-sizing: border-box;
+  border-width: 0;
+  border-style: solid;
+  border-color: #e2e8f0;
+}
+/* Ensure horizontal rules are visible by default */
+ hr {border-top-width: 1px;}
+/* Work around a Firefox/IE bug where the transparent `button` background
+   results in a loss of the default `button` focus styles. */
+button:focus {
+    outline: 1px dotted;
+    outline: 5px auto -webkit-focus-ring-color;
+}
+fieldset {
+    margin: 0;
+    padding: 0;
+}
 
 /* Additions for cleaner .html files */
 .globalbody {
@@ -81,15 +117,15 @@
     background-color: #3c366b;
     text-align: center;
 }
-.aboutus div {
+.aboutus article {
     max-width: 24rem;
     /* border-radius: 0.25rem; */
     overflow: hidden;
     color: #f7fafc;
 }
-.aboutus p {
+/* .aboutus p {
     margin: 0.5rem 0;
-}
+} */
 
 .schedulenav {
     display: flex;
@@ -116,9 +152,10 @@
     text-align: center;
     justify-items: center;
 }
-.schedulegrid span {
+.schedulegrid div {
     border: solid;
-    border-radius: 0.5rem;
+    border-radius: 1.0rem;
+    border-width: 0.15rem;
     padding: 0.25rem 0.25rem;
     background-color: #fff;
 }
@@ -131,7 +168,11 @@
     text-align: center;
     justify-items: center;
 }
-.staffImgs {
+.membergrid div:nth-child(-n+5) {
+    font-weight: bold;
+    font-size: 1.15rem;
+}
+.membergrid img {
     border-radius: 50%;
     max-width: 75%;
 }
