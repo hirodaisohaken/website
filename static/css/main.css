@@ -192,13 +192,13 @@ body {
 
 .membergrid {
     display: grid;
-    grid-template-columns: repeat(6, minmax(0, 1fr));
+    grid-template-columns: repeat(5, minmax(0, 1fr));
     grid-gap: 0.5rem;
     align-items: center;
     text-align: center;
     justify-items: center;
 }
-.membergrid div:nth-child(-n+6) {
+.membergrid div:nth-child(-n+5) {
     font-weight: bold;
     font-size: 1.15rem;
 }

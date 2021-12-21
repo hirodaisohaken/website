@@ -4,7 +4,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width,initial-scale=1">
     <title>広島大学｜素粒子ハドロン理論</title>
-    <link rel="stylesheet" href="/static/style.css">
+    <link rel="stylesheet" href="/static/css/main.css">
     <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.0/jquery.min.js"
         integrity="sha512-894YE6QWD5I59HgZOGReFYm4dnWc1Qt5NtvYSaNcOP+u1T9qYdvdihz0PPSiiqn/+/3e7Jo4EaG7TubfWGUrMQ=="
         crossorigin="anonymous"
@@ -17,63 +17,59 @@
     <link href="https://fonts.googleapis.com/css?family=M+PLUS+Rounded+1c" rel="stylesheet">
 </head>
 
-
 <body class='globalbody' style="font-family: &#39;M PLUS Rounded 1c&#39;">
     <header class="globalheader">
-        <a href="/">
-            <img src="/static/imgs/header_title.png" alt="Hiroshima University Theory">
-        </a>
+        <a href="/index.html"><img src="/static/imgs/header_title.png" alt="Hiroshima University Theory"></a>
     </header>
 
     <aside class="globalside">
-        <nav class="globalnav">
-            <ul>
-                <li><a href='/index.html' class="headerlinks">ホーム</a></li>
-                <li></li>
-                <li><a href='/pages/member/index.html' class="headerlinks">研究メンバー</a></li>
-                <li class="currentnav"></li>
-                <li><a href='/pages/schedule/index.html' class="headerlinks">予定</a></li>
-                <li></li>
-                <li><a href='/pages/access/index.html' class="headerlinks">素研へのアクセス</a></li>
-                <li></li>
-                <li><a href='/en-us/pages/member/index.html' class="headerlinks">English</a></li>
-            </ul>
-        </nav>
-
+        <nav class="globalnav"><ul>
+            <li><a href='/index.html'>ホーム</a></li>
+            <li></li>
+            <li><a href='/pages/member/index.html'>研究メンバー</a></li>
+            <li class="currentnav"></li>
+            <li><a href='/pages/schedule/index.html'>予定</a></li>
+            <li></li>
+            <li><a href='/pages/access/index.html'>素研へのアクセス</a></li>
+            <li></li>
+            <li><a href='/en-us/pages/member/index.html'>English</a></li>
+        </ul></nav>
         <ul>
             <li class="sidelinks">
                 <img src="/static/imgs/side_title.png" alt="English Title for Elementary Physics">
             </li>
-            <li>
-                <h1 class="textheading">External Links</h1>
-            </li>
+            <li><h1 class="textheading">External Links</h1></li>
             <li class="sidelinks">
-                <a href=http://phys.hiroshima-u.ac.jp/phys >
-                    <img src="/static/imgs/phyiscshirdai.png" alt="Link to Phyiscs Programs Homepage">
-                </a>
-            </li>
+            <a href=http://phys.hiroshima-u.ac.jp/phys target="_blank" rel="noopener noreferrer">
+                <img src="/static/imgs/phyiscshirdai.png" alt="Link to Phyiscs Programs Homepage">
+            </a></li>
             <li class="sidelinks">
-                <a href=https://core-u.hiroshima-u.ac.jp/ >
-                    <img src="/static/imgs/Core_U.png" alt="Link to CORE-U English Homepage">
-                </a>
-            </li>
+            <a href=https://core-u.hiroshima-u.ac.jp target="_blank" rel="noopener noreferrer">
+                <img src="/static/imgs/Core_U.png" alt="Link to CORE-U Homepage">
+            </a></li>
             <li class="sidelinks">
-                <a href=https://www.hiroshima-u.ac.jp/ >
-                    <img src="/static/imgs/h1_title.png" alt="Link to Hiroshima Univ. Homepage">
-                </a>
-            </li>
+            <a href=https://www.hiroshima-u.ac.jp target="_blank" rel="noopener noreferrer">
+                <img src="/static/imgs/h1_title_en.png" alt="Link to Hiroshima Univ. Homepage">
+            </a></li>
         </ul>
     </aside>
 
     <main class="globalmain">
-        <div class="globalfeed">
-            <h1 class="textheading">Staff</h1>
-            <div id="staffinfo" class="membergrid"></div>
-            <h1 class="textheading">PostDocs and Students</h1>
-            <div id="studentinfo" class="membergrid">
-               <script src="/scripts/main.js"> </script>
-            </div>
-        </div>
+        <article class="globalfeed">
+            <h1 class="textheading">Faculty</h1>
+            <section id="staffinfo" class="membergrid"></section>
+            <p>*:hiroshima-u.ac.jp</p>
+            <p>#:@theo.phys.sci.hiroshima-u.ac.jp</p>
+            <h1 class="textheading">Researchers and Visitors</h1>
+            <section id="researcherinfo" class="membergrid"></section>
+            <p>*:hiroshima-u.ac.jp</p>
+            <p>#:@theo.phys.sci.hiroshima-u.ac.jp</p>
+            <h1 class="textheading">Students</h1>
+            <section id="studentinfo" class="membergrid"></section>
+            <p>*:hiroshima-u.ac.jp</p>
+            <p>#:@theo.phys.sci.hiroshima-u.ac.jp</p>
+        </article>
+        <script src="/scripts/members/members.js"></script>
     </main>
 
     <footer class="globalfooter">

@@ -1,18 +1,22 @@
-[
-    {
-        "category": "seminar",
-        "sub-category": "Soken Journal Club",
-        "date": "2018-11-08T13:10:00+09:00",
-        "place": "A217 (the seminar room)",
-        "speaker-ja": "下地寛武",
-        "speaker-en": "Hiromu Shimoji",
-        "affiliation-ja": "",
-        "affiliation-en": "",
-        "title": "Nambu Jona Lasinio model with proper time regularization in a finite volume",
-        "author": "Qingwu. Wang, Yonghui. Xiq, and Hongshi. Zong",
-        "abstract": "",
-        "eprint": "1806.05315",
-        "reference": "Mod. Phys. Lett. A 33 (2018) 39, 1850232",
-        "doi": "10.1142/S0217732318502322"
-    }
-]
+{
+    "seminars":[
+        {
+            "subcategory": "Soken Journal Club",
+            "date": "2018-11-08T13:10:00+09:00",
+            "place": "A217 (the seminar room)",
+            "speaker_ja": "下地寛武",
+            "speaker_en": "Hiromu Shimoji",
+            "affiliation_ja": "",
+            "affiliation_en": "",
+            "title": "Nambu Jona Lasinio model with proper time regularization in a finite volume",
+            "author": "Qingwu. Wang, Yonghui. Xiq, and Hongshi. Zong",
+            "abstract": "",
+            "eprint": "1806.05315",
+            "reference": "Mod. Phys. Lett. A 33 (2018) 39, 1850232",
+            "doi": "10.1142/S0217732318502322"
+        }
+    ],
+    "other":[],
+    "events":[]
+}
+
