@@ -4,7 +4,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width,initial-scale=1">
     <title>広島大学｜素粒子ハドロン理論</title>
-    <link rel="stylesheet" href="/static/style.css">
+    <link rel="stylesheet" href="/static/css/main.css">
     <script src="https://kit.fontawesome.com/cd2827d70c.js" crossorigin="anonymous"></script>
     <link href="https://fonts.googleapis.com/css?family=M+PLUS+Rounded+1c" rel="stylesheet">
 </head>
@@ -25,7 +25,7 @@
                 <li></li>
                 <li><a href='/pages/schedule/index.html' class="headerlinks">予定</a></li>
                 <li class="currentnav"></li>
-                <li><a href='/pages/access/index.html' class="headerlinks">素ハ研へのアクセス</a></li>
+                <li><a href='/pages/access/index.html' class="headerlinks">アクセス</a></li>
                 <li></li>
                 <li><a href='/en-us/pages/schedule/index.html' class="headerlinks">English</a></li>
             </ul>
@@ -36,7 +36,7 @@
                 <img src="/static/imgs/side_title.png" alt="English Title for Elementary Physics">
             </li>
             <li>
-                <h1 class="textheading">External Links</h1>
+                <h1 class="textheading">外部リンク</h1>
             </li>
             <li class="sidelinks">
                 <a href=http://phys.hiroshima-u.ac.jp/phys >
@@ -67,209 +67,56 @@
             </ul>
         </nav>
 
-        <div class="px-12 py-16 w-full lg:px-1/2 lg:w-auto">
+        <article class="globalfeed">
 
-            <div class="text-3xl text-center w-auto uppercase hover:text-teal-400">
-                <span># journal</span>
-            </div>
-            <div class="my-6 p-6 border-3 rounded-none grid grid-cols-3 gap-2">
+            <nav class="schedulenav">
+            <ul class="schedulepagination">
+                <li><a href='#seminars'>Seminars</a></li>
+                <li><a href='#events'>Events</a></li>
+                <li><a href='#others'>others</a></li>
+            </ul>
+            </nav>
 
-
-
-                <div class="my-2 p-6 border rounded-lg bg-white">
-                    <div class="text-xs">
-                        <div>
-                            <div class="text-base leading-tight pt-10 pb-2">Inhomogeneous phases in the Nambu–Jona-Lasinio and quark-meson model</div>
-                            <div class="text-gray-600">T. Akiba, H. Kikuchi, and T. Yanagida</div>
-                            <a class="text-teal-400 hover:underline" style="word-break:break-all">http://dx.doi.org/10.1103/PhysRevD.80.074025</a>
-                        </div>
-                    </div>
-                    <div class="mt-4">
-                        <span class="inline-block w-5"><i class="fas fa-chalkboard-teacher"></i></span>
-                        <span>Matsuo Yamato</span>
-
-                        <span>(Hiroshima Univ.)</span>
-
-                    </div>
-                    <div class="text-gray-600">
-                        <span class="inline-block w-5"><i class="fas fa-calendar-week"></i></span>
-                        <span>2020/04/04 15:00 ~ 16:30</span>
-                    </div>
+            <h1 class="textheading" id="seminars">Seminars</h1>
+            <section class="schedulegrid">
+                <div>
+                    <h2>CORE-U Seminar</h2>
+                    <p>野中</p>
+                    <time datetime="2021-07-30T16:30:00">7/30, 16:30~18:00</time>
                 </div>
-
-
-
-                <div class="my-2 p-6 border rounded-lg bg-white">
-                    <div class="text-xs">
-                        <div>
-                            <div class="text-base leading-tight pt-10 pb-2">Inhomogeneous phases in the Nambu–Jona-Lasinio and quark-meson model</div>
-                            <div class="text-gray-600">T. Akiba, H. Kikuchi, and T. Yanagida</div>
-                            <a class="text-teal-400 hover:underline" style="word-break:break-all">http://dx.doi.org/10.1103/PhysRevD.80.074025</a>
-                        </div>
-                    </div>
-                    <div class="mt-4">
-                        <span class="inline-block w-5"><i class="fas fa-chalkboard-teacher"></i></span>
-                        <span>Matsuo Yamato</span>
-
-                        <span>(Hiroshima Univ.)</span>
-
-                    </div>
-                    <div class="text-gray-600">
-                        <span class="inline-block w-5"><i class="fas fa-calendar-week"></i></span>
-                        <span>2020/05/04 15:00 ~ 16:30</span>
-                    </div>
+                <div>
+                    <h2>Sokken Seminar</h2>
+                    <p>KEK 坂木</p>
+                    <time datetime="2021-07-09T14:30:00">７月9日 14:30</time>
                 </div>
-
-
-
-                <div class="my-2 p-6 border rounded-lg bg-white">
-                    <div class="text-xs">
-                        <div>
-                            <div class="text-base leading-tight pt-10 pb-2">Inhomogeneous phases in the Nambu–Jona-Lasinio and quark-meson model</div>
-                            <div class="text-gray-600">T. Akiba, H. Kikuchi, and T. Yanagida</div>
-                            <a class="text-teal-400 hover:underline" style="word-break:break-all">http://dx.doi.org/10.1103/PhysRevD.80.074025</a>
-                        </div>
-                    </div>
-                    <div class="mt-4">
-                        <span class="inline-block w-5"><i class="fas fa-chalkboard-teacher"></i></span>
-                        <span>Matsuo Yamato</span>
-
-                        <span>(Hiroshima Univ.)</span>
-
-                    </div>
-                    <div class="text-gray-600">
-                        <span class="inline-block w-5"><i class="fas fa-calendar-week"></i></span>
-                        <span>2020/06/04 15:00 ~ 16:30</span>
-                    </div>
+                <div>
+                    <h2>CORE-U Seminar</h2>
+                    <p>Notes</p>
+                    <time datetime="2021-05-16T14:35:00">5/16 14:35</time>
                 </div>
-
-
-
-        </div>
-        <div class="flex justify-center">
-            <button class="bg-indigo-500 hover:bg-indigo-700 text-white font-bold py-2 px-4 rounded rounded-full">
-                <a class="px-4" href="">More</a>
-            </button>
-        </div>
-    </div>
-
-
-    <div class="px-12 py-16 w-full lg:px-1/2 lg:w-auto bg-gray-200">
-
-        <div class="text-3xl text-center w-auto uppercase hover:text-teal-400">
-            <span># seminar</span>
-        </div>
-        <div class="my-6 p-6 border-3 rounded-none grid grid-cols-3 gap-2">
-
-
-
-                <div class="my-2 p-6 border rounded-lg bg-white">
-                    <div class="text-xs">
-                        <div>
-                            <div class="text-base leading-tight pt-10 pb-2"></div>
-                            <div class="text-gray-600"></div>
-                            <a class="text-teal-400 hover:underline" style="word-break:break-all"></a>
-                        </div>
-                    </div>
-                    <div class="mt-4">
-                        <span class="inline-block w-5"><i class="fas fa-chalkboard-teacher"></i></span>
-                        <span>Matsuo Yamato</span>
-
-                    </div>
-                    <div class="text-gray-600">
-                        <span class="inline-block w-5"><i class="fas fa-calendar-week"></i></span>
-                        <span>2020/07/04 15:00 ~ 16:30</span>
-                    </div>
+                <div>
+                    <h2>Sokken Seminar</h2>
+                    <p>梅枝</p>
+                    <time datetime="2021-05-14T14:00:00">5/14 14:00</time>
                 </div>
+            </section>
 
+            <h1 class="textheading" id="events">Events</h1>
+            <section class="schedulegrid">
+                <div>Test1</div>
+                <div>Test2</div>
+                <div>Test3</div>
+            </section>
 
+            <h1 class="textheading" id="others">Others</h1>
+            <section class="schedulegrid">
+                <div>Test1</div>
+                <div>Test2</div>
+                <div>Test3</div>
+            </section>
+        </article>
 
-                <div class="my-2 p-6 border rounded-lg bg-white">
-                    <div class="text-xs">
-                        <div>
-                            <div class="text-base leading-tight pt-10 pb-2"></div>
-                            <div class="text-gray-600"></div>
-                            <a class="text-teal-400 hover:underline" style="word-break:break-all"></a>
-                        </div>
-                    </div>
-                    <div class="mt-4">
-                        <span class="inline-block w-5"><i class="fas fa-chalkboard-teacher"></i></span>
-                        <span>Matsuo Yamato</span>
-
-                    </div>
-                    <div class="text-gray-600">
-                        <span class="inline-block w-5"><i class="fas fa-calendar-week"></i></span>
-                        <span>2020/08/04 15:00 ~ 16:30</span>
-                    </div>
-                </div>
-
-
-
-                <div class="my-2 p-6 border rounded-lg bg-white">
-                    <div class="text-xs">
-                        <div>
-                            <div class="text-base leading-tight pt-10 pb-2"></div>
-                            <div class="text-gray-600"></div>
-                            <a class="text-teal-400 hover:underline" style="word-break:break-all"></a>
-                        </div>
-                    </div>
-                    <div class="mt-4">
-                        <span class="inline-block w-5"><i class="fas fa-chalkboard-teacher"></i></span>
-                        <span>Matsuo Yamato</span>
-
-                    </div>
-                    <div class="text-gray-600">
-                        <span class="inline-block w-5"><i class="fas fa-calendar-week"></i></span>
-                        <span>2020/09/04 15:00 ~ 16:30</span>
-                    </div>
-                </div>
-
-
-        </div>
-        <div class="flex justify-center">
-            <button class="bg-indigo-500 hover:bg-indigo-700 text-white font-bold py-2 px-4 rounded rounded-full">
-                <a class="px-4" href="">More</a>
-            </button>
-        </div>
-    </div>
-
-
-    <div class="px-12 py-16 w-full lg:px-1/2 lg:w-auto">
-
-        <div class="text-3xl text-center w-auto uppercase hover:text-teal-400">
-            <span># other</span>
-        </div>
-        <div class="my-6 p-6 border-3 rounded-none grid grid-cols-3 gap-2">
-
-
-
-                <div class="my-2 p-6 border rounded-lg bg-white">
-                    <div class="text-xs">
-                        <div>
-                            <div class="text-base leading-tight pt-10 pb-2"></div>
-                            <div class="text-gray-600"></div>
-                            <a class="text-teal-400 hover:underline" style="word-break:break-all"></a>
-                        </div>
-                    </div>
-                    <div class="mt-4">
-                        <span class="inline-block w-5"><i class="fas fa-chalkboard-teacher"></i></span>
-                        <span>Matsuo Yamato</span>
-
-                    </div>
-                    <div class="text-gray-600">
-                        <span class="inline-block w-5"><i class="fas fa-calendar-week"></i></span>
-                        <span>2020/10/04 </span>
-                    </div>
-                </div>
-
-
-        </div>
-        <div class="flex justify-center">
-            <button class="bg-indigo-500 hover:bg-indigo-700 text-white font-bold py-2 px-4 rounded rounded-full">
-                <a class="px-4" href="">More</a>
-            </button>
-        </div>
-    </div>
+        <a href="#top">先頭へ戻る</a>
     </main>
 
     <footer class="globalfooter">

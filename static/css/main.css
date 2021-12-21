@@ -192,7 +192,7 @@ body {
 
 .membergrid {
     display: grid;
-    grid-template-columns: repeat(6, minmax(0, 1fr));
+    grid-template-columns: repeat(5, minmax(0, 1fr)) minmax(0, 0.6fr);
     grid-gap: 0.5rem;
     align-items: center;
     text-align: center;
@@ -228,3 +228,21 @@ body {
     text-align: center;
     bottom: 0;
 }
+
+
+a.intext:link {
+color: red;
+text-decoration:underline;
+}
+a.intext:visited {
+color: gray;
+text-decoration:underline;
+}
+a.intext:hover {
+color: blue;
+text-decoration:underline;
+}
+/* a.intext:active { */
+/* color: blue; */
+/* text-decoration:none; */
+/* } */

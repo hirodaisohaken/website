@@ -1,18 +1,36 @@
-Name,Title,研究紹介,E-mail,Room,論文
-稲垣　知宏<br><img src='/static/imgs/staff_img/inagaki2_2009.JPG'>,Professor,格子QCD、素粒子物理学,inagaki@*,情報メディア教育研究センター所属,<a href='http://inspirehep.net/search?p=find+author+tomohiro+inagaki' target='_blank'>論文検索</a>
-両角　卓也<br><img src='/static/imgs/staff_img/morozumi.JPG'>,Associate Professor,素粒子物理学,morozumi@*,A202,
-石川　健一<br><img src='/static/imgs/staff_img/ishikawa_20210104.JPG'>,Associate Professor,格子QCD、HPC,ishikawa#,A203,
-清水　勇介<br><img src='/static/imgs/staff_img/YusukeShimizu_trim.jpg'>,Assistant Professor,素粒子物理学,yu-shimizu@*,A201,
-山本　恵<br><img src='/static/imgs/staff_img/Yamamoto_IMG_3449.JPG'>,Assistant Professor,素粒子物理学,keiy@*,A208,
+名前,職名,研究紹介,E-mail,Room,論文
+野中　千穂<br><img src='/static/imgs/staff_img/nonaka.JPG'>,Professor,ハドロン物理学,nchiho@*,A204,<a class='intext' href='http://inspirehep.net/search?p=find+author+chiho+nonaka'>論文検索</a>
+稲垣　知宏<br><img src='/static/imgs/staff_img/inagaki2_2009.JPG'>,Professor,素粒子物理学,inagaki@*,情報メディア教育研究センター所属,<a class='intext' href='http://inspirehep.net/search?p=find+author+tomohiro+inagaki'>論文検索</a>
+両角　卓也<br><img src='/static/imgs/staff_img/morozumi.JPG'>,Associate Professor,素粒子物理学,morozumi@*,A202,<a class='intext' href='http://inspirehep.net/search?p=find+author+t.+morozumi'>論文検索</a>
+石川　健一<br><img src='/static/imgs/staff_img/ishikawa_20210104.JPG'>,Associate Professor,格子QCD、HPC,ishikawa#,A203,<a class='intext' href='http://inspirehep.net/search?ln=ja&ln=ja&p=find+author+k.+i.+ishikawa'>論文検索</a>
+清水　勇介<br><img src='/static/imgs/staff_img/YusukeShimizu_trim.jpg'>,Assistant Professor,素粒子物理学,yu-shimizu@*,A201,<a class='intext' href='http://inspirehep.net/search?p=author%3AYusuke.Shimizu.1%20AND%20collection%3Aciteable'>論文検索</a>
+山本　恵<br><img src='/static/imgs/staff_img/Yamamoto_IMG_3449.JPG'>,Assistant Professor,素粒子物理学,keiy@*,A208,<a class='intext' href='https://inspirehep.net/authors/1389469'>論文検索</a>
+
 Researchers
-Name,Year,研究興味,E-mail,Room,論文
-大川　正典,Visitor,格子QCD、素粒子物理学,okawa@sci.*,A201,
-坂本　弘樹,PostDoc,格子QCD、素粒子物理学,h-sakamoto@*,A212,
+名前,職名,研究興味,E-mail,Room,論文
+大川　正典,Visitor,格子QCD,okawa@sci.*,A201,<a class='intext' href='http://inspirehep.net/search?p=author%3AH.Sakamoto.4%20AND%20collection%3Aciteable'>論文検索</a>
+坂本　弘樹,PostDoc,素粒子物理学,h-sakamoto@*,A212,<a class='intext' href='http://inspirehep.net/search?p=find+author+m.+okawa'>論文検索</a>
+
 Students
-Name,Year,研究興味,E-mail,Room,論文
-下地　寛武,D3,格子QCD、素粒子物理学,h-shimoji@*,B201,
+名前,学年,研究興味,E-mail,Room,論文
+下地　寛武,D3,素粒子物理学,h-shimoji@*,B201,<a class='intext' href='http://inspirehep.net/search?p=find+author+Hiromu+Shimoji'>論文検索</a>
 河村　優太,D3,素粒子物理学, ,A212,
-松尾　大和,D3,格子QCD、素粒子物理学,y-matsuo@*,B201,
-ニコラス　ベンワ,D2,素粒子物理学, ,A201,
-姫　英博,D1,格子QCD, ,B201,
+松尾　大和,D3,素粒子物理学,y-matsuo@*,B201,
+ニコラス　ベンワ,D3,素粒子物理学, ,A201,
+中村　幸輝,D2, , ,A212,
+姫　英博,D2,格子QCD,,B201,
+アルベルト　ハリワンサ　パヌル,D1, , ,B201,
 谷口　真彦,D1, , ,A212,
+チェンディキア　アブディ,D1, , ,A212,
+米田　貴大,M2, , ,A212,
+大箸　妙子,M2, , ,A208,
+武井　玄徳,M2, , ,B201,
+河野　早紀,M2, , ,A208,
+竹内　康太,M1, , ,A212,
+井澤　幸邑,M1, , ,B201,
+福永　隆太,M1, , ,A212,
+田中　怜詞,M1, , ,A212,
+黒岩　太平,B4, , ,B201,
+吉岡　直樹,B4, , ,B201,
+竹下　昌之介,B4, , ,B201,
+金光　航平,B4, , ,B201,
