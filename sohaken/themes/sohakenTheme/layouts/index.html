@@ -1,0 +1,13 @@
+{{ define "main" }}
+<main class="globalmain">
+    <article class="globalfeed">
+        <!-- Note that the content for index.html, as a sort of list page, will pull from content/_index.md -->
+        {{.Content}}
+
+        <!-- Ranges through all of content/ -->
+        {{ range first 10 .Site.RegularPages }}
+            {{ .Render "featured"}} <!-- builds result from _default/featured.html template -->
+        {{ end }}
+    </article>
+</main>
+{{ end }}

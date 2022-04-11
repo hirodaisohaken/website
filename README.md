@@ -1,5 +1,7 @@
 Notes to be shared. Feel free to write down. （共有すべきメモなど）
 
+old file is before hugo
+
 # Website Image & Policies
 * Simple structure （単純な構造）
 * Readable code （読みやすいコード）

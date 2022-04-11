@@ -1,0 +1,38 @@
+<aside class="globalside">
+    <nav class="globalnav">
+        <ul>
+            {{- range .Site.Menus.main }}
+                <li>
+                    <a href="{{ .URL | relLangURL }}"><span>{{ .Name }}</span></a>
+                    </li>
+            {{- end }}
+        </ul>
+        <ul>
+            {{- range .Site.Home.AllTranslations }}
+            <li><a href="{{ .Permalink }}">{{- .Language.LanguageName }}</a></li>
+            {{- end }}
+        </ul>
+    </nav>
+
+
+    <ul>
+        <li class="sidelinks">
+            <img src="imgs/side_title.png" alt="English Title for Elementary Physics">
+        </li>
+        <li>
+            <h1 class="textheading">External Links</h1>
+        </li>
+        <li class="sidelinks">
+            <a href=http://phys.hiroshima-u.ac.jp/phys >
+                <img src="imgs/phyiscshirdai.png" alt="Link to Phyiscs Programs Homepage">
+            </a></li>
+        <li class="sidelinks">
+            <a href=https://core-u.hiroshima-u.ac.jp/ >
+                <img src="imgs/Core_U.png" alt="Link to CORE-U English Homepage">
+            </a></li>
+        <li class="sidelinks">
+            <a href=https://www.hiroshima-u.ac.jp/ >
+                <img src="imgs/h1_title.png" alt="Link to Hiroshima Univ. Homepage">
+            </a></li>
+    </ul>
+</aside>
