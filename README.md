@@ -1,29 +1,22 @@
 Notes to be shared. Feel free to write down. （共有すべきメモなど）
 
-
-# Policies
+# Website Image & Policies
 * Simple structure （単純な構造）
 * Readable code （読みやすいコード）
 * Easy to maintain website （維持しやすい）
 
+We plan to use a static site generator to acomplish those policies.  This way future focus is on Frontend and Content Management in markdown files.  While little changes for the backend HTML/CSS/JS.
 
 # Todo
-* Update information: Nonaka san, 素粒子ハドロン理論: Theoretical particle and hadron physics(logotype will be made by Kawano san),...
-* Make contents: news, schedule, member(and staff pages?), access,...
-* Separate data(javascript, css,...) from html files
+## Frontend Support & Content Management
+* Make content for:
+    * news, schedule, member(and staff pages?), access,...
+## Backend Support
+* Separate data (javascript, css,...) from html files
+    * Easier to read and maintain
+    * 
+* Goal is to transfer to a hugo static site setup
+    * We will create our own theme
 
-# Suggestions
-* Responsive Design, Flexbox and Grid　（レスポンシブデザイン、フレックスボックスとグリッド）
-* Use Grid for body of page.  Then use mix of Flexbox and Grid for internal elements
-* I think the tailwind.css is too large of a file and we should create our own.
+# Important Links
 
-
-<!-- * `src/templates/*.ejs`からテンプレートファイルを読み取る。 -->
-<!-- * `js`でテンプレートファイルの各要素を埋める。 -->
-<!-- * `*.ejs`を生成。 -->
-<!-- * `*.html`を生成。 -->
-
-<!-- - new -->
-<!--     * 各ページに`index.ejs`と`index.js`を作る。 -->
-<!--     * `index.ejs`でマークアップを頑張る。変数は`index.js`の中に書く。 -->
-<!--     * `ejs.js`の`render()`で変数を代入して`.html`を作る。 -->
