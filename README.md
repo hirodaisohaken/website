@@ -1,6 +1,6 @@
 Notes to be shared. Feel free to write down. （共有すべきメモなど）
 
-old file is before hugo
+For Hugo use the folder sohaken
 
 # Website Image & Policies
 * Simple structure （単純な構造）
