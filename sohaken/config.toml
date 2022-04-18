@@ -1,0 +1,16 @@
+
+baseURL = '/'
+sectionPagesMenu = "main"
+
+theme = 'sohakenTheme'
+
+defaultContentLanguage = 'ja' 
+[languages] # This will sort though all our language options and keep things neat
+    [languages.ja] # the URL for japanese pages will be ~/
+        languageName = '日本語'
+        title = '広島大学｜素粒子ハドロン理論'
+        weight = 1 # Keeps japanese as the most important
+    [languages.en]  # the URL for english pages will be ~/en
+        languageName = 'English'
+        title = 'Hiroshima Univ. Particles and Hardon'
+        weight = 2
