@@ -1,29 +1,49 @@
 Notes to be shared. Feel free to write down. （共有すべきメモなど）
 
+For Hugo use the folder sohaken
 
-# Policies
+# Website Image & Policies
 * Simple structure （単純な構造）
 * Readable code （読みやすいコード）
 * Easy to maintain website （維持しやすい）
 
+We plan to use a static site generator to accomplish those policies.  This way future focus is on Frontend and Content Management in markdown files.  While little changes for the backend HTML/CSS/JS.
 
 # Todo
-* Update information: Nonaka san, 素粒子ハドロン理論: Theoretical particle and hadron physics(logotype will be made by Kawano san),...
-* Make contents: news, schedule, member(and staff pages?), access,...
-* Separate data(javascript, css,...) from html files
+## Frontend Support & Content Management
+* Make content for:
+    * news (Auto generated from last 5 schedule/events)
+        * could be separate pages compared to events
+    * schedule/events is in JSON file.
+        * New events need a markdown page created, for example 坂井さん award
+    * member list
+        * staff pages introduces research interests
+    * access copy from old version
+    * other ideas
+* Update content
+    * New homepage colors??
+    * New homepage images
+    * anything else design
+* Maintain content
+    * talk to staff and students about events/news.  Then update homepage.
+## Backend Support
+* Transfer to a hugo static site
+    * Create our own theme using existing HTML/CSS/JS
+* Many small issues
+    * nav bar needs to be fixed
+    * Pull more options from the HTML to the markdown files
+    * Set up the Auto generation of past schedules in JSON
+    * Japanese and English translations for the NAV bar, Footer, header are needed to be completed
+## Learning
+* Teaching or recalling HTML/CSS/JS
+* Teaching Hugo
+* Teaching markdown
+* Installing the required Software
+    * IDE, hugo, Git
+# Important Links
+* Need to include links for future people
 
-# Suggestions
-* Responsive Design, Flexbox and Grid　（レスポンシブデザイン、フレックスボックスとグリッド）
-* Use Grid for body of page.  Then use mix of Flexbox and Grid for internal elements
-* I think the tailwind.css is too large of a file and we should create our own.
-
-
-<!-- * `src/templates/*.ejs`からテンプレートファイルを読み取る。 -->
-<!-- * `js`でテンプレートファイルの各要素を埋める。 -->
-<!-- * `*.ejs`を生成。 -->
-<!-- * `*.html`を生成。 -->
-
-<!-- - new -->
-<!--     * 各ページに`index.ejs`と`index.js`を作る。 -->
-<!--     * `index.ejs`でマークアップを頑張る。変数は`index.js`の中に書く。 -->
-<!--     * `ejs.js`の`render()`で変数を代入して`.html`を作る。 -->
+# Meeting Transcript for 0412
+* Before next time, please send GitHub to 下地さん
+* Install the Software
+* Next meeting is 0510?
