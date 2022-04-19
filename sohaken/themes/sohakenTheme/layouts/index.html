@@ -5,8 +5,23 @@
         {{.Content}}
 
         <!-- Ranges through all of content/ -->
+        {{ $pages := where .Site.RegularPages "Type" "in" .Site.Params.mainSections }}
+        <section class="list-item">
+		  <h1 class="textheading"><a href="{{ .RelPermalink }}">{{.Title}}</a></h1>
+		  <time>{{ dateFormat "Jan 2, 2006" .Date }}{{ if .Draft }}
+            <span class="draft-label">DRAFT</span> {{ end }}
+          </time>
+		  <br>
+          <div class="description">
+			{{ if isset .Params "description" }}
+			{{ .Description }}
+			{{ else }}
+			{{ .Summary }}&hellip;
+			{{ end }}
+		  </div>
+		</section>
         {{ range first 10 .Site.RegularPages }}
-            {{ .Render "featured"}} <!-- builds result from _default/featured.html template -->
+        {{ .Render "featured"}} <!-- builds result from _default/featured.html template -->
         {{ end }}
     </article>
 </main>
