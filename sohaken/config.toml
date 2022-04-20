@@ -6,6 +6,10 @@ baseURL = '/'
 
 theme = 'sohakenTheme'
 
+paginate = 2 # the number of items that is diplayed in the Home page
+
+summaryLength = 70
+
 defaultContentLanguage = 'ja'
 [languages] # This will sort though all our language options and keep things neat
     [languages.ja] # the URL for japanese pages will be ~/
