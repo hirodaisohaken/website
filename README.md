@@ -9,6 +9,9 @@ For Hugo use the folder sohaken
 
 We plan to use a static site generator to accomplish those policies.  This way future focus is on Frontend and Content Management in markdown files.  While little changes for the backend HTML/CSS/JS.
 
+# Translation Notes
+i18n folder holds general translations for English and Japanese
+
 # Todo
 ## Frontend Support & Content Management
 * Make content for:
