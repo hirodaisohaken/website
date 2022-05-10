@@ -4,15 +4,19 @@
     <!-- Note that the content for index.html, as a sort of list page, will pull from content/_index.md -->
     {{.Content}}
   </article>
-  <br>
+
   <h1 class="textheading">News</h1>
-    <!-- Ranges through all of content/ -->
+  <!-- Ranges through all of content/ -->
   {{ range first 10 .Site.RegularPages }}
-    <!-- {{ .Render "featured"}} <!-- builds result from _default/featured.html template -->
+  <!-- {{ .Render "featured"}} <!-- builds result from _default/featured.html template -->
   <section tag="newstopic">
     <h2 class="textsubheading">
-      <time>{{ dateFormat "2006-01-02" .Date }}</time>{{.Description}}</h2>
-    <p>{{ .Summary }} <a href="{{ .RelPermalink }}">&hellip;</a></p>
+      <time>{{ dateFormat "2006-01-02" .Date }}</time> | {{.Title}}
+    </h2>
+    <p>
+      {{ .Summary }}
+      <a href="{{ .RelPermalink }}">more&hellip;</a>
+    </p>
   </section>
   {{ end }}
 </main>

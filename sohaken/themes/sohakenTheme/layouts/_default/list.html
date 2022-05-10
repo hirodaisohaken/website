@@ -4,13 +4,16 @@
     <!-- Note that the content for index.html, as a sort of list page, will pull from content/_index.md -->
     {{.Content}}
   </article>
+
   <h1 class="textheading">Listings</h1>
   <section>
     <ul><!-- Ranges through content/*/*.md -->
-      {{ range .Pages }} <li>
+      {{ range .Pages }}
+      <li>
         <a href="{{.Permalink | relLangURL }}">
           <time>{{.Date.Format "2006-01-02"}}</time> | {{.Title}}
-        </a> </li>
+        </a>
+      </li>
       {{ end }}
     </ul>
   </section>
