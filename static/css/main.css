@@ -228,3 +228,21 @@ body {
     text-align: center;
     bottom: 0;
 }
+
+
+a.intext:link {
+color: red;
+text-decoration:underline;
+}
+a.intext:visited {
+color: gray;
+text-decoration:underline;
+}
+a.intext:hover {
+color: blue;
+text-decoration:underline;
+}
+/* a.intext:active { */
+/* color: blue; */
+/* text-decoration:none; */
+/* } */

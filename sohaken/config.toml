@@ -1,16 +1,62 @@
 
 baseURL = '/'
-sectionPagesMenu = "main"
+
+# Creates automatically menu items depending on "content/<directory>"
+# sectionPagesMenu = "main"
 
 theme = 'sohakenTheme'
 
-defaultContentLanguage = 'ja' 
+paginate = 2 # the number of items that is diplayed in the Home page
+
+summaryLength = 70
+
+defaultContentLanguage = 'ja'
 [languages] # This will sort though all our language options and keep things neat
     [languages.ja] # the URL for japanese pages will be ~/
         languageName = '日本語'
+        languageCode = 'ja'
         title = '広島大学｜素粒子ハドロン理論'
         weight = 1 # Keeps japanese as the most important
+        [languages.ja.Menu]
+            [[languages.ja.Menu.main]]
+                name = "ホーム"
+                url = "/"
+                weight = 1
+            [[languages.ja.Menu.main]]
+                name = "研究メンバー"
+                url = "/members/"
+                weight = 2
+            [[languages.ja.Menu.main]]
+                name = "予定/出来事"
+                url = "/events/"
+                weight = 3
+            [[languages.ja.Menu.main]]
+                name = "研究室へのアクセス"
+                url = "/access/"
+                weight = 4
     [languages.en]  # the URL for english pages will be ~/en
         languageName = 'English'
+        languageCode = 'en-us'
         title = 'Hiroshima Univ. Particles and Hardon'
         weight = 2
+        [languages.en.Menu]
+            [[languages.en.Menu.main]]
+                name = "Home"
+                url = "/"
+                weight = 1
+            [[languages.en.Menu.main]]
+                name = "Members"
+                url = "/members/"
+                weight = 2
+            [[languages.en.Menu.main]]
+                name = "News/Events"
+                url = "/events/"
+                weight = 3
+            [[languages.en.Menu.main]]
+                name = "Access"
+                url = "/access/"
+                weight = 4
+
+
+[markup.goldmark.renderer] # This allows rendaring raw html codes in md files.
+    unsafe = true          # Now activating for Google maps in Access.
