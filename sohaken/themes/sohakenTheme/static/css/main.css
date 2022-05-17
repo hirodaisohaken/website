@@ -54,6 +54,18 @@ html, body {
 body {
     margin:0;
 }
+p {
+    /* Fix to control overflow from paragaph sizes.  This makes reading easer. See for more information https://tex.stackexchange.com/questions/71172/why-are-default-latex-margins-so-big */
+    max-width: 60rem;
+}
+a:link {
+    text-decoration:underline;
+}
+
+a:hover {
+    color: blue;
+    text-decoration:underline;
+}
 
 /* Additions for cleaner .html files */
 .globalbody {
@@ -96,7 +108,7 @@ body {
 }
 .sidelinks {
     max-width: 65%;
-    background-color: #f7fafc;
+    background-color: #424242;
 }
 
 .globalmain {
@@ -137,7 +149,7 @@ body {
 
 .textheading {
     text-transform: uppercase;
-    font-weight: 200; /* thin */
+    /* font-weight: 200; /* thin */
     font-size: 1.6rem;
     /* margin-bottom: 1rem; */
     border-bottom: solid;
@@ -146,7 +158,7 @@ body {
     text-transform: capitalize;
     font-size: 1.15rem;
     margin-top: 1rem;
-    text-decoration: underline;
+    /* text-decoration: underline; */
 }
 
 .globalfooter {
@@ -158,11 +170,3 @@ body {
     bottom: 0;
 }
 
-a:link {
-text-decoration:underline;
-}
-
-a:hover {
-color: blue;
-text-decoration:underline;
-}
