@@ -6,9 +6,10 @@
   </article>
 
   <h1 class="textheading">Listings</h1>
+  {{ with .CurrentSection }}
   <section>
     <ul><!-- Ranges through content/*/*.md -->
-      {{ range .Pages }}
+      {{ range .RegularPages }}
       <li>
         <a href="{{.Permalink | relLangURL }}">
           <time>{{.Date.Format "2006-01-02"}}</time> | {{.Title}}
@@ -17,5 +18,6 @@
       {{ end }}
     </ul>
   </section>
+  {{ end }}
 </main>
 {{ end }}

@@ -3,7 +3,7 @@ title: "両角 卓也"
 date: 2022-05-17T17:59:27+09:00
 description: "This area is displayed in Home page as topic title."
 draft: false
-news: true
+news: false
 ---
 <!-- This area up to !--more-- is displayed in Home page as summary. -->
 # Introduction
