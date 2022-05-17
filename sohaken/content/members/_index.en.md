@@ -9,11 +9,11 @@ draft: false
 # Staff
 | | Name | Links | Title | Research Interests | Room Number |
 | --- | ---- | ---- | ---- | ---- | ---- |
-| ![picture of professor Inagaki](imgs/staff/inagaki2_2009.JPG) | Tomohiro Inagaki | [Personal Page](https://home.hiroshima-u.ac.jp/inagaki/) inagaki@*| Professor | Astroparticle Physics | Media Center |
-| ![picture of professor Nonaka](imgs/staff/nonaka.JPG) | Chiho Nonaka | nchiho@* | Professor | Hadronic Theory and Phenomenology | A204 |
-| ![picture of associate professor Morozumi](imgs/staff/morozumi.JPG) | Takuya Morozumi | morozumi@* | Associate Professor | Particle Phenomenology | A202 |
-| ![picture of associate professor Ishikawa](imgs/staff/ishikawa_20210104.JPG) | Ken-Ichi Ishikawa | ishikawa@# | Associate Professor | Lattice QCD and High Performance Computing | A203 |
-| ![picture of assistant professor Shimizu](imgs/staff/YusukeShimizu_trim.jpg) | Yusuke Shimizu | yu-shimizu@* | Assistant Professor | Particle Phenomenology | A201 |
+| ![picture of professor Inagaki](imgs/staff/inagaki2_2009.JPG "memberimg") | Tomohiro Inagaki | [Personal Page](https://home.hiroshima-u.ac.jp/inagaki/) inagaki@*| Professor | Astroparticle Physics | Media Center |
+| ![picture of professor Nonaka](imgs/staff/nonaka.JPG "memberimg") | Chiho Nonaka | nchiho@* | Professor | Hadronic Theory and Phenomenology | A204 |
+| ![picture of associate professor Morozumi](imgs/staff/morozumi.JPG "memberimg") | Takuya Morozumi | morozumi@* | Associate Professor | Particle Phenomenology | A202 |
+| ![picture of associate professor Ishikawa](imgs/staff/ishikawa_20210104.JPG "memberimg") | Ken-Ichi Ishikawa | ishikawa@# | Associate Professor | Lattice QCD and High Performance Computing | A203 |
+| ![picture of assistant professor Shimizu](imgs/staff/YusukeShimizu_trim.jpg "memberimg") | Yusuke Shimizu | yu-shimizu@* | Assistant Professor | Particle Phenomenology | A201 |
 
 [Introduction pages for all Staff members](/members)
 

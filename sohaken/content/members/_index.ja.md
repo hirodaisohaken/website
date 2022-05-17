@@ -9,11 +9,11 @@ draft: false
 # スタッフ
 | | Name | Links | Title | Research Interests | Room Number |
 | --- | ---- | ---- | ---- | ---- | ---- |
-| ![picture of professor Inagaki](imgs/staff/inagaki2_2009.JPG) | 稲垣　知宏 | [Personal Page](https://home.hiroshima-u.ac.jp/inagaki/) inagaki@* | 教授 | 格子QCD、素粒子物理学 | 情報メディア教育研究センター所属 |
-| ![picture of professor Nonaka](imgs/staff/nonaka.JPG) | 野中　千穂 | nchiho@* | 教授 | ハドロン | A204 |
-| ![picture of associate professor Morozumi](imgs/staff/morozumi.JPG) | 両角　卓也 | [Personal Page](members/morozumi) morozumi@* | 准教授 | 素粒子物理学 | A202 |
-| ![picture of associate professor Ishikawa](imgs/staff/ishikawa_20210104.JPG) | 石川　健一 | ishikawa@# | 准教授 | 格子QCD、HPC | A203 |
-| ![picture of assistant professor Shimizu](imgs/staff/YusukeShimizu_trim.jpg) | 清水　勇介 | yu-shimizu@* | 助教授 | 素粒子物理学 | A201 |
+| ![picture of professor Inagaki](imgs/staff/inagaki2_2009.JPG "memberimg")  | 稲垣　知宏 | [Personal Page](https://home.hiroshima-u.ac.jp/inagaki/) inagaki@* | 教授 | 格子QCD、素粒子物理学 | 情報メディア教育研究センター所属 |
+| ![picture of professor Nonaka](imgs/staff/nonaka.JPG "memberimg") | 野中　千穂 | nchiho@* | 教授 | ハドロン | A204 |
+| ![picture of associate professor Morozumi](imgs/staff/morozumi.JPG "memberimg") | 両角　卓也 | [Personal Page](members/morozumi) morozumi@* | 准教授 | 素粒子物理学 | A202 |
+| ![picture of associate professor Ishikawa](imgs/staff/ishikawa_20210104.JPG "memberimg") | 石川　健一 | ishikawa@# | 准教授 | 格子QCD、HPC | A203 |
+| ![picture of assistant professor Shimizu](imgs/staff/YusukeShimizu_trim.jpg "memberimg") | 清水　勇介 | yu-shimizu@* | 助教授 | 素粒子物理学 | A201 |
 
 #  ポストドク（博士研究員）とビジター
 | Name         | Links         | Title      | Research Interests    | Room Number |
