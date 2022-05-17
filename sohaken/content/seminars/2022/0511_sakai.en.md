@@ -1,10 +1,9 @@
 ---
 title: "Sohaken Seminar: Azumi Sakai (Hiroshima Univ.)"
 date: 2022-05-09T17:01:37+09:00
-description: "This area is displayed in Home page as topic title."
+description: "Wed. 05/11 13:00- (JST) @online (Teams)"
 draft: false
 ---
-<!-- This area up to !--more-- is displayed in Home page as summary. -->
 
 - Speaker:
 Azumi Sakai (Hiroshima Univ.)

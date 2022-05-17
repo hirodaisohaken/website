@@ -2,8 +2,8 @@
 <main class="globalmain">
   <article class="globalfeed">
     <!-- Note that the content for index.html, as a sort of list page, will pull from content/_index.md -->
-    <h1 class="textheading">{{ .Title }}</h1>
     {{ i18n "articles-updated" }}: <time>{{ dateFormat "2006-01-02" .Date }}</time>
+    <h1 class="textheading">{{ .Title }}</h1>
     <br>
     {{ .Content }}
   </article>

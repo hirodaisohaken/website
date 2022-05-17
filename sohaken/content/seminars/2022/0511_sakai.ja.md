@@ -1,15 +1,15 @@
 ---
-title: "素ハ研セミナー: 坂井あずみ (広大)"
+title: "素ハ研セミナー: 坂井あずみ さん (広大)"
 date: 2022-05-09T17:01:34+09:00
-description: "This area is displayed in Home page as topic title."
+description: "05/11 (水) 13:00- (JST) @Teams"
 draft: false
 ---
 <!-- This area up to !--more-- is displayed in Home page as summary. -->
 
 - 発表者:
-坂井あずみ (広大)
+坂井あずみ さん (広大)
 - 日時:
-05/11 (水) 13:00 (JST)からオンライン(Teams)
+05/11 (水) 13:00- (JST) オンライン (Teams)
 - 題目:
 Fluctuations in high-energy heavy-ion collisions
 

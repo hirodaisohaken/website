@@ -1,22 +1,23 @@
 {{ define "main" }}
 <main class="globalmain">
   <article>
+    <h1 class="textheading">{{ .Title }}</h1>
     <!-- Note that the content for index.html, as a sort of list page, will pull from content/_index.md -->
     {{.Content}}
   </article>
 
-  <h1 class="textheading">Listings</h1>
+  <!-- <h1 class="textheading"> {{ i18n "listings" }}</h1> -->
   {{ with .CurrentSection }}
-  <section>
-    <ul><!-- Ranges through content/*/*.md -->
-      {{ range .RegularPages }}
-      <li>
-        <a href="{{.Permalink | relLangURL }}">
-          <time>{{.Date.Format "2006-01-02"}}</time> | {{.Title}}
-        </a>
-      </li>
-      {{ end }}
-    </ul>
+  <section tag="topic">
+    {{ range .RegularPages }}
+    <li>
+      <h2 class="textsubheading">
+        <time>{{.Date.Format "2006-01-02"}}</time> | {{.Title}}
+      </h2>
+      {{ .Summary }}
+      <a href="{{ .RelPermalink }}"> more &hellip; </a>
+    </li>
+    {{ end }}
   </section>
   {{ end }}
 </main>
