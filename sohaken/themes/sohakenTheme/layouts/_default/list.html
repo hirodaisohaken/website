@@ -9,15 +9,17 @@
   <!-- <h1 class="textheading"> {{ i18n "listings" }}</h1> -->
   {{ with .CurrentSection }}
   <section tag="topic">
-    {{ range .RegularPages }}
-    <li>
-      <h2 class="textsubheading">
-        <time>{{.Date.Format "2006-01-02"}}</time> | {{.Title}}
-      </h2>
-      {{ .Summary }}
-      <a href="{{ .RelPermalink }}"> more &hellip; </a>
-    </li>
-    {{ end }}
+    <ul><!-- Ranges through content/*/*.md -->
+      {{ range .RegularPages }}
+      <li>
+        <h2 class="textsubheading">
+          <time>{{.Date.Format "2006-01-02"}}</time> | {{.Title}}
+        </h2>
+        {{ .Summary }}
+        <a href="{{ .RelPermalink }}"> more &hellip; </a>
+      </li>
+      {{ end }}
+    </ul>
   </section>
   {{ end }}
 </main>

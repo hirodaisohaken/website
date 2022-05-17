@@ -11,15 +11,13 @@
     {{ range first 10 .Site.RegularPages }}
     <!--{{/* {{ .Render "featured"}} */}}--> <!-- builds result from _default/featured.html template -->
     {{ if or (eq .Section "seminars") (eq .Section "news") }}
-    <li>
-      <section tag="newstopic">
-        <h2 class="textsubheading">
-          <time>{{ dateFormat "2006-01-02" .Date }}</time> | {{.Title}}
-        </h2>
-        {{ .Description }}
-        <a href="{{ .RelPermalink }}"> more &hellip;</a>
-      </section>
-    </li>
+    <section tag="newstopic">
+      <h2 class="textsubheading">
+        <time>{{ dateFormat "2006-01-02" .Date }}</time> | {{.Title}}
+      </h2>
+      {{ .Description }}
+      <a href="{{ .RelPermalink }}"> more &hellip;</a>
+    </section>
     {{ end }}
     {{ end }}
   </article>
