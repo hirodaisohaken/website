@@ -16,6 +16,8 @@ news: false
 | ![picture of associate professor Ishikawa](imgs/staff/ishikawa_20210104.JPG) | Ken-Ichi Ishikawa | [ishikawa@](mailto:ishikawa@hiroshima-u.ac.jp) | Associate Professor | Lattice QCD and High Performance Computing | A203 |
 | ![picture of assistant professor Shimizu](imgs/staff/YusukeShimizu_trim.jpg) | Yusuke Shimizu | [yu-shimizu@](mailto:yu-shimizu@hiroshima-u.ac.jp) | Assistant Professor | Particle Phenomenology | A201 |
 
+[Introduction pages for all Staff members](/members)
+
 # Post-Doctoral Researchers and Visitors
 | Name | Links | Title | Research Interests | Room Number |
 | ---- | ---- | ---- | ---- | ---- |
