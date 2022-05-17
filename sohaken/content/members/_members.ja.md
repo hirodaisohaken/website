@@ -3,6 +3,7 @@ title: "研究室のメンバー"
 date: 2022-04-11T16:05:13+09:00
 description: "研究室に所属するスタッフ・ポスドク・ビジター・学生の一覧ページ"
 draft: false
+news: false
 ---
 
 <!--more-->

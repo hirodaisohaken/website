@@ -5,19 +5,21 @@
     {{.Content}}
   </article>
 
-  <h1 class="textheading">News</h1>
-  <!-- Ranges through all of content/ -->
-  {{ range first 10 .Site.RegularPages }}
-  <!-- {{ .Render "featured"}} <!-- builds result from _default/featured.html template -->
-  <section tag="newstopic">
-    <h2 class="textsubheading">
-      <time>{{ dateFormat "2006-01-02" .Date }}</time> | {{.Title}}
-    </h2>
-    <p>
+  <article>
+    <h1 class="textheading">News</h1>
+    <!-- Ranges through all the content -->
+    {{ range first 10 .Site.RegularPages }}
+    <!-- {{ .Render "featured"}} <!-- builds result from _default/featured.html template -->
+      {{ if .Params.news }}
+    <section tag="newstopic">
+      <h2 class="textsubheading">
+        <time>{{ dateFormat "2006-01-02" .Date }}</time> | {{.Title}}
+      </h2>
       {{ .Summary }}
-      <a href="{{ .RelPermalink }}">more&hellip;</a>
-    </p>
-  </section>
-  {{ end }}
+      <a href="{{ .RelPermalink }}">more &hellip;</a>
+    </section>
+      {{ end }}
+    {{ end }}
+  </article>
 </main>
 {{ end }}

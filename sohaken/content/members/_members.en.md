@@ -1,7 +1,9 @@
 ---
 title: "Members"
 date: 2022-04-11T16:30:47+09:00
+description: "Our lab Staff, Post-Doc Researchers, Visitors, and Students"
 draft: false
+news: false
 ---
 
 <!--more-->
