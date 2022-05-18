@@ -1,18 +1,20 @@
 
-baseURL = '/'
-
 # Creates automatically menu items depending on "content/<directory>"
 # sectionPagesMenu = "main"
 
 theme = 'sohakenTheme'
 
-paginate = 2 # the number of items that is diplayed in the Home page
+paginate = 10 # the number of items that is diplayed in the Home page
 
 summaryLength = 70
 
 defaultContentLanguage = 'ja'
+
+staticDir = 'static'
+
 [languages] # This will sort though all our language options and keep things neat
     [languages.ja] # the URL for japanese pages will be ~/
+        baseURL = "/"
         languageName = '日本語'
         languageCode = 'ja'
         title = '広島大学｜素粒子ハドロン理論'
@@ -24,7 +26,7 @@ defaultContentLanguage = 'ja'
                 weight = 1
             [[languages.ja.Menu.main]]
                 name = "研究メンバー"
-                url = "/members/"
+                url = "/members/_members"
                 weight = 2
             [[languages.ja.Menu.main]]
                 name = "予定/出来事"
@@ -32,9 +34,10 @@ defaultContentLanguage = 'ja'
                 weight = 3
             [[languages.ja.Menu.main]]
                 name = "研究室へのアクセス"
-                url = "/access/"
+                url = "/access/_access"
                 weight = 4
     [languages.en]  # the URL for english pages will be ~/en
+        baseURL = "/"
         languageName = 'English'
         languageCode = 'en-us'
         title = 'Hiroshima Univ. Particles and Hardon'
@@ -46,7 +49,7 @@ defaultContentLanguage = 'ja'
                 weight = 1
             [[languages.en.Menu.main]]
                 name = "Members"
-                url = "/members/"
+                url = "/members/_members"
                 weight = 2
             [[languages.en.Menu.main]]
                 name = "News/Events"
@@ -54,9 +57,5 @@ defaultContentLanguage = 'ja'
                 weight = 3
             [[languages.en.Menu.main]]
                 name = "Access"
-                url = "/access/"
+                url = "/access/_access"
                 weight = 4
-
-
-[markup.goldmark.renderer] # This allows rendaring raw html codes in md files.
-    unsafe = true          # Now activating for Google maps in Access.

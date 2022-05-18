@@ -1,7 +1,9 @@
 ---
-title: ""
+title: "Hiroshima University Sohaken Home"
 date: 2022-04-11T11:58:35+09:00
 draft: false
+news: false
 ---
 
-This is just some content
+# Welcome!
+This is the homepage for the Hiroshima University Elementary Particle and Hadron Group.
