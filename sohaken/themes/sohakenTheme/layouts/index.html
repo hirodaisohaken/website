@@ -9,16 +9,16 @@
     <h1 class="textheading">News</h1>
     <!-- Ranges through all the content -->
     {{ range first 10 .Site.RegularPages }}
-    <!-- {{ .Render "featured"}} <!-- builds result from _default/featured.html template -->
-      {{ if .Params.news }}
+    <!--{{/* {{ .Render "featured"}} */}}--> <!-- builds result from _default/featured.html template -->
+    {{ if or (eq .Section "seminars") (eq .Section "news") }}
     <section tag="newstopic">
       <h2 class="textsubheading">
         <time>{{ dateFormat "2006-01-02" .Date }}</time> | {{.Title}}
       </h2>
-      {{ .Summary }}
-      <a href="{{ .RelPermalink }}">more &hellip;</a>
+      {{ .Description }}
+      <a href="{{ .RelPermalink }}"> more &hellip;</a>
     </section>
-      {{ end }}
+    {{ end }}
     {{ end }}
   </article>
 </main>
