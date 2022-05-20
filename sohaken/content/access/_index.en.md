@@ -12,3 +12,6 @@ Under Construction
 # Google Maps
 
 {{< google-maps >}}
+
+Ref:
+[Access (Home > Access > Higashi-Hiroshima campus)](https://www.hiroshima-u.ac.jp/en/access)
