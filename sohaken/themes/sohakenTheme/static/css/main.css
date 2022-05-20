@@ -99,9 +99,9 @@ a:hover {
 .globalside ul {
     display: flex;
     flex-direction: column;
-    align-items: center;
+    align-items: left;
     row-gap: 1rem;
-    padding: 10% 10%;
+    padding: 10% 20%;
 }
 .globalside a:hover {
     color: #000000;

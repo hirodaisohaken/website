@@ -1,5 +1,5 @@
 ---
-title: "素ハ研セミナー: 坂井あずみ さん (広大)"
+title: "素ハ研セミナー: 坂井あづみ さん (広大)"
 date: 2022-05-09T17:01:34+09:00
 description: "05/11 (水) 13:00- (JST) @Teams"
 draft: false
@@ -7,7 +7,7 @@ draft: false
 <!-- This area up to !--more-- is displayed in Home page as summary. -->
 
 - 発表者:
-坂井あずみ さん (広大)
+坂井あづみ さん (広大)
 - 日時:
 05/11 (水) 13:00- (JST) オンライン (Teams)
 - 題目:
