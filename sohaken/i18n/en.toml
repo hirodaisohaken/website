@@ -21,3 +21,6 @@
 
 [listings]
     other = "Listings"
+
+[listings-readmore]
+    other = "Read more"

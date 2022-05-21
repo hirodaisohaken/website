@@ -16,7 +16,7 @@
           <time>{{.Date.Format "2006-01-02"}}</time> | {{.Title}}
         </h2>
         {{ .Summary }}
-        <a href="{{ .RelPermalink }}"> more &hellip; </a>
+        <a href="{{ .RelPermalink }}"> {{ i18n "listings-readmore"}} </a>
       </li>
       {{ end }}
     </ul>

@@ -21,3 +21,6 @@
 
 [listings]
     other = "一覧"
+
+[listings-readmore]
+    other = "続きを読む"
