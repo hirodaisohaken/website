@@ -6,7 +6,7 @@ draft: false
 ---
 
 # Staff
-Click on their names for more information.
+Click on their names to learn more about their research and history.
 | | Name | Email | Title | Research Interests | Room Number | Papers |
 | --- | ---- | ---- | ---- | ---- | ---- | ---- |
 | ![picture of professor Inagaki](imgs/staff/inagaki2_2009.JPG "memberimg") | [Tomohiro Inagaki](https://home.hiroshima-u.ac.jp/inagaki/) | inagaki@*| Professor | Astroparticle Physics | Media Center | [Inspire](https://inspirehep.net/search?p=a+tomohiro+inagaki) |
