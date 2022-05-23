@@ -12,7 +12,7 @@ i18n folder holds general translations for English and Japanese.  Content in dif
 ---
 # 日本語
 ## 参考
-- [Hugoのホームページ](https://gethugo.io)
+- [Hugoのホームページ](https://gohugo.io)
 - [Markdown cheatsheet](https://www.markdownguide.org/cheat-sheet)
 - [Git-Flow](https://githubflow.github.io/)
 - [HTML/CSS/JSの参考](https://developer.mozilla.org/en-US/)
@@ -20,7 +20,7 @@ i18n folder holds general translations for English and Japanese.  Content in dif
 ---
 # English
 ## Learning References
-- [Hugo Homepage](https://gethugo.io)
+- [Hugo Homepage](https://gohugo.io)
 - [Markdown cheatsheet](https://www.markdownguide.org/cheat-sheet)
 - [Git-Flow Process](https://githubflow.github.io/)
 - [HTML/CSS/JS References](https://developer.mozilla.org/en-US/)
