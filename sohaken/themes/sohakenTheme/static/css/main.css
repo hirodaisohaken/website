@@ -37,7 +37,7 @@ tbody {
   border-color: #e2e8f0;
 }
 /* Ensure horizontal rules are visible by default */
- hr {border-top-width: 1px;}
+ hr {border-top-width: 30px;}
 /* Work around a Firefox/IE bug where the transparent `button` background
    results in a loss of the default `button` focus styles. */
 button:focus {
@@ -144,7 +144,8 @@ a:hover {
     text-transform: uppercase;
     /* font-weight: 200; /* thin */
     font-size: 1.6rem;
-    /* margin-bottom: 1rem; */
+    margin-top: 1rem;
+    margin-bottom: 0rem;
     border-bottom: solid;
 }
 .textsubheading {
