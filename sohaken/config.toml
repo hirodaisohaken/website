@@ -14,7 +14,7 @@ staticDir = 'static'
 
 [languages] # This will sort though all our language options and keep things neat
     [languages.ja] # the URL for japanese pages will be ~/
-        baseURL = "/"
+        baseURL = "/~d195016/"
         languageName = '日本語'
         languageCode = 'ja'
         title = '広島大学｜素粒子ハドロン理論'
@@ -41,7 +41,7 @@ staticDir = 'static'
                 url = "/access/"
                 weight = 5
     [languages.en]  # the URL for english pages will be ~/en
-        baseURL = "/"
+        baseURL = "/~d195016/en"
         languageName = 'English'
         languageCode = 'en-us'
         title = 'Hiroshima Univ. Particles and Hardon'
