@@ -1,10 +1,15 @@
 ---
-title: "{{ replace .Name "-" " " | title }}"
+title: "{{ replace .Name "-" " " | title }} "
 date: {{ .Date }}
-description: "This area is displayed in Home page as topic title."
+description: ""
 draft: false
 ---
-<!-- This area up to !--more-- is displayed in Home page as summary. -->
+<!--
+NOTE:
+Tilte is displayed as Topic title in Home page and Listing page.
+Description is displayed as Short summary in Home page.
+This area up to !--more-- is displayed as Summary in listing pages linked from sidebar items.
+-->
 
 
 
