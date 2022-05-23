@@ -6,41 +6,41 @@ draft: false
 ---
 
 # スタッフ
-|                                                                                          | 氏名                                                  | email        | 職名   | 分野                  | 居室                             |                                                                                                    |
+|                                                                                          | 氏名                                                  | email        | 職名   | 分野                  | 居室                             |    論文  |
 |------------------------------------------------------------------------------------------|-------------------------------------------------------|--------------|--------|-----------------------|----------------------------------|----------------------------------------------------------------------------------------------------|
-| ![picture of professor Inagaki](imgs/staff/inagaki2_2009.JPG "memberimg")                | [稲垣 知宏](https://home.hiroshima-u.ac.jp/inagaki/) | inagaki@*    | 教授   | 格子QCD、素粒子物理学 | 情報メディア教育研究センター | [論文検索](http://inspirehep.net/search?p=find+author+tomohiro+inagaki)                            |
-| ![picture of professor Nonaka](imgs/staff/nonaka.JPG "memberimg")                        | [野中 千穂](https://seeds.office.hiroshima-u.ac.jp/profile/ja.d02aa0cf7fd0bf59520e17560c007669.html)  | nchiho@*     | 教授   | ハドロン              | A204                             | [論文検索](http://inspirehep.net/search?p=find+author+chiho+nonaka)                                |
-| ![picture of associate professor Morozumi](imgs/staff/morozumi.JPG "memberimg")          | [両角 卓也](members/morozumi)                        | morozumi@*   | 准教授 | 素粒子物理学          | A202                             | [論文検索](http://inspirehep.net/search?p=find+author+t.+morozumi)                                 |
-| ![picture of associate professor Ishikawa](imgs/staff/ishikawa_20210104.JPG "memberimg") | [石川 健一](members/ishikawa)  | ishikawa@#   | 准教授 | 格子QCD、HPC          | A203                             | [論文検索](http://inspirehep.net/search?ln=ja&ln=ja&p=find+author+k.+i.+ishikawa)                  |
-| ![picture of assistant professor Shimizu](imgs/staff/YusukeShimizu_trim.jpg "memberimg") | [清水 勇介](members/shimizu) | yu-shimizu@* | 助教授 | 素粒子物理学          | A201                             | [論文検索](http://inspirehep.net/search?p=author%3AYusuke.Shimizu.1%20AND%20collection%3Aciteable) |
+| ![picture of professor Inagaki](imgs/staff/inagaki2_2009.JPG "memberimg")                | [稲垣 知宏](https://home.hiroshima-u.ac.jp/inagaki/) | inagaki@*    | 教授   | 格子QCD、素粒子物理学 | 情報メディア教育研究センター | [論文検索](https://inspirehep.net/search?p=a+tomohiro+inagaki) |
+| ![picture of professor Nonaka](imgs/staff/nonaka.JPG "memberimg")                        | [野中 千穂](https://seeds.office.hiroshima-u.ac.jp/profile/ja.d02aa0cf7fd0bf59520e17560c007669.html)  | nchiho@*     | 教授   | ハドロン              | A204                             | [論文検索](https://inspirehep.net/search?p=a+chiho+nonaka) |
+| ![picture of associate professor Morozumi](imgs/staff/morozumi.JPG "memberimg")          | [両角 卓也](members/morozumi)                        | morozumi@*   | 准教授 | 素粒子物理学          | A202                             | [論文検索](https://inspirehep.net/search?p=a+t.+morozumi) |
+| ![picture of associate professor Ishikawa](imgs/staff/ishikawa_20210104.JPG "memberimg") | [石川 健一](members/ishikawa)  | ishikawa@#   | 准教授 | 格子QCD、HPC          | A203                             | [論文検索](https://inspirehep.net/search?p=a+k.+i.+ishikawa) |
+| ![picture of assistant professor Shimizu](imgs/staff/YusukeShimizu_trim.jpg "memberimg") | [清水 勇介](members/shimizu) | yu-shimizu@* | 助教授 | 素粒子物理学          | A201                             | [論文検索](https://inspirehep.net/search?p=a+Yusuke.Shimizu.1) |
 
 ---
 
 #  ポスドク研究員とビジター
-| 氏名        | email         | 職名     | 分野                  | 居室 | 論文検索                                                                                             |
-|-------------|---------------|----------|-----------------------|------|------------------------------------------------------------------------------------------------------|
-| 坂井 あづみ | azumi-sakai@* | ポスドク | ハドロン              | A208 | [論文検索](https://inspirehep.net/literature?sort=mostrecent&size=25&page=1&q=f%20a%20Azumi%20Sakai) |
-|             |               |          |                       |      |                                                                                                      |
-|             |               |          |                       |      |                                                                                                      |
-|             |               |          |                       |      |                                                                                                      |
-| 大川 正典   | okawa@sci.*   | ビジター | 格子QCD、素粒子物理学 | A201 | [論文検索](http://inspirehep.net/search?p=author%3AH.Sakamoto.4%20AND%20collection%3Aciteable)       |
-| 坂本 弘樹   | h-sakamoto@*  | ビジター | 格子QCD、素粒子物理学 | A212 | [論文検索](http://inspirehep.net/search?p=find+author+m.+okawa)                                      |
+| 氏名        | email         | 職名     | 分野                  | 居室 | 論文検索  |
+|-------------|---------------|----------|-----------------------|------|---------------------|
+| 坂井 あづみ | azumi-sakai@* | ポスドク | ハドロン              | A208 | [論文検索](https://inspirehep.net/search?p=a+A.Sakai.4) |
+|             |               |          |                       |      |                                 |
+|             |               |          |                       |      |                                 |
+|             |               |          |                       |      |                                 |
+| 大川 正典   | okawa@sci.*   | ビジター | 格子QCD、素粒子物理学 | A201 | [論文検索](https://inspirehep.net/search?p=a+m.+okawa)  |
+| 坂本 弘樹   | h-sakamoto@*  | ビジター | 格子QCD、素粒子物理学 | A212 | [論文検索](https://inspirehep.net/search?p=a+H.Sakamoto.4) |
 
 ---
 
 # 学生
 | 氏名                             | 学年 | email       | 分野         | 部屋 | 論文検索                                                              |
 |----------------------------------|------|-------------|--------------|------|-----------------------------------------------------------------------|
-| 下地 寛武                        | D3   | h-shimoji@* | 素粒子物理学 | B201 | [論文検索](http://inspirehep.net/search?p=find+author+Hiromu+Shimoji) |
-| ベンワ ニコラス                  | D3   | d195016@*   | 素粒子物理学 | A201 | [論文検索]()                                                          |
-| 中村 幸輝                        | D3   |             |              | A212 |                                                                       |
-| 姫 英博                          | D2   |             |              | B201 |                                                                       |
-| 谷口 真彦                        | D2   |             |              | A212 |                                                                       |
-| アルベルトゥス ハリワンサ パヌル | D1   |             |              | A208 |                                                                       |
-| チェンディキア アブディ          | D1   |             |              | A212 |                                                                       |
-| 武井 玄徳                        | D1   |             |              | B201 |                                                                       |
+| 下地 寛武                        | D3   | h-shimoji@* | 素粒子物理学 | B201 | [論文検索](https://inspirehep.net/search?p=a+Hiromu+Shimoji) |
+| ベンワ ニコラス                  | D3   | d195016@*   | 素粒子物理学 | A201 | [論文検索](https://inspirehep.net/search?p=a+N.J.Benoit.1) |
+| 中村 幸輝                        | D3   | k210200@* | ハドロン    | A212 | [論文検索](https://inspirehep.net/search?p=a+K.Nakamura.1) |
+| 姫 英博                          | D2   | d202186@* |  格子QCD    | B201 |                                                                       |
+| 谷口 真彦                        | D2   | masa-taniguchi@* | 素粒子物理学 | A212 | [論文検索](https://inspirehep.net/search?p=a+M.Taniguchi.1)  |
+| アルベルトゥス ハリワンサ パヌル | D1   | panuluh-albertus@* | 素粒子物理学 | A208 |                                                                       |
+| チェンディキア アブディ          | D1   | cendikiaabdi@* |     ハドロン   | A212 |                                                                       |
+| 武井 玄徳                        | D1   | t-hironori@* | 格子QCD、素粒子物理学 | B201 |                                                                       |
 |                                  |      |             |              |      |                                                                       |
-|                                  |      |             |              |      |                                                                       |
+|                                  | **Masters**     |             |              |      |                                                                       |
 |                                  |      |             |              |      |                                                                       |
 | 福永 隆太                        | M2   |             |              | A212 |                                                                       |
 | 井澤 幸邑                        | M2   |             |              | B201 |                                                                       |
@@ -53,7 +53,7 @@ draft: false
 | 高木 隆                          | M1   |             |              | A212 |                                                                       |
 | 前田 玲史                        | M1   |             |              | A212 |                                                                       |
 |                                  |      |             |              |      |                                                                       |
-|                                  |      |             |              |      |                                                                       |
+|                                  | **Bachelors**   |             |              |      |                                                                       |
 |                                  |      |             |              |      |                                                                       |
 | 板谷 さくら                      | B4   |             |              | B201 |                                                                       |
 | 折見 智治                        | B4   |             |              | B201 |                                                                       |

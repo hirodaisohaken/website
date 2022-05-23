@@ -5,40 +5,44 @@ description: "Our lab Staff, Post-Doc Researchers, Visitors, and Students"
 draft: false
 ---
 
-<!--more-->
 # Staff
 Click on their names for more information.
-| | Name | Links | Title | Research Interests | Room Number |
-| --- | ---- | ---- | ---- | ---- | ---- |
-| ![picture of professor Inagaki](imgs/staff/inagaki2_2009.JPG "memberimg") | [Tomohiro Inagaki](https://home.hiroshima-u.ac.jp/inagaki/) | inagaki@*| Professor | Astroparticle Physics | Media Center |
-| ![picture of professor Nonaka](imgs/staff/nonaka.JPG "memberimg") | [Chiho Nonaka](https://seeds.office.hiroshima-u.ac.jp/profile/en.d02aa0cf7fd0bf59520e17560c007669.html) | nchiho@* | Professor | Hadronic Theory and Phenomenology | A204 |
-| ![picture of associate professor Morozumi](imgs/staff/morozumi.JPG "memberimg") | [Takuya Morozumi](members/morozumi) | morozumi@* | Associate Professor | Particle Phenomenology | A202 |
-| ![picture of associate professor Ishikawa](imgs/staff/ishikawa_20210104.JPG "memberimg") | [Ken-Ichi Ishikawa](members/ishikawa) | ishikawa@# | Associate Professor | Lattice QCD and High Performance Computing | A203 |
-| ![picture of assistant professor Shimizu](imgs/staff/YusukeShimizu_trim.jpg "memberimg") | [Yusuke Shimizu](members/shimizu) | yu-shimizu@* | Assistant Professor | Particle Phenomenology | A201 |
+| | Name | Email | Title | Research Interests | Room Number | Papers |
+| --- | ---- | ---- | ---- | ---- | ---- | ---- |
+| ![picture of professor Inagaki](imgs/staff/inagaki2_2009.JPG "memberimg") | [Tomohiro Inagaki](https://home.hiroshima-u.ac.jp/inagaki/) | inagaki@*| Professor | Astroparticle Physics | Media Center | [Inspire](https://inspirehep.net/search?p=a+tomohiro+inagaki) |
+| ![picture of professor Nonaka](imgs/staff/nonaka.JPG "memberimg") | [Chiho Nonaka](https://seeds.office.hiroshima-u.ac.jp/profile/en.d02aa0cf7fd0bf59520e17560c007669.html) | nchiho@* | Professor | Hadronic Theory and Phenomenology | A204 | [Inspire](https://inspirehep.net/search?p=a+chiho+nonaka) |
+| ![picture of associate professor Morozumi](imgs/staff/morozumi.JPG "memberimg") | [Takuya Morozumi](members/morozumi) | morozumi@* | Associate Professor | Particle Phenomenology | A202 | [Inspire](https://inspirehep.net/search?p=a+t.+morozumi) |
+| ![picture of associate professor Ishikawa](imgs/staff/ishikawa_20210104.JPG "memberimg") | [Ken-Ichi Ishikawa](members/ishikawa) | ishikawa@# | Associate Professor | Lattice QCD and High Performance Computing | A203 | [Inspire](https://inspirehep.net/search?p=a+k.+i.+ishikawa) |
+| ![picture of assistant professor Shimizu](imgs/staff/YusukeShimizu_trim.jpg "memberimg") | [Yusuke Shimizu](members/shimizu) | yu-shimizu@* | Assistant Professor | Particle Phenomenology | A201 | [Inspire](https://inspirehep.net/search?p=a+Yusuke.Shimizu.1) |
 
 ---
 
 # Post-Doctoral Researchers and Visitors
-| Name            | Links         | Title               | Research Interests                | Room Number |
-|-----------------|---------------|---------------------|-----------------------------------|-------------|
-| Hiroki Sakamoto | h-sakamoto@*  | Post-Doc Researcher | Astroparticle Physics             | A212        |
-| Azumi Sakai     | azumi-sakai@* | Post-Doc Researcher | Hadronic Theory and Phenomenology | A208        |
-| Masanori Okawa  | okawa@sci.*   | Visitor             | Hadronic Theory                   | A201        |
-| Kei Yamamoto    |               | Visitor             | Particle Phenomenology            |             |
+| Name            | Email         | Title               | Research Interests                | Room Number | Papers |
+|-----------------|---------------|---------------------|-----------------------------------|-------------| ------ |
+| Azumi Sakai     | azumi-sakai@* | Post-Doc Researcher | Hadronic Theory and Phenomenology | A208        | [Inspire](https://inspirehep.net/search?p=a+A.Sakai.4) |
+|   |  |  |  | | |
+|   |  |  |  | | |
+|   |  |  |  | | |
+| Masanori Okawa  | okawa@sci.*   | Visitor             | Lattice QCD and Phenomenology | A201        | [Inspire](https://inspirehep.net/search?p=a+m.+okawa) |
+| Hiroki Sakamoto | h-sakamoto@*  | Visitor             | Astroparticle Physics         | A212        | [Inspire](https://inspirehep.net/search?p=a+H.Sakamoto.4) |
 
 ---
 
 # Students
-| Name                        | Grade | Links       | Research Interests     | Room Number | Papers  |
-|-----------------------------|-------|-------------|------------------------|-------------|---|
-| Hiromu Shimoji              | D3    | h-shimoji@* | Particle Phenomenology | B201        |   |
-| Nicholas J. Benoit          | D3    | d195016@*   | Particle Phenomenology | A201        |   |
-| Kouki Nakamura              | D3    |             |                        | A212        |   |
-| Yingbo Ji                   | D2    |             |                        | B201        |   |
-| Masahiko Taniguchi          | D2    |             |                        | A212        |   |
-| Albertus Hariwangsa Panuluh | D1    |             |                        | A208        |   |
-| Cendikia Abdi               | D1    |             |                        | A212        |   |
-| Hironori Takei              | D1    |             |                        | B201        |   |
+| Name                        | Grade | Email       | Research Interests     | Room Number | Papers  |
+|-----------------------------|-------|-------------|------------------------|-------------|---------|
+| Hiromu Shimoji              | D3    | h-shimoji@* | Particle Phenomenology | B201        | [Inspire](https://inspirehep.net/search?p=a+Hiromu+Shimoji)  |
+| Nicholas J. Benoit          | D3    | d195016@*   | Particle Phenomenology | A201        | [Inspire](https://inspirehep.net/search?p=a+N.J.Benoit.1) |
+| Kouki Nakamura              | D3    | k210200@*   | Hadronic Theory        | A212        | [Inspire](https://inspirehep.net/search?p=a+K.Nakamura.1) |
+| Yingbo Ji                   | D2    | d202186@*   | Lattice QCD            | B201        |   |
+| Masahiko Taniguchi          | D2    | masa-taniguchi@* | Astroparticle Physics  | A212        |  [Inspire](https://inspirehep.net/search?p=a+M.Taniguchi.1) |
+| Albertus Hariwangsa Panuluh | D1    | panuluh-albertus@* | Particle Phenomenology | A208        |   |
+| Cendikia Abdi               | D1    | cendikiaabdi@* | Hadronic Theory        | A212        |   |
+| Hironori Takei              | D1    |  t-hironori@* | Lattle QCD and Phenomenology | B201        |   |
+|   |  |  |  | | |
+|   | **Masters**  |  |  | | |
+|   |  |  |  | | |
 | Ryuta Fukunaga              | M2    |             |                        | A212        |   |
 | Yukimura Izawa              | M2    |             |                        | B201        |   |
 | Satoshi Tanaka              | M2    |             |                        | A208        |   |
@@ -49,6 +53,9 @@ Click on their names for more information.
 | Shounosuke Takeshita        | M1    |             |                        | B201        |   |
 | Ryu Takagi                  | M1    |             |                        | A212        |   |
 | Reishi Maeta                | M1    |             |                        | A212        |   |
+|   |  |  |  | | |
+|   | **Bachelors** |  |  | | |
+|   |  |  |  | | |
 | Sakura Itatani              | B4    |             |                        | B201        |   |
 | Tomoharu Orimi              | B4    |             |                        | B201        |   |
 | Riku Kabayama               | B4    |             |                        | B201        |   |
