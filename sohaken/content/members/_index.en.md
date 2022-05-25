@@ -7,6 +7,7 @@ draft: false
 
 # Staff
 Click on their names to learn more about their research and history.
+
 | | Name | Email | Title | Research Interests | Room Number | Papers |
 | --- | ---- | ---- | ---- | ---- | ---- | ---- |
 | ![picture of professor Inagaki](imgs/staff/inagaki2_2009.JPG "memberimg") | [Tomohiro Inagaki](https://home.hiroshima-u.ac.jp/inagaki/) | inagaki@*| Professor | Astroparticle Physics | Media Center | [Inspire](https://inspirehep.net/search?p=a+tomohiro+inagaki) |
@@ -30,8 +31,9 @@ Click on their names to learn more about their research and history.
 ---
 
 # Students
-| Name                        | Grade | Email       | Research Interests     | Room Number | Papers  |
+| Name                        | Program | Email       | Research Interests     | Room Number | Papers  |
 |-----------------------------|-------|-------------|------------------------|-------------|---------|
+|   | **Doctor**  |  |  | | |
 | Hiromu Shimoji              | D3    | h-shimoji@* | Particle Phenomenology | B201        | [Inspire](https://inspirehep.net/search?p=a+Hiromu+Shimoji)  |
 | Nicholas J. Benoit          | D3    | d195016@*   | Particle Phenomenology | A201        | [Inspire](https://inspirehep.net/search?p=a+N.J.Benoit.1) |
 | Kouki Nakamura              | D3    | k210200@*   | Hadronic Theory        | A212        | [Inspire](https://inspirehep.net/search?p=a+K.Nakamura.1) |
