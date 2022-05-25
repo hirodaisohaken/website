@@ -39,7 +39,7 @@ Click on their names to learn more about their research and history.
 | Kouki Nakamura              | D3    | k210200@*   | Hadronic Theory        | A212        | [Inspire](https://inspirehep.net/search?p=a+K.Nakamura.1) |
 | Yingbo Ji                   | D2    | d202186@*   | Lattice QCD            | B201        |   |
 | Masahiko Taniguchi          | D2    | masa-taniguchi@* | Astroparticle Physics  | A212        |  [Inspire](https://inspirehep.net/search?p=a+M.Taniguchi.1) |
-| Albertus Hariwangsa Panuluh | D1    | panuluh-albertus@* | Particle Phenomenology | A208        |   |
+| Albertus Hariwangsa Panuluh | D1    | panuluh-albertus@* | Particle Phenomenology | A208        | [ORCID]( https://orcid.org/0000-0003-1393-5713) |
 | Cendikia Abdi               | D1    | cendikiaabdi@* | Hadronic Theory        | A212        |   |
 | Hironori Takei              | D1    |  t-hironori@* | Lattle QCD and Phenomenology | B201        |   |
 |   |  |  |  | | |
