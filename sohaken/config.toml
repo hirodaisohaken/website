@@ -4,13 +4,15 @@
 
 theme = 'sohakenTheme'
 
-paginate = 10 # the number of items that is diplayed in the Home page
-
 summaryLength = 70
 
 defaultContentLanguage = 'ja'
 
 staticDir = 'static'
+
+[params]
+    mainSections = ['seminars', 'news'] # section names displayed in Home page
+    paginate = 10 # the number of items diplayed in Home page
 
 [languages] # This will sort though all our language options and keep things neat
     [languages.ja] # the URL for japanese pages will be ~/

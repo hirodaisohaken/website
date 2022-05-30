@@ -8,9 +8,9 @@
   <article>
     <h1 class="textheading">News</h1>
     <!-- Ranges through all the content -->
-    {{ range first 10 .Site.RegularPages }}
+    {{ $pages := where site.RegularPages "Section" "in" site.Params.mainSections }}
+    {{ range first .Site.Params.paginate $pages }}
     <!--{{/* {{ .Render "featured"}} */}}--> <!-- builds result from _default/featured.html template -->
-    {{ if or (eq .Section "seminars") (eq .Section "news") }}
     <section tag="newstopic">
       <h2 class="textsubheading">
         <time>{{ dateFormat "2006-01-02" .Date }}</time> | {{.Title}}
@@ -18,7 +18,6 @@
       {{ .Description }}
       <a href="{{ .RelPermalink }}"> {{ i18n "listings-readmore"}}</a>
     </section>
-    {{ end }}
     {{ end }}
   </article>
 </main>
