@@ -31,9 +31,11 @@ Click on their names to learn more about their research and history.
 ---
 
 # Students
-| Name                        | Program | Email       | Research Interests     | Room Number | Papers  |
+| Name (first last)                        | Program | Email       | Research Interests     | Room Number | Papers  |
 |-----------------------------|-------|-------------|------------------------|-------------|---------|
+|   |  |  |  | | |
 |   | **Doctor**  |  |  | | |
+|   |  |  |  | | |
 | Hiromu Shimoji              | D3    | h-shimoji@* | Particle Phenomenology | B201        | [Inspire](https://inspirehep.net/search?p=a+Hiromu+Shimoji)  |
 | Nicholas J. Benoit          | D3    | d195016@*   | Particle Phenomenology | A201        | [Inspire](https://inspirehep.net/search?p=a+N.J.Benoit.1) |
 | Kouki Nakamura              | D3    | k210200@*   | Hadronic Theory        | A212        | [Inspire](https://inspirehep.net/search?p=a+K.Nakamura.1) |
@@ -45,16 +47,16 @@ Click on their names to learn more about their research and history.
 |   |  |  |  | | |
 |   | **Masters**  |  |  | | |
 |   |  |  |  | | |
-| Ryuta Fukunaga              | M2    |             |                        | A212        |   |
-| Yukimura Izawa              | M2    |             |                        | B201        |   |
-| Satoshi Tanaka              | M2    |             |                        | A208        |   |
-| Shoko Ono                   | M1    |             |                        | A212        |   |
-| Kota Takeuchi               | M1    |             |                        | A212        |   |
-| Taihei Kuroiwa              | M1    |             |                        | A212        |   |
-| Naoki Yoshioka              | M1    |             |                        | B201        |   |
-| Shounosuke Takeshita        | M1    |             |                        | B201        |   |
-| Ryu Takagi                  | M1    |             |                        | A212        |   |
-| Reishi Maeta                | M1    |             |                        | A212        |   |
+| Ryuta Fukunaga              | M2    | m211872@* | Particle Physics | A212        |   |
+| Yukimura Izawa              | M2    | izawa-yukimura@* | Particle Physics | B201        |   |
+| Satoshi Tanaka              | M2    | m210887@* | Particle Physics | A208        |   |
+| Shoko Ono                   | M1    | m225411@* | Particle Physics | A212        |   |
+| Kota Takeuchi               | M1    | m213026@* | Astroparticle Physics | A212        |   |
+| Taihei Kuroiwa              | M1    | m224003@* | Particle Physics | A212        |   |
+| Naoki Yoshioka              | M1    | m221063@* | Particle Physics | B201        |   |
+| Shounosuke Takeshita        | M1    | shonosuke@* | Particle Physics | B201        |   |
+| Ryu Takagi                  | M1    | m226689@* | Particle Physics | A212        |   |
+| Reishi Maeta                | M1    | maeta-reishi@* | Particle Physics | A212        |   |
 |   |  |  |  | | |
 |   | **Bachelors** |  |  | | |
 |   |  |  |  | | |
