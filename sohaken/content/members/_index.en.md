@@ -10,11 +10,11 @@ Click on their names to learn more about their research and history.
 
 | | Name | Email | Title | Research Interests | Room Number | Papers |
 | --- | ---- | ---- | ---- | ---- | ---- | ---- |
-| ![picture of professor Nonaka](imgs/staff/nonaka.JPG "memberimg") | [Chiho Nonaka](https://seeds.office.hiroshima-u.ac.jp/profile/en.d02aa0cf7fd0bf59520e17560c007669.html) | nchiho@* | Professor | Hadronic Theory and Phenomenology | A204 | [Inspire](https://inspirehep.net/search?p=a+chiho+nonaka) |
-| ![picture of professor Inagaki](imgs/staff/inagaki2_2009.JPG "memberimg") | [Tomohiro Inagaki](https://home.hiroshima-u.ac.jp/inagaki/) | inagaki@*| Professor | Astroparticle Physics | Media Center | [Inspire](https://inspirehep.net/search?p=a+tomohiro+inagaki) |
-| ![picture of associate professor Morozumi](imgs/staff/morozumi.JPG "memberimg") | [Takuya Morozumi](members/morozumi) | morozumi@* | Associate Professor | Particle Phenomenology | A202 | [Inspire](https://inspirehep.net/search?p=a+t.+morozumi) |
-| ![picture of associate professor Ishikawa](imgs/staff/ishikawa_20210104.JPG "memberimg") | [Ken-Ichi Ishikawa](members/ishikawa) | ishikawa@# | Associate Professor | Lattice QCD and High Performance Computing | A203 | [Inspire](https://inspirehep.net/search?p=a+k.+i.+ishikawa) |
-| ![picture of assistant professor Shimizu](imgs/staff/YusukeShimizu_trim.jpg "memberimg") | [Yusuke Shimizu](members/shimizu) | yu-shimizu@* | Assistant Professor | Particle Phenomenology | A201 | [Inspire](https://inspirehep.net/search?p=a+Yusuke.Shimizu.1) |
+| ![picture of professor Nonaka](imgs/staff/nonaka_atarashi.jpg "memberimg") | [Chiho Nonaka](https://seeds.office.hiroshima-u.ac.jp/profile/en.d02aa0cf7fd0bf59520e17560c007669.html) | nchiho@* | Professor | Hadronic Theory and Phenomenology | A204 | [Inspire](https://inspirehep.net/search?p=a+chiho+nonaka) |
+| ![picture of professor Inagaki](imgs/staff/inagaki_atarashi.jpg "memberimg") | [Tomohiro Inagaki](https://home.hiroshima-u.ac.jp/inagaki/) | inagaki@*| Professor | Astroparticle Physics | Media Center | [Inspire](https://inspirehep.net/search?p=a+tomohiro+inagaki) |
+| ![picture of associate professor Morozumi](imgs/staff/morozumi_atarashi.jpg "memberimg") | [Takuya Morozumi](members/morozumi) | morozumi@* | Associate Professor | Particle Phenomenology | A202 | [Inspire](https://inspirehep.net/search?p=a+t.+morozumi) |
+| ![picture of associate professor Ishikawa](imgs/staff/ishikawa_20210104.jpg "memberimg") | [Ken-Ichi Ishikawa](members/ishikawa) | ishikawa@# | Associate Professor | Lattice QCD and High Performance Computing | A203 | [Inspire](https://inspirehep.net/search?p=a+k.+i.+ishikawa) |
+| ![picture of assistant professor Shimizu](imgs/staff/YusukeShimizu_atarashi.jpg "memberimg") | [Yusuke Shimizu](members/shimizu) | yu-shimizu@* | Assistant Professor | Particle Phenomenology | A201 | [Inspire](https://inspirehep.net/search?p=a+Yusuke.Shimizu.1) |
 
 ---
 
