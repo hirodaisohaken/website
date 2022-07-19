@@ -27,21 +27,25 @@ staticDir = 'static'
                 url = "/"
                 weight = 1
             [[languages.ja.Menu.main]]
+                name = "About Us"
+                url = "/aboutus/"
+                weight = 2
+            [[languages.ja.Menu.main]]
                 name = "メンバー"
                 url = "/members/"
-                weight = 2
+                weight = 3
             [[languages.ja.Menu.main]]
                 name = "セミナー"
                 url = "/seminars/"
-                weight = 3
+                weight = 4
             [[languages.ja.Menu.main]]
                 name = "出来事"
                 url = "/news/"
-                weight = 4
+                weight = 5
             [[languages.ja.Menu.main]]
                 name = "アクセス"
                 url = "/access/"
-                weight = 5
+                weight = 6
     [languages.en]  # the URL for english pages will be ~/en
         baseURL = "/"
         languageName = 'English'
@@ -54,18 +58,22 @@ staticDir = 'static'
                 url = "/"
                 weight = 1
             [[languages.en.Menu.main]]
+                name = "About Us"
+                url = "/aboutus/"
+                weight = 2
+            [[languages.en.Menu.main]]
                 name = "Members"
                 url = "/members/"
-                weight = 2
+                weight = 3
             [[languages.en.Menu.main]]
                 name = "Seminars"
                 url = "/seminars/"
-                weight = 3
+                weight = 4
             [[languages.en.Menu.main]]
                 name = "News"
                 url = "/news/"
-                weight = 4
+                weight = 5
             [[languages.en.Menu.main]]
                 name = "Access"
                 url = "/access/"
-                weight = 5
+                weight = 6
