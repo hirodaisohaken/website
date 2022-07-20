@@ -58,8 +58,8 @@ This is not a complete list as it is difficult to keep track of everyone and thi
 | | OD at Hiroshima University? |
 | 2018 | Researcher at BRIN in Indonesia |
 | 2019 | Employee of Micron |
-| | Employee of Scandisk |
-| 2020 | Employee of Scandisk |
+| | Employee of Sandisk |
+| 2020 | Employee of Sandisk |
 
 Others for which we do not know the exact year,
 | Time Period | Job Title |
