@@ -5,7 +5,7 @@ description: "研究室に所属するスタッフ・ポスドク・ビジター
 draft: false
 ---
 
-研究や活動については各氏名のリンクから確認できます。
+研究や活動については各氏名のリンクから確認できます。For past members [visit the page here](members/past)。
 
 # スタッフ
 
