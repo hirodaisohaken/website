@@ -30,7 +30,9 @@ Click on their names to learn more about their research and history.
 # Students
 | Name (first last)                        | Program | Email       | Research Interests     | Room Number | Papers  |
 |-----------------------------|-------|-------------|------------------------|-------------|---------|
+
 |   | **Doctors**  |  |  | | |
+|-----------------------------|-------|-------------|------------------------|-------------|---------|
 | Hiromu Shimoji              | D3    | h-shimoji@* | Particle Phenomenology | B201        | [INSPIRE-HEP](https://inspirehep.net/search?p=a+Hiromu+Shimoji)  |
 | Nicholas J. Benoit          | D3    | d195016@*   | Particle Phenomenology | A201        | [INSPIRE-HEP](https://inspirehep.net/search?p=a+N.J.Benoit.1) |
 | Kouki Nakamura              | D3    | k210200@*   | Hadronic Theory        | A212        | [INSPIRE-HEP](https://inspirehep.net/search?p=a+K.Nakamura.1) |
