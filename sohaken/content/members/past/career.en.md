@@ -67,4 +67,4 @@ Others for which we do not know the exact year,
 | 2010's | Professor at Zhejiang University​ in China |
 | | Post Doc at Academia Sinica in Taiwan |
 | | Post Doc at Himeji University |
-| | Teacher at the Indonesia National Defense Academy? |
+| | Teacher at the Republic of Indonesia Defense University (Universitas Pertahanan Indonesia) |
