@@ -8,7 +8,7 @@ draft: false
 # Staff
 Click on their names to learn more about their research and history.
 
-| | Name | Email | Title | Research Interests | Room Number | Papers |
+| | Name (first last) | Email | Title | Research Interests | Room Number | Papers |
 | --- | ---- | ---- | ---- | ---- | ---- | ---- |
 | ![picture of professor Nonaka](imgs/staff/nonaka_atarashi.jpg "memberimg") | [Chiho Nonaka](https://seeds.office.hiroshima-u.ac.jp/profile/en.d02aa0cf7fd0bf59520e17560c007669.html) | nchiho@* | Professor | Hadronic Theory and Phenomenology | A204 | [INSPIRE-HEP](https://inspirehep.net/search?p=a+chiho+nonaka) |
 | ![picture of professor Inagaki](imgs/staff/inagaki_atarashi.jpg "memberimg") | [Tomohiro Inagaki](https://home.hiroshima-u.ac.jp/inagaki/) | inagaki@*| Professor | Astroparticle Physics | Media Center | [INSPIRE-HEP](https://inspirehep.net/search?p=a+tomohiro+inagaki) |
@@ -19,7 +19,7 @@ Click on their names to learn more about their research and history.
 ---
 
 # Post-Doctoral Researchers and Visitors
-| Name            | Email         | Title               | Research Interests                | Room Number | Papers |
+| Name (first last) | Email         | Title               | Research Interests                | Room Number | Papers |
 |-----------------|---------------|---------------------|-----------------------------------|-------------| ------ |
 | Azumi Sakai     | azumi-sakai@* | Post-Doc Researcher | Hadronic Theory and Phenomenology | A208        | [INSPIRE-HEP](https://inspirehep.net/search?p=a+A.Sakai.4) |
 | Masanori Okawa  | okawa@sci.*   | Visitor             | Lattice QCD and Phenomenology | A201        | [INSPIRE-HEP](https://inspirehep.net/search?p=a+m.+okawa) |
@@ -31,7 +31,7 @@ Click on their names to learn more about their research and history.
 | Name (first last)                        | Program | Email       | Research Interests     | Room Number | Papers  |
 |-----------------------------|-------|-------------|------------------------|-------------|---------|
 
-|   | **Doctors**  |  |  | | |
+|   | Doctors  |  |  | | |
 |-----------------------------|-------|-------------|------------------------|-------------|---------|
 | Hiromu Shimoji              | D3    | h-shimoji@* | Particle Phenomenology | B201        | [INSPIRE-HEP](https://inspirehep.net/search?p=a+Hiromu+Shimoji)  |
 | Nicholas J. Benoit          | D3    | d195016@*   | Particle Phenomenology | A201        | [INSPIRE-HEP](https://inspirehep.net/search?p=a+N.J.Benoit.1) |
@@ -43,7 +43,7 @@ Click on their names to learn more about their research and history.
 | Hironori Takei              | D1    |  t-hironori@* | Lattle QCD and Phenomenology | B201        |   |
 
 
-|   | **Masters**  |  |  | | |
+|   | Masters  |  |  | | |
 |----------------------------------|------|-------------|--------------|------|-----------------------------------------------------------------------|
 | Ryuta Fukunaga              | M2    | m211872@* | Particle Physics | A212        |   |
 | Yukimura Izawa              | M2    | izawa-yukimura@* | Particle Physics | B201        |   |
@@ -56,7 +56,7 @@ Click on their names to learn more about their research and history.
 | Ryu Takagi                  | M1    | m226689@* | Particle Physics | A212        |   |
 | Reishi Maeta                | M1    | maeta-reishi@* | Particle Physics | A212        |   |
 
-|   | **Bachelors** |  |  | | |
+|   | Bachelors |  |  | | |
 |----------------------------------|------|-------------|--------------|------|-----------------------------------------------------------------------|
 | Sakura Itatani              | B4    |             |                        | B201        |   |
 | Tomoharu Orimi              | B4    |             |                        | B201        |   |
