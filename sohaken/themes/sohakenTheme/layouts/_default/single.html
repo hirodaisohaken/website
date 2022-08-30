@@ -7,5 +7,9 @@
     <br>
     {{ .Content }}
   </article>
+  <article>
+    <h3>Previous pages</h2>
+    {{ partial "breadcrumbs" . }}
+  </article>
 </main>
 {{ end }}

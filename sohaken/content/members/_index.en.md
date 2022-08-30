@@ -5,7 +5,8 @@ description: "Our lab Staff, Post-Doc Researchers, Visitors, and Students"
 draft: false
 ---
 
-This is all about current members of our lab.  For past members [visit the page here](members/past).
+This is all about current members of our lab.
+
 # Staff
 Click on their names to learn more about their research and history.
 
@@ -13,9 +14,9 @@ Click on their names to learn more about their research and history.
 | --- | ---- | ---- | ---- | ---- | ---- | ---- |
 | ![picture of professor Nonaka](imgs/staff/nonaka.JPG "memberimg") | [Chiho Nonaka](https://seeds.office.hiroshima-u.ac.jp/profile/en.d02aa0cf7fd0bf59520e17560c007669.html) | nchiho@* | Professor | Hadronic Theory and Phenomenology | A204 | [Inspire](https://inspirehep.net/search?p=a+chiho+nonaka) |
 | ![picture of professor Inagaki](imgs/staff/inagaki2_2009.JPG "memberimg") | [Tomohiro Inagaki](https://home.hiroshima-u.ac.jp/inagaki/) | inagaki@*| Professor | Astroparticle Physics | Media Center | [Inspire](https://inspirehep.net/search?p=a+tomohiro+inagaki) |
-| ![picture of associate professor Morozumi](imgs/staff/morozumi.JPG "memberimg") | [Takuya Morozumi](members/morozumi) | morozumi@* | Associate Professor | Particle Phenomenology | A202 | [Inspire](https://inspirehep.net/search?p=a+t.+morozumi) |
-| ![picture of associate professor Ishikawa](imgs/staff/ishikawa_20210104.JPG "memberimg") | [Ken-Ichi Ishikawa](members/ishikawa) | ishikawa@# | Associate Professor | Lattice QCD and High Performance Computing | A203 | [Inspire](https://inspirehep.net/search?p=a+k.+i.+ishikawa) |
-| ![picture of assistant professor Shimizu](imgs/staff/YusukeShimizu_trim.jpg "memberimg") | [Yusuke Shimizu](members/shimizu) | yu-shimizu@* | Assistant Professor | Particle Phenomenology | A201 | [Inspire](https://inspirehep.net/search?p=a+Yusuke.Shimizu.1) |
+| ![picture of associate professor Morozumi](imgs/staff/morozumi.JPG "memberimg") | [Takuya Morozumi](members/staff/morozumi) | morozumi@* | Associate Professor | Particle Phenomenology | A202 | [Inspire](https://inspirehep.net/search?p=a+t.+morozumi) |
+| ![picture of associate professor Ishikawa](imgs/staff/ishikawa_20210104.JPG "memberimg") | [Ken-Ichi Ishikawa](members/staff/ishikawa) | ishikawa@# | Associate Professor | Lattice QCD and High Performance Computing | A203 | [Inspire](https://inspirehep.net/search?p=a+k.+i.+ishikawa) |
+| ![picture of assistant professor Shimizu](imgs/staff/YusukeShimizu_trim.jpg "memberimg") | [Yusuke Shimizu](members/staff/shimizu) | yu-shimizu@* | Assistant Professor | Particle Phenomenology | A201 | [Inspire](https://inspirehep.net/search?p=a+Yusuke.Shimizu.1) |
 
 ---
 
@@ -72,3 +73,10 @@ Click on their names to learn more about their research and history.
 
 We use INSPIER for the search of papers in this page.
 Since the search is made by the author name, the results may include incorrect references.
+
+# Past Members
+
+We keep three lists about past members of our lab.
+1. We have [general career information and the successful opportunities available after graduation.](members/past/career)
+2. We list the [name of past members and their thesis title.](members/past/degrees)
+3. There is a list of [past visitors to our lab.](members/past/visitors)

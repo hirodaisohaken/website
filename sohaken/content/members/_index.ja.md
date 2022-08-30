@@ -5,8 +5,12 @@ description: "研究室に所属するスタッフ・ポスドク・ビジター
 draft: false
 ---
 
+研究室の過去在籍者について
+1. [卒業後の進路](members/past/career)
+2. [学位論文](members/past/degrees)
+3.  [過去のビジター](members/past/visitors)
+
 研究や活動については各氏名のリンクから確認できます。
-過去の在籍者については[こちらのページ](members/past)。
 
 # スタッフ
 
