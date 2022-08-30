@@ -97,7 +97,7 @@ p {
     color: #ffffff;
     background-color: #495464;
 }
-.sidelinks {
+.globalside img {
     max-width: 65%;
 }
 
@@ -112,10 +112,6 @@ p {
     list-style-type: disc;
     list-style-position: inside;
 }
-/* .globalfeed a:hover {
-    color: #000000;
-
-} */
 
 .gmap iframe {
     width: 100%;
@@ -148,6 +144,7 @@ p {
     flex-flow: column wrap;
     align-items: center;
     bottom: 0;
+    color:  #F4F4F2;
     background-color: #495464;
     font-weight: bold;
 }
