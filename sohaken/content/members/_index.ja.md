@@ -5,12 +5,10 @@ description: "研究室に所属するスタッフ・ポスドク・ビジター
 draft: false
 ---
 
-研究室の過去在籍者について
-1. [卒業後の進路](members/past/career)
-2. [学位論文](members/past/degrees)
-3.  [過去のビジター](members/past/visitors)
-
 研究や活動については各氏名のリンクから確認できます。
+
+論文検索は、INSPIREから検索されます。
+名前による検索ですので同姓同名が含まれている可能性がありますのでご承知おきください。
 
 # スタッフ
 
@@ -20,7 +18,7 @@ draft: false
 | ![picture of professor Inagaki](imgs/staff/inagaki2_2009.JPG "memberimg")                | [稲垣 知宏](https://home.hiroshima-u.ac.jp/inagaki/) | inagaki@*    | 教授   | 格子QCD、素粒子物理学 | 情報メディア教育研究センター | [Inspire](https://inspirehep.net/search?p=a+tomohiro+inagaki) |
 | ![picture of associate professor Morozumi](imgs/staff/morozumi.JPG "memberimg")          | [両角 卓也](members/morozumi)                        | morozumi@*   | 准教授 | 素粒子物理学          | A202                             | [Inspire](https://inspirehep.net/search?p=a+t.+morozumi) |
 | ![picture of associate professor Ishikawa](imgs/staff/ishikawa_20210104.JPG "memberimg") | [石川 健一](members/ishikawa)  | ishikawa@#   | 准教授 | 格子QCD、HPC          | A203                             | [Inspire](https://inspirehep.net/search?p=a+k.+i.+ishikawa) |
-| ![picture of assistant professor Shimizu](imgs/staff/YusukeShimizu_trim.jpg "memberimg") | [清水 勇介](members/shimizu) | yu-shimizu@* | 助教授 | 素粒子物理学          | A201                             | [Inspire](https://inspirehep.net/search?p=a+Yusuke.Shimizu.1) |
+| ![picture of assistant professor Shimizu](imgs/staff/YusukeShimizu_trim.jpg "memberimg") | [清水 勇介](https://seeds.office.hiroshima-u.ac.jp/profile/ja.cee8e561825f5e4b520e17560c007669.html) | yu-shimizu@* | 助教授 | 素粒子物理学          | A201                             | [Inspire](https://inspirehep.net/search?p=a+Yusuke.Shimizu.1) |
 
 ---
 
@@ -75,5 +73,6 @@ draft: false
 
 #:@theo.phys.sci.hiroshima-u.ac.jp
 
-論文検索は、INSPIERから検索されます。
-名前による検索ですので同姓同名が含まれている可能性がありますのでご承知おきください。
+---
+
+# 研究室の過去在籍者

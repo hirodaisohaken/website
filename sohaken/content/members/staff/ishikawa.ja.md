@@ -3,9 +3,8 @@ title: "石川 健一"
 date: 2022-05-23T09:39:39+09:00
 description: "石川 健一の研究のホームページ"
 draft: false
+type: "support"
 ---
-
-[return to member listings](members/)
 
 名前 : 石川 健一 (Ken-Ichi Ishikawa)
 
@@ -18,7 +17,9 @@ Address: Hiroshima University, Department of Physical Science,
 Kagamiyama 1-3-1, Higashi Hiroshima, 739-8526, Japan
 
 Office Phone : +81-(0)824-24-7363
+
 Office FAX : +81-(0)824-24-0717
+
 E-mail : ishikawa[アットマーク]phys.sci.hiroshima-u.jp.ac
 
 ---

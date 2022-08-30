@@ -159,3 +159,15 @@ p {
     text-decoration: none;
 }
 
+.breadcrumbs {
+    display: flex;
+    flex-wrap: wrap;
+}
+.breadcrumbs li:last-child {
+    font-weight: bold;
+}
+.breadcrumbs li:not(:last-child)::after {
+    display: inline-block;
+    margin: 0 .25rem;
+    content: ">";
+}

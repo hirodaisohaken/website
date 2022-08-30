@@ -7,10 +7,9 @@
 
   <article>
     <h1 class="textheading">News</h1>
-    <!-- Ranges through all the content -->
     {{ $pages := where site.RegularPages "Section" "in" site.Params.mainSections }}
+    <!-- Ranges through only content specific to the Parameter mainSections, in config.toml, due to how we defined $pages -->
     {{ range first .Site.Params.paginate $pages }}
-    <!--{{/* {{ .Render "featured"}} */}}--> <!-- builds result from _default/featured.html template -->
     <section tag="newstopic">
       <h2 class="textsubheading">
         <time>{{ dateFormat "2006-01-02" .Date }}</time> | {{.Title}}

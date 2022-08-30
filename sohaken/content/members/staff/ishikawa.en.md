@@ -3,9 +3,8 @@ title: "Ken-Ichi Ishikawa"
 date: 2022-05-23T09:39:35+09:00
 description: "Research page of Ken-Ichi Ishikawa"
 draft: false
+type: "support"
 ---
-
-[return to member listings](members/)
 
 Name : Ken-Ichi Ishikawa
 
@@ -15,7 +14,9 @@ Address: Hiroshima University, Department of Physical Science,
 Kagamiyama 1-3-1, Higashi Hiroshima, 739-8526, Japan
 
 Office Phone : +81-(0)824-24-7363
+
 Office FAX : +81-(0)824-24-0717
+
 E-mail : ishikawa[at mark]phys.sci.hiroshima-u.jp.ac
 
 Papers : [inspirehep](http://inspirehep.net/search?p=find+author+k.+i.+ishikawa)
