@@ -5,12 +5,17 @@ description: "Our lab Staff, Post-Doc Researchers, Visitors, and Students"
 draft: false
 ---
 
-This is all about current members of our lab.
+This is all about current and past members of our lab.
+
+* [For Current Staff information]({{< relref path="/members/#staff" >}})
+* [For Current Researchers and Visitors]({{< relref path="/members/#visitors" >}})
+* [For Current Students]({{< relref path="/members/#students" >}})
+* [For past member information including career opportunities and degrees conferred]({{< relref path="/members/#past-members" >}})
+
 We use INSPIRE for the search of papers in this page.
 Because the search is made by the authors name, the results may include incorrect references.
 
 # Staff
-[<>]({{< relref path="/members/#staff" >}})
 Click on their names to learn more about their research and history.
 
 | | Name | Email | Title | Research Interests | Room Number | Papers |
@@ -23,7 +28,7 @@ Click on their names to learn more about their research and history.
 
 ---
 
-# Post-Doctoral Researchers and Visitors
+# Post-Doctoral Researchers and Visitors {#visitors}
 | Name            | Email         | Title               | Research Interests                | Room Number | Papers |
 |-----------------|---------------|---------------------|-----------------------------------|-------------| ------ |
 | Azumi Sakai     | azumi-sakai@* | Post-Doc Researcher | Hadronic Theory and Phenomenology | A208        | [Inspire](https://inspirehep.net/search?p=a+A.Sakai.4) |
