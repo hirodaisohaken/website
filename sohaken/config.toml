@@ -69,3 +69,9 @@ staticDir = 'static'
                 name = "Access"
                 url = "/access/"
                 weight = 5
+
+#[markup]
+#  [markup.tableOfContents]
+#    endLevel = 6
+#    ordered = true
+#    startLevel = 1

@@ -40,7 +40,7 @@ tbody {
   border-color: #e2e8f0;
 }
 /* Ensure horizontal rules are visible by default */
- hr {border-top-width: 30px;}
+hr {border-top-width: 30px;}
 /* Work around a Firefox/IE bug where the transparent `button` background
    results in a loss of the default `button` focus styles. */
 button:focus {
@@ -57,9 +57,9 @@ html, body {
 body {
     margin:0;
 }
-p {
+h1,h2,h3,h4,h5,h6,p,table {
     /* Fix to control overflow from paragaph sizes.  This makes reading easer. See for more information https://tex.stackexchange.com/questions/71172/why-are-default-latex-margins-so-big */
-    max-width: 60rem;
+    max-width: 65rem;
 }
 
 /* Additions for cleaner .html files */
