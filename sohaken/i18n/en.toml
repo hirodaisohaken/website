@@ -3,14 +3,14 @@
     other = "Hiroshima University"
 
 [footer-department]
-    other = """Graduate School of Engineering and Science, Phyiscs Program
+    other = """Graduate School of Advanced Science and Engineering, Physics Program
                (Graduate School of Science, Physics)"""
 
 [footer-address]
     other = """〒739-8526
                 Higashi-hiroshima, Kagamiyama 1-3-1"""
 
-[since]
+[footer-since]
     other = "(Since 2009.8.17)"
 
 [sidelinks]
