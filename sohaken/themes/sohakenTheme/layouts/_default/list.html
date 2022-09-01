@@ -2,11 +2,10 @@
 <main class="globalmain">
   <article>
     <h1 class="textheading">{{ .Title }}</h1>
-    <!-- Note that the content for index.html, as a sort of list page, will pull from content/_index.md -->
+    <!-- Note that the content for an .html file and will pull from _index.md for each section -->
     {{.Content}}
   </article>
 
-  <!-- <h1 class="textheading"> {{ i18n "listings" }}</h1> -->
   {{ with .CurrentSection }}
   <article tag="topic">
     {{ range where .RegularPages "Type" "!=" "support" }}

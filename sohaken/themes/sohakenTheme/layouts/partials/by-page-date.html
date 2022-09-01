@@ -1,0 +1,15 @@
+<!-- Groups content by year according to the "date" field in front matter -->
+{{ range .Pages.GroupByDate "2006" }}
+<h3>{{ .Key }}</h3>
+<ul>
+    {{ range .Pages }}
+    <li>
+    <a href="{{ .Permalink }}">{{ .Title }}</a>
+    <div class="meta">{{ .Date.Format "Mon, Jan 2, 2006" }}</div>
+    </li>
+    {{ end }}
+</ul>
+{{ end }}
+
+
+{{- partial "by-page-date" . -}}
