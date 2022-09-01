@@ -5,7 +5,16 @@ description: "Our lab Staff, Post-Doc Researchers, Visitors, and Students"
 draft: false
 ---
 
-This is all about current members of our lab.  For past members [visit the page here](members/past).
+This is all about current and past members of our lab.
+
+* [For Current Staff information]({{< relref path="/members/#staff" >}})
+* [For Current Researchers and Visitors]({{< relref path="/members/#visitors" >}})
+* [For Current Students]({{< relref path="/members/#students" >}})
+* [For past member information including career opportunities and degrees conferred]({{< relref path="/members/#past-members" >}})
+
+We use INSPIRE for the search of papers in this page.
+Because the search is made by the authors name, the results may include incorrect references.
+
 # Staff
 Click on their names to learn more about their research and history.
 
@@ -13,13 +22,13 @@ Click on their names to learn more about their research and history.
 | --- | ---- | ---- | ---- | ---- | ---- | ---- |
 | ![picture of professor Nonaka](imgs/staff/nonaka_atarashi.jpg "memberimg") | [Chiho Nonaka](https://seeds.office.hiroshima-u.ac.jp/profile/en.d02aa0cf7fd0bf59520e17560c007669.html) | nchiho@* | Professor | Hadronic Theory and Phenomenology | A204 | [INSPIRE-HEP](https://inspirehep.net/search?p=a+chiho+nonaka) |
 | ![picture of professor Inagaki](imgs/staff/inagaki_atarashi.jpg "memberimg") | [Tomohiro Inagaki](https://home.hiroshima-u.ac.jp/inagaki/) | inagaki@*| Professor | Astroparticle Physics | Media Center | [INSPIRE-HEP](https://inspirehep.net/search?p=a+tomohiro+inagaki) |
-| ![picture of associate professor Morozumi](imgs/staff/morozumi_atarashi.jpg "memberimg") | [Takuya Morozumi](members/morozumi) | morozumi@* | Associate Professor | Particle Phenomenology | A202 | [INSPIRE-HEP](https://inspirehep.net/search?p=a+t.+morozumi) |
-| ![picture of associate professor Ishikawa](imgs/staff/ishikawa_20210104.jpg "memberimg") | [Ken-Ichi Ishikawa](members/ishikawa) | ishikawa@# | Associate Professor | Lattice QCD and High Performance Computing | A203 | [INSPIRE-HEP](https://inspirehep.net/search?p=a+k.+i.+ishikawa) |
-| ![picture of assistant professor Shimizu](imgs/staff/YusukeShimizu_atarashi.jpg "memberimg") | [Yusuke Shimizu](members/shimizu) | yu-shimizu@* | Assistant Professor | Particle Phenomenology | A201 | [INSPIRE-HEP](https://inspirehep.net/search?p=a+Yusuke.Shimizu.1) |
+| ![picture of associate professor Morozumi](imgs/staff/morozumi_atarashi.jpg "memberimg") | [Takuya Morozumi](members/staff/morozumi) | morozumi@* | Associate Professor | Particle Phenomenology | A202 | [INSPIRE-HEP](https://inspirehep.net/search?p=a+t.+morozumi) |
+| ![picture of associate professor Ishikawa](imgs/staff/ishikawa_20210104.jpg "memberimg") | [Ken-Ichi Ishikawa](members/staff/ishikawa) | ishikawa@# | Associate Professor | Lattice QCD and High Performance Computing | A203 | [INSPIRE-HEP](https://inspirehep.net/search?p=a+k.+i.+ishikawa) |
+| ![picture of assistant professor Shimizu](imgs/staff/YusukeShimizu_atarashi.jpg "memberimg") | [Yusuke Shimizu](https://seeds.office.hiroshima-u.ac.jp/profile/en.cee8e561825f5e4b520e17560c007669.html) | yu-shimizu@* | Assistant Professor | Particle Phenomenology | A201 | [INSPIRE-HEP](https://inspirehep.net/search?p=a+Yusuke.Shimizu.1) |
 
 ---
 
-# Post-Doctoral Researchers and Visitors
+# Post-Doctoral Researchers and Visitors {#visitors}
 | Name (first last) | Email         | Title               | Research Interests                | Room Number | Papers |
 |-----------------|---------------|---------------------|-----------------------------------|-------------| ------ |
 | Azumi Sakai     | azumi-sakai@* | Post-Doc Researcher | Hadronic Theory and Phenomenology | A208        | [INSPIRE-HEP](https://inspirehep.net/search?p=a+A.Sakai.4) |
@@ -70,5 +79,6 @@ Click on their names to learn more about their research and history.
 
 #:@theo.phys.sci.hiroshima-u.ac.jp
 
-We use INSPIER for the search of papers in this page.
-Since the search is made by the author name, the results may include incorrect references.
+---
+
+# Past Members

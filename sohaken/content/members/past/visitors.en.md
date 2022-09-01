@@ -1,5 +1,5 @@
 ---
-title: "Visitors "
+title: "Visitors"
 date: 2022-07-29T10:30:34+09:00
 description: ""
 draft: false
@@ -21,4 +21,4 @@ It is not a complete listing as the seminar speakers are not included.  Instead,
 | Murase Koichi | Nov. 25 – 27, 2021 | Visiting researcher on hadronic theory. |
 | Umeeda Hiroyuki | May 14, 2021 | Mini lecture on quark-hadron duality and g-2. | 
 | Misumi Tatsuhiro | May 15 – 17, 2021| Intensive lecture on an introduction to resurgence theory. |
-| Aoki Mayumi | Nov 26 – 28, 2019 | Intensive lecture on particle dark matter phenomenology. |
+| Aoki Mayumi | Nov 26 – 28, 2019 | Intensive lecture on particle dark matter phenomenology from Kanazawa University. |

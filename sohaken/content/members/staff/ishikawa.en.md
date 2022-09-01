@@ -1,41 +1,25 @@
 ---
-title: "石川 健一"
-date: 2022-05-23T09:39:39+09:00
-description: "石川 健一の研究のホームページ"
+title: "Ken-Ichi Ishikawa"
+date: 2022-05-23T09:39:35+09:00
+description: "Research page of Ken-Ichi Ishikawa"
 draft: false
+type: "support"
 ---
 
-[return to member listings](members/)
+Name : Ken-Ichi Ishikawa
 
-名前 : 石川 健一 (Ken-Ichi Ishikawa)
-
-専門分野 : 格子QCD, 素粒子物理学
 Research Interests: Lattice QCD, Elementary particle physics
 
-〒739-8526 広島県東広島市鏡山1-3-1
-広島大学理学部物理科学科素粒子論研究室
 Address: Hiroshima University, Department of Physical Science,
 Kagamiyama 1-3-1, Higashi Hiroshima, 739-8526, Japan
 
 Office Phone : +81-(0)824-24-7363
+
 Office FAX : +81-(0)824-24-0717
-E-mail : ishikawa[アットマーク]phys.sci.hiroshima-u.jp.ac
 
----
+E-mail : ishikawa[at mark]phys.sci.hiroshima-u.jp.ac
 
-# 研究助成
-### 平成２４年度科学研究費補助金:
-- 研究種目:基盤研究(C)
-- 研究課題名:「格子QCD理論におけるオーバーラップフェルミオンソルバーの前処理に関する研究」
-- 課題番号:24540276
-### 平成２０-２２年度科学研究費補助金:
-- 研究種目:若手B
-- 研究課題名:「汎用グラフィックカードを用いた格子QCD計算の加速法の研究」
-- 課題番号:20740139 [Nvidia CUDA QCD project page]
-### 平成１６-１８年度科学研究費補助金:
-- 研究種目:若手B
-- 研究課題名:「ダイナミカル格子QCDアルゴリズムの前処理法による改良の研究」
-- 課題番号:16740147
+Papers : [inspirehep](http://inspirehep.net/search?p=find+author+k.+i.+ishikawa)
 
 ---
 
