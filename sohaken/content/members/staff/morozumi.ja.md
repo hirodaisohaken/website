@@ -3,9 +3,8 @@ title: "両角 卓也"
 date: 2022-05-17T17:59:27+09:00
 description: "両角 卓也の研究のホームページ"
 draft: false
+type: "support"
 ---
-
-[return to member listings](members/)
 
 # Introduction
 物質や質量の起源は何か？　　

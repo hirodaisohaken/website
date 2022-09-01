@@ -1,7 +1,3 @@
-/* @tailwind base;
-@tailwind components;
-@tailwind utilities; */
-
 /* Global Settings */
 img {max-width:100%;}
 ol,ul {
@@ -13,16 +9,49 @@ a {
     color: inherit;
     text-decoration: inherit;
 }
+a:link {
+    text-decoration:underline;
+}
+a:hover {
+    color: #495464;
+    text-decoration:underline;
+}
 /* h1,h2,h3,h4,h5,h6,p {
   font-size: inherit;
   font-weight: inherit;
   margin: 0;
 } */
 table {
+    table-layout: fixed;
     width: 100%;
+    border-collapse: collapse;
 }
 tbody {
     text-align: center;
+}
+tbody tr:nth-child(odd) {
+    background-color: #E5E5E5;
+}  
+tbody tr:nth-child(even) {
+    background-color: #f3f3f3;
+}
+thead th:nth-child(1) {
+    width: 20%;
+}
+thead th:nth-child(2) {
+    width: 15%;
+}
+thead th:nth-child(3) {
+    width: 15%;
+}
+thead th:nth-child(4) {
+    width: 15%;
+}
+thead th:nth-child(5) {
+    width: 15%;
+}
+thead th:nth-child(6) {
+    width: 10%;
 }
 /* 1. Prevent padding and border from affecting element width.
     We used to set this in the html element and inherit from
@@ -37,7 +66,7 @@ tbody {
   border-color: #e2e8f0;
 }
 /* Ensure horizontal rules are visible by default */
- hr {border-top-width: 30px;}
+hr {border-top-width: 30px;}
 /* Work around a Firefox/IE bug where the transparent `button` background
    results in a loss of the default `button` focus styles. */
 button:focus {
@@ -54,17 +83,9 @@ html, body {
 body {
     margin:0;
 }
-p {
+h1,h2,h3,h4,h5,h6,p,table {
     /* Fix to control overflow from paragaph sizes.  This makes reading easer. See for more information https://tex.stackexchange.com/questions/71172/why-are-default-latex-margins-so-big */
-    max-width: 60rem;
-}
-a:link {
-    text-decoration:underline;
-}
-
-a:hover {
-    color: blue;
-    text-decoration:underline;
+    max-width: 65rem;
 }
 
 /* Additions for cleaner .html files */
@@ -72,10 +93,8 @@ a:hover {
     min-height: 100vh;
     display: grid;
     grid-template: auto 1fr auto / repeat(12, minmax(0, 1fr));
-    /* font-size: 0.875rem; */
     font-size: 1rem;
-    color: #4a5568; /* Gray */
-    background-color: #f7fafc;
+    background-color: #F4F4F2;
 }
 
 .globalheader {
@@ -83,6 +102,7 @@ a:hover {
     padding: 0.5rem 0.5rem;
     display: flex;
     justify-content: center;
+    background-color: #495464;
 }
 .globalheader a {
     max-width: 40%;
@@ -90,25 +110,21 @@ a:hover {
 
 .globalside {
     grid-column: 1 / 3;
-   /* background: rgba(59,54,107,.8); */
-    background-color: #e3f4e4;  /* #f7fafc */
-    /* color: #fff; */
     font-size: 1.15rem;
-    left: 0;
 }
 .globalside ul {
     display: flex;
     flex-direction: column;
     align-items: left;
     row-gap: 1rem;
-    padding: 10% 20%;
+    padding: 10% 10% 10% 20%;
 }
 .globalside a:hover {
-    color: #000000;
+    color: #ffffff;
+    background-color: #495464;
 }
-.sidelinks {
+.globalside img {
     max-width: 65%;
-    background-color: #424242;
 }
 
 .globalmain {
@@ -116,16 +132,11 @@ a:hover {
     display: flex;
     flex-flow: column wrap;
     row-gap: 1rem;
-    padding: 3rem 3rem;
-    background-color: #edf2f7;
+    padding: 0rem 2rem 2rem;
 }
 .globalfeed ul {
     list-style-type: disc;
     list-style-position: inside;
-}
-.globalfeed a:hover {
-    color: #000000;
-
 }
 
 .gmap iframe {
@@ -136,13 +147,12 @@ a:hover {
 
 .memberimg {
     border-radius: 30%;
-    /* max-width: 75%; */
-    max-width: 200px;
+    max-width: 75%;
+    object-fit: contain;
 }
 
 .textheading {
     text-transform: uppercase;
-    /* font-weight: 200; /* thin */
     font-size: 1.6rem;
     margin-top: 1rem;
     margin-bottom: 0rem;
@@ -152,15 +162,39 @@ a:hover {
     text-transform: capitalize;
     font-size: 1.15rem;
     margin-top: 1rem;
-    /* text-decoration: underline; */
 }
 
 .globalfooter {
     grid-column: 1 / -1;
-    background-color: #1a202c;
-    color: #f7fafc;
     padding: 1.5rem;
-    text-align: center;
+    display: flex;
+    flex-flow: column wrap;
+    align-items: center;
     bottom: 0;
+    color:  #F4F4F2;
+    background-color: #495464;
+    font-weight: bold;
+}
+.globalfooter span {
+    font-size: 75%;
+}
+.globalfooter img {
+    max-width: 150px;
+}
+.globalfooter a {
+    color: none;
+    text-decoration: none;
 }
 
+.breadcrumbs {
+    display: flex;
+    flex-wrap: wrap;
+}
+.breadcrumbs li:last-child {
+    font-weight: bold;
+}
+.breadcrumbs li:not(:last-child)::after {
+    display: inline-block;
+    margin: 0 .25rem;
+    content: ">";
+}
