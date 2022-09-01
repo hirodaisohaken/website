@@ -22,10 +22,36 @@ a:hover {
   margin: 0;
 } */
 table {
+    table-layout: fixed;
     width: 100%;
+    border-collapse: collapse;
 }
 tbody {
     text-align: center;
+}
+tbody tr:nth-child(odd) {
+    background-color: #E5E5E5;
+}  
+tbody tr:nth-child(even) {
+    background-color: #f3f3f3;
+}
+thead th:nth-child(1) {
+    width: 20%;
+}
+thead th:nth-child(2) {
+    width: 15%;
+}
+thead th:nth-child(3) {
+    width: 15%;
+}
+thead th:nth-child(4) {
+    width: 15%;
+}
+thead th:nth-child(5) {
+    width: 15%;
+}
+thead th:nth-child(6) {
+    width: 10%;
 }
 /* 1. Prevent padding and border from affecting element width.
     We used to set this in the html element and inherit from
@@ -121,7 +147,8 @@ h1,h2,h3,h4,h5,h6,p,table {
 
 .memberimg {
     border-radius: 30%;
-    max-width: 200px;
+    max-width: 75%;
+    object-fit: contain;
 }
 
 .textheading {
