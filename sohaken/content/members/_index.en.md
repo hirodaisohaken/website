@@ -5,6 +5,7 @@ description: "Our lab Staff, Post-Doc Researchers, Visitors, and Students"
 draft: false
 ---
 
+This is all about current members of our lab.  For past members [visit the page here](members/past).
 # Staff
 Click on their names to learn more about their research and history.
 
