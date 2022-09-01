@@ -37,14 +37,14 @@ OldContent.forEach(e => {
             `---
             title: "${d.subcategory}: ${d.speaker_en} ${d.affiliation_en == "" ? "(Hiroshima Univ.)" : "(" + d.affiliation_en + ")"}"
             date: ${d.date}
-            description: "${date.toString().split(' ')[0]}. ${date.getMonth() < 10 ? "0" + date.getMonth().toString() : date.getMonth().toString()}/${date.getDate() < 10 ? "0" + date.getDate().toString() : date.getDate().toString()} ${date.toString().split(' ')[4].slice(0,5)}- (JST) ${ ["Teams", "Zoom"].includes(d.place) ? "@online (" + d.place + ")" : d.place}"
+            description: "${date.toString().split(' ')[0]}. ${(date.getMonth() + 1) < 10 ? "0" + (date.getMonth() + 1).toString() : (date.getMonth() + 1).toString()}/${date.getDate() < 10 ? "0" + date.getDate().toString() : date.getDate().toString()} ${date.toString().split(' ')[4].slice(0,5)}- (JST) ${ ["Teams", "Zoom"].includes(d.place) ? "@online (" + d.place + ")" : d.place}"
             draft: false
             ---
             
             - Speaker:
             ${d.speaker_en} ${d.affiliation_en == "" ? "(Hiroshima Univ.)" : "(" + d.affiliation_en + ")"}
             - Date:
-            ${date.toString().split(' ')[0]}. ${date.getMonth() < 10 ? "0" + date.getMonth().toString() : date.getMonth().toString()}/${date.getDate() < 10 ? "0" + date.getDate().toString() : date.getDate().toString()} ${date.toString().split(' ')[4].slice(0,5)}- (JST) ${ ["Teams", "Zoom"].includes(d.place) ? "@online (" + d.place + ")" : d.place}
+            ${date.toString().split(' ')[0]}. ${(date.getMonth() + 1) < 10 ? "0" + (date.getMonth() + 1).toString() : (date.getMonth() + 1).toString()}/${date.getDate() < 10 ? "0" + date.getDate().toString() : date.getDate().toString()} ${date.toString().split(' ')[4].slice(0,5)}- (JST) ${ ["Teams", "Zoom"].includes(d.place) ? "@online (" + d.place + ")" : d.place}
             - Title:
             ${d.title}
             
@@ -53,7 +53,7 @@ OldContent.forEach(e => {
             - Abstract:
             ${d.abstract}
             `.replace(/\n( *)/g, "\n");
-        fs.writeFile("./content/seminars/" + e.year.toString() + "/" + (date.getMonth() < 10 ? "0" + date.getMonth().toString() : date.getMonth().toString()) + (date.getDate() < 10 ? "0" + date.getDate().toString() : date.getDate().toString()) + "_" + d.speaker_en.split(' ').slice(-1) + ".en.md", fileouten, 'utf8', () => {
+        fs.writeFile("./content/seminars/" + e.year.toString() + "/" + ((date.getMonth() + 1) < 10 ? "0" + (date.getMonth() + 1).toString() : (date.getMonth() + 1).toString()) + (date.getDate() < 10 ? "0" + date.getDate().toString() : date.getDate().toString()) + "_" + d.speaker_en.split(' ').slice(-1) + ".en.md", fileouten, 'utf8', () => {
           console.log("DONE! EN " + d.date);
         });
 
@@ -61,14 +61,14 @@ OldContent.forEach(e => {
             `---
             title: "${d.subcategory}: ${d.speaker_ja} ${d.affiliation_ja == "" ? "(広大)" : "(" + d.affiliation_ja + ")"}"
             date: ${d.date}
-            description: "${date.getMonth() < 10 ? "0" + date.getMonth().toString() : date.getMonth().toString()}/${date.getDate() < 10 ? "0" + date.getDate().toString() : date.getDate().toString()} (${JaDay(date.getDay())}) ${date.toString().split(' ')[4].slice(0,5)}- (JST) ${ ["Teams", "Zoom"].includes(d.place) ? "@オンライン (" + d.place + ")" : d.place}"
+            description: "${(date.getMonth() + 1) < 10 ? "0" + (date.getMonth() + 1).toString() : (date.getMonth() + 1).toString()}/${date.getDate() < 10 ? "0" + date.getDate().toString() : date.getDate().toString()} (${JaDay(date.getDay())}) ${date.toString().split(' ')[4].slice(0,5)}- (JST) ${ ["Teams", "Zoom"].includes(d.place) ? "@オンライン (" + d.place + ")" : d.place}"
             draft: false
             ---
             
             - 発表者:
             ${d.speaker_ja} ${d.affiliation_ja == "" ? "(広大)" : "(" + d.affiliation_ja + ")"}
             - 日時:
-            ${date.getMonth() < 10 ? "0" + date.getMonth().toString() : date.getMonth().toString()}/${date.getDate() < 10 ? "0" + date.getDate().toString() : date.getDate().toString()} (${JaDay(date.getDay())}) ${date.toString().split(' ')[4].slice(0,5)}- (JST) ${ ["Teams", "Zoom"].includes(d.place) ? "@オンライン (" + d.place + ")" : d.place}
+            ${(date.getMonth() + 1) < 10 ? "0" + (date.getMonth() + 1).toString() : (date.getMonth() + 1).toString()}/${date.getDate() < 10 ? "0" + date.getDate().toString() : date.getDate().toString()} (${JaDay(date.getDay())}) ${date.toString().split(' ')[4].slice(0,5)}- (JST) ${ ["Teams", "Zoom"].includes(d.place) ? "@オンライン (" + d.place + ")" : d.place}
             - 題目:
             ${d.title}
             
@@ -77,7 +77,7 @@ OldContent.forEach(e => {
             - 概要:
             ${d.abstract}
             `.replace(/\n( *)/g, "\n");
-        fs.writeFile("./content/seminars/" + e.year.toString() + "/" + (date.getMonth() < 10 ? "0" + date.getMonth().toString() : date.getMonth().toString()) + (date.getDate() < 10 ? "0" + date.getDate().toString() : date.getDate().toString()) + "_" + d.speaker_en.split(' ').slice(-1) + ".ja.md", fileoutjp, 'utf8', () => {
+        fs.writeFile("./content/seminars/" + e.year.toString() + "/" + ((date.getMonth() + 1) < 10 ? "0" + (date.getMonth() + 1).toString() : (date.getMonth() + 1).toString()) + (date.getDate() < 10 ? "0" + date.getDate().toString() : date.getDate().toString()) + "_" + d.speaker_en.split(' ').slice(-1) + ".ja.md", fileoutjp, 'utf8', () => {
           console.log("DONE! JP " + d.date);
         });      
     });
