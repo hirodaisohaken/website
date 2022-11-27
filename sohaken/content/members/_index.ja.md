@@ -7,10 +7,10 @@ draft: false
 
 研究室の現在過去在籍者と過去ビジターをまとめたページです。
 
-* [現在スタッフ紹介]({{< relref path="/members/#スタッフ" >}})
-* [現在研究員とビジター紹介]({{< relref path="/members/#ポスドク研究員とビジター" >}})
-* [現在学生紹介]({{< relref path="/members/#学生" >}})
-* [卒業後の進路や学位論文]({{< relref path="/members/#研究室の過去在籍者" >}})
+* [現在スタッフ紹介]({{< ref "/members/_index.ja.md#スタッフ" >}})
+* [現在研究員とビジター紹介]({{< ref "/members/_index.ja.md#ポスドク研究員とビジター" >}})
+* [現在学生紹介]({{< ref "/members/_index.ja.md#学生" >}})
+* [卒業後の進路や学位論文]({{< ref "/members/_index.ja.md#研究室の過去在籍者" >}})
 
 論文検索は、INSPIREから検索されます。
 名前による検索ですので同姓同名が含まれている可能性がありますのでご承知おきください。
@@ -34,7 +34,7 @@ draft: false
 | 坂井 あづみ | azumi-sakai@* | ポスドク | ハドロン              | A208 | [INSPIRE-HEP](https://inspirehep.net/search?p=a+A.Sakai.4) |
 | 大川 正典   | okawa@sci.*   | ビジター | 格子QCD、素粒子物理学 | A201 | [INSPIRE-HEP](https://inspirehep.net/search?p=a+m.+okawa)  |
 | 坂本 弘樹   | h-sakamoto@*  | ビジター | 素粒子・宇宙物理 | A212 | [INSPIRE-HEP](https://inspirehep.net/search?p=a+H.Sakamoto.4) |
-
+| ベンワ ニコラス                  | Visitor   | d195016@*   | 素粒子物理学 | A201 | [INSPIRE-HEP](https://inspirehep.net/search?p=a+N.J.Benoit.1) |
 ---
 
 # 学生
@@ -43,8 +43,6 @@ draft: false
 
 |                                  | 博士     |             |              |      |                                                                       |
 |----------------------------------|------|-------------|--------------|------|-----------------------------------------------------------------------|
-| 下地 寛武                        | D3   | h-shimoji@* | 素粒子物理学 | B201 | [INSPIRE-HEP](https://inspirehep.net/search?p=a+Hiromu+Shimoji) |
-| ベンワ ニコラス                  | D3   | d195016@*   | 素粒子物理学 | A201 | [INSPIRE-HEP](https://inspirehep.net/search?p=a+N.J.Benoit.1) |
 | 中村 幸輝                        | D3   | k210200@* | ハドロン    | A212 | [INSPIRE-HEP](https://inspirehep.net/search?p=a+K.Nakamura.1) |
 | 姫 英博                          | D2   | d202186@* |  格子QCD    | B201 |                                                                       |
 | 谷口 真彦                        | D2   | masa-taniguchi@* | 素粒子・宇宙物理 | A212 | [INSPIRE-HEP](https://inspirehep.net/search?p=a+M.Taniguchi.1)  |

@@ -7,10 +7,10 @@ draft: false
 
 This is all about current and past members of our lab.
 
-* [For Current Staff information]({{< relref path="/members/#staff" >}})
-* [For Current Researchers and Visitors]({{< relref path="/members/#visitors" >}})
-* [For Current Students]({{< relref path="/members/#students" >}})
-* [For past member information including career opportunities and degrees conferred]({{< relref path="/members/#past-members" >}})
+* [For Current Staff information]({{< ref "/members/_index.en.md#staff" >}})
+* [For Current Researchers and Visitors]({{< ref "/members/_index.en.md#visitors" >}})
+* [For Current Students]({{< ref "/members/_index.en.md#students" >}})
+* [For past member information including career opportunities and degrees conferred]({{< ref "/members/_index.en.md#past-members" >}})
 
 We use INSPIRE for the search of papers in this page.
 Because the search is made by the authors name, the results may include incorrect references.
@@ -34,7 +34,7 @@ Click on their names to learn more about their research and history.
 | Azumi Sakai     | azumi-sakai@* | Post-Doc Researcher | Hadronic Theory and Phenomenology | A208        | [INSPIRE-HEP](https://inspirehep.net/search?p=a+A.Sakai.4) |
 | Masanori Okawa  | okawa@sci.*   | Visitor             | Lattice QCD and Phenomenology | A201        | [INSPIRE-HEP](https://inspirehep.net/search?p=a+m.+okawa) |
 | Hiroki Sakamoto | h-sakamoto@*  | Visitor             | Astroparticle Physics         | A212        | [INSPIRE-HEP](https://inspirehep.net/search?p=a+H.Sakamoto.4) |
-
+| Nicholas J. Benoit          | Visitor     | d195016@*   | Particle Phenomenology | A201        | [INSPIRE-HEP](https://inspirehep.net/search?p=a+N.J.Benoit.1) |
 ---
 
 # Students
@@ -43,8 +43,6 @@ Click on their names to learn more about their research and history.
 
 |   | Doctors  |  |  | | |
 |-----------------------------|-------|-------------|------------------------|-------------|---------|
-| Hiromu Shimoji              | D3    | h-shimoji@* | Particle Phenomenology | B201        | [INSPIRE-HEP](https://inspirehep.net/search?p=a+Hiromu+Shimoji)  |
-| Nicholas J. Benoit          | D3    | d195016@*   | Particle Phenomenology | A201        | [INSPIRE-HEP](https://inspirehep.net/search?p=a+N.J.Benoit.1) |
 | Kouki Nakamura              | D3    | k210200@*   | Hadronic Theory        | A212        | [INSPIRE-HEP](https://inspirehep.net/search?p=a+K.Nakamura.1) |
 | Yingbo Ji                   | D2    | d202186@*   | Lattice QCD            | B201        |   |
 | Masahiko Taniguchi          | D2    | masa-taniguchi@* | Astroparticle Physics  | A212        |  [INSPIRE-HEP](https://inspirehep.net/search?p=a+M.Taniguchi.1) |
