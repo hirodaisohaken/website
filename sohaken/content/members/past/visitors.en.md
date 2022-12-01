@@ -16,6 +16,9 @@ It is not a complete listing as the seminar speakers are not included.  Instead,
 
 | Name (last, first) | Date(s) | Purpose | 
 | ---- | ---- | ---- |
+| Tachibana Yasuki | November 16 - 18, 2022 | Visiting researcher on hadronic theory and give intensive lecture. |
+| Miyagi Takayuki | November 11, 2022 | Giving seminar on Nuclear theory. |
+| Umeeda Hiroyuki | October 24 - 28, 2022 | Visiting researcher on particle phenomenology and give seminar. |
 | Yamamoto Kei | April 2019 – March 2022 | PostDoc Researcher on flavor physics phenomenology (JSPS). |
 | Nagao Keiko I. | March 25 – 28, 2022 | Visiting researcher on dark matter phenomenology. |
 | Murase Koichi | Nov. 25 – 27, 2021 | Visiting researcher on hadronic theory. |
