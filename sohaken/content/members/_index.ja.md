@@ -34,7 +34,7 @@ draft: false
 | 坂井 あづみ | azumi-sakai@* | ポスドク | ハドロン              | A208 | [INSPIRE-HEP](https://inspirehep.net/search?p=a+A.Sakai.4) |
 | 大川 正典   | okawa@sci.*   | ビジター | 格子QCD、素粒子物理学 | A201 | [INSPIRE-HEP](https://inspirehep.net/search?p=a+m.+okawa)  |
 | 坂本 弘樹   | h-sakamoto@*  | ビジター | 素粒子・宇宙物理 | A212 | [INSPIRE-HEP](https://inspirehep.net/search?p=a+H.Sakamoto.4) |
-| ベンワ ニコラス                  | Visitor   | d195016@*   | 素粒子物理学 | A201 | [INSPIRE-HEP](https://inspirehep.net/search?p=a+N.J.Benoit.1) |
+| ベンワ ニコラス                  | njbenoit@*  | ビジター   | 素粒子物理学 | A201 | [INSPIRE-HEP](https://inspirehep.net/search?p=a+N.J.Benoit.1) |
 ---
 
 # 学生
@@ -46,7 +46,7 @@ draft: false
 | 中村 幸輝                        | D3   | k210200@* | ハドロン    | A212 | [INSPIRE-HEP](https://inspirehep.net/search?p=a+K.Nakamura.1) |
 | 姫 英博                          | D2   | d202186@* |  格子QCD    | B201 |                                                                       |
 | 谷口 真彦                        | D2   | masa-taniguchi@* | 素粒子・宇宙物理 | A212 | [INSPIRE-HEP](https://inspirehep.net/search?p=a+M.Taniguchi.1)  |
-| アルベルトゥス ハリワンサ パヌル | D1   | panuluh-albertus@* | 素粒子物理学 | A208 | [ORCID]( https://orcid.org/0000-0003-1393-5713) |
+| アルベルトゥス ハリワンサ パヌル | D1   | panuluh-albertus@* | 素粒子物理学 | A208 | [INSPIRE-HEP]( https://inspirehep.net/literature?sort=mostrecent&size=25&page=1&q=aff%20hiroshima%20u.%20and%20a%20%27panuluh%20albertus%27) |
 | チェンディキア アブディ          | D1   | cendikiaabdi@* |     ハドロン   | A212 |                                                                       |
 | 武井 玄徳                        | D1   | t-hironori@* | 格子QCD、素粒子物理学 | B201 |                                                                       |
 

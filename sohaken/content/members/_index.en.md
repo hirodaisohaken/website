@@ -34,7 +34,7 @@ Click on their names to learn more about their research and history.
 | Azumi Sakai     | azumi-sakai@* | Post-Doc Researcher | Hadronic Theory and Phenomenology | A208        | [INSPIRE-HEP](https://inspirehep.net/search?p=a+A.Sakai.4) |
 | Masanori Okawa  | okawa@sci.*   | Visitor             | Lattice QCD and Phenomenology | A201        | [INSPIRE-HEP](https://inspirehep.net/search?p=a+m.+okawa) |
 | Hiroki Sakamoto | h-sakamoto@*  | Visitor             | Astroparticle Physics         | A212        | [INSPIRE-HEP](https://inspirehep.net/search?p=a+H.Sakamoto.4) |
-| Nicholas J. Benoit          | Visitor     | d195016@*   | Particle Phenomenology | A201        | [INSPIRE-HEP](https://inspirehep.net/search?p=a+N.J.Benoit.1) |
+| Nicholas J. Benoit          | njbenoit@*     | Visitor   | Particle Phenomenology | A201        | [INSPIRE-HEP](https://inspirehep.net/search?p=a+N.J.Benoit.1) |
 ---
 
 # Students
@@ -46,7 +46,7 @@ Click on their names to learn more about their research and history.
 | Kouki Nakamura              | D3    | k210200@*   | Hadronic Theory        | A212        | [INSPIRE-HEP](https://inspirehep.net/search?p=a+K.Nakamura.1) |
 | Yingbo Ji                   | D2    | d202186@*   | Lattice QCD            | B201        |   |
 | Masahiko Taniguchi          | D2    | masa-taniguchi@* | Astroparticle Physics  | A212        |  [INSPIRE-HEP](https://inspirehep.net/search?p=a+M.Taniguchi.1) |
-| Albertus Hariwangsa Panuluh | D1    | panuluh-albertus@* | Particle Phenomenology | A208        | [ORCID]( https://orcid.org/0000-0003-1393-5713) |
+| Albertus Hariwangsa Panuluh | D1    | panuluh-albertus@* | Particle Phenomenology | A208        | [INSPIRE-HEP]( https://inspirehep.net/literature?sort=mostrecent&size=25&page=1&q=aff%20hiroshima%20u.%20and%20a%20%27panuluh%20albertus%27) |
 | Cendikia Abdi               | D1    | cendikiaabdi@* | Hadronic Theory        | A212        |   |
 | Hironori Takei              | D1    |  t-hironori@* | Lattle QCD and Phenomenology | B201        |   |
 
