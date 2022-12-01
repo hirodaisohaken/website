@@ -1,5 +1,5 @@
 ---
-title: "Dr. Yusuke Shimizu's paper got most cite at PTEP"
+title: "Dr. Yusuke Shimizu's paper got most cite paper at PTEP"
 date: 2022-11-03T17:48:32+09:00
 description: "Dr. Yusuke Shimizu's paper got most cite at PTEP"
 draft: false

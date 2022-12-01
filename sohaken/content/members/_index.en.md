@@ -44,20 +44,20 @@ Click on their names to learn more about their research and history.
 |   | Doctors  |  |  | | |
 |-----------------------------|-------|-------------|------------------------|-------------|---------|
 | Kouki Nakamura              | D3    | k210200@*   | Hadronic Theory        | A212        | [INSPIRE-HEP](https://inspirehep.net/search?p=a+K.Nakamura.1) |
-| Yingbo Ji                   | D2    | d202186@*   | Lattice QCD            | B201        |   |
-| Masahiko Taniguchi          | D2    | masa-taniguchi@* | Astroparticle Physics  | A212        |  [INSPIRE-HEP](https://inspirehep.net/search?p=a+M.Taniguchi.1) |
-| Albertus Hariwangsa Panuluh | D1    | panuluh-albertus@* | Particle Phenomenology | A208        | [INSPIRE-HEP]( https://inspirehep.net/literature?sort=mostrecent&size=25&page=1&q=aff%20hiroshima%20u.%20and%20a%20%27panuluh%20albertus%27) |
-| Cendikia Abdi               | D1    | cendikiaabdi@* | Hadronic Theory        | A212        |   |
-| Hironori Takei              | D1    |  t-hironori@* | Lattle QCD and Phenomenology | B201        |   |
+| Yingbo Ji                   | D3    | d202186@*   | Lattice QCD            | B201        |    [INSPIRE-HEP](https://inspirehep.net/literature?sort=mostrecent&size=25&page=1&q=aff%20hiroshima%20u.%20and%20a%20Yingbo%20Ji)
+| Masahiko Taniguchi          | D2    | masa-taniguchi@* | Astroparticle Physics  | A212        |  [INSPIRE-HEP](https://inspirehep.net/literature?sort=mostrecent&size=25&page=1&q=aff%20hiroshima%20u.%20and%20a%20Masahiko%20Taniguchi) |
+| Albertus Hariwangsa Panuluh | D2    | panuluh-albertus@* | Particle Phenomenology | A208        | [INSPIRE-HEP]( https://inspirehep.net/literature?sort=mostrecent&size=25&page=1&q=aff%20hiroshima%20u.%20and%20a%20%27panuluh%20albertus%27) |
+| Cendikia Abdi               | D2    | cendikiaabdi@* | Hadronic Theory        | A212        |   |
+| Hironori Takei              | D1    |  t-hironori@* | Lattle QCD and Phenomenology | B201        | [INSPIRE-HEP](https://inspirehep.net/literature?sort=mostrecent&size=25&page=1&q=aff%20hiroshima%20u.%20and%20a%20Hironori%20Takei)  |
 
 
 |   | Masters  |  |  | | |
 |----------------------------------|------|-------------|--------------|------|-----------------------------------------------------------------------|
 | Ryuta Fukunaga              | M2    | m211872@* | Particle Physics | A212        |   |
-| Yukimura Izawa              | M2    | izawa-yukimura@* | Particle Physics | B201        |   |
+| Yukimura Izawa              | M2    | izawa-yukimura@* | Particle Physics | B201        | [INSPIRE-HEP](https://inspirehep.net/literature?sort=mostrecent&size=25&page=1&q=aff%20hiroshima%20u.%20and%20a%20Yukimura%20Izawa)  |
 | Satoshi Tanaka              | M2    | m210887@* | Particle Physics | A208        |   |
 | Shoko Ono                   | M1    | m225411@* | Particle Physics | A212        |   |
-| Kota Takeuchi               | M1    | m213026@* | Astroparticle Physics | A212        |   |
+| Kota Takeuchi               | M2    | m213026@* | Astroparticle Physics | A212        |   |
 | Taihei Kuroiwa              | M1    | m224003@* | Particle Physics | A212        |   |
 | Naoki Yoshioka              | M1    | m221063@* | Particle Physics | B201        |   |
 | Shounosuke Takeshita        | M1    | shonosuke@* | Particle Physics | B201        |   |

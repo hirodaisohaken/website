@@ -44,19 +44,19 @@ draft: false
 |                                  | 博士     |             |              |      |                                                                       |
 |----------------------------------|------|-------------|--------------|------|-----------------------------------------------------------------------|
 | 中村 幸輝                        | D3   | k210200@* | ハドロン    | A212 | [INSPIRE-HEP](https://inspirehep.net/search?p=a+K.Nakamura.1) |
-| 姫 英博                          | D2   | d202186@* |  格子QCD    | B201 |                                                                       |
-| 谷口 真彦                        | D2   | masa-taniguchi@* | 素粒子・宇宙物理 | A212 | [INSPIRE-HEP](https://inspirehep.net/search?p=a+M.Taniguchi.1)  |
-| アルベルトゥス ハリワンサ パヌル | D1   | panuluh-albertus@* | 素粒子物理学 | A208 | [INSPIRE-HEP]( https://inspirehep.net/literature?sort=mostrecent&size=25&page=1&q=aff%20hiroshima%20u.%20and%20a%20%27panuluh%20albertus%27) |
-| チェンディキア アブディ          | D1   | cendikiaabdi@* |     ハドロン   | A212 |                                                                       |
-| 武井 玄徳                        | D1   | t-hironori@* | 格子QCD、素粒子物理学 | B201 |                                                                       |
+| 姫 英博                          | D3   | d202186@* |  格子QCD    | B201 |    [INSPIRE-HEP](https://inspirehep.net/literature?sort=mostrecent&size=25&page=1&q=aff%20hiroshima%20u.%20and%20a%20Yingbo%20Ji)                                                                   |
+| 谷口 真彦                        | D2   | masa-taniguchi@* | 素粒子・宇宙物理 | A212 | [INSPIRE-HEP](https://inspirehep.net/literature?sort=mostrecent&size=25&page=1&q=aff%20hiroshima%20u.%20and%20a%20Masahiko%20Taniguchi)  |
+| アルベルトゥス ハリワンサ パヌル | D2   | panuluh-albertus@* | 素粒子物理学 | A208 | [INSPIRE-HEP]( https://inspirehep.net/literature?sort=mostrecent&size=25&page=1&q=aff%20hiroshima%20u.%20and%20a%20%27panuluh%20albertus%27) |
+| チェンディキア アブディ          | D2   | cendikiaabdi@* |     ハドロン   | A212 |                                                                       |
+| 武井 玄徳                        | D1   | t-hironori@* | 格子QCD、素粒子物理学 | B201 |[INSPIRE-HEP](https://inspirehep.net/literature?sort=mostrecent&size=25&page=1&q=aff%20hiroshima%20u.%20and%20a%20Hironori%20Takei)                                                                       |
 
 |                                  | 修士    |             |              |      |                                                                       |
 |----------------------------------|------|-------------|--------------|------|-----------------------------------------------------------------------|
 | 福永 隆太                        | M2   | m211872@* | 素粒子物理学 | A212 |                                                                       |
-| 井澤 幸邑                        | M2   | izawa-yukimura@* | 素粒子物理学 | B201 |                                                                       |
+| 井澤 幸邑                        | M2   | izawa-yukimura@* | 素粒子物理学 | B201 |[INSPIRE-HEP](https://inspirehep.net/literature?sort=mostrecent&size=25&page=1&q=aff%20hiroshima%20u.%20and%20a%20Yukimura%20Izawa)                                                                       |
 | 田中 怜詞                        | M2   | m210887@* | 素粒子物理学 | A208 |                                                                       |
 | 小野 翔子                        | M1   | m225411@* | 素粒子物理学 | A212 |                                                                       |
-| 竹内 康太                        | M1   | m213026@* | 素粒子・宇宙物理 | A212 |                                                                       |
+| 竹内 康太                        | M2   | m213026@* | 素粒子・宇宙物理 | A212 |                                                                       |
 | 黒岩 太平                        | M1   | m224003@* | 素粒子物理学 | A212 |                                                                       |
 | 吉岡 直樹                        | M1   | m221063@* | 素粒子物理学 | B201 |                                                                       |
 | 竹下 昌之介                      | M1   | shonosuke@* | 素粒子物理学 | B201 |                                                                       |
