@@ -16,9 +16,10 @@ staticDir = 'static'
 
 [languages] # This will sort though all our language options and keep things neat
     [languages.ja] # the URL for japanese pages will be ~/
-        baseURL = "/"
+        baseURL = "https://hirodaisoken.github.io/website/ja/"
         languageName = '日本語'
         languageCode = 'ja'
+        theme = 'sohakenTheme'
         title = '広島大学｜素粒子ハドロン理論'
         weight = 1 # Keeps japanese as the most important
         [languages.ja.Menu]
@@ -47,9 +48,10 @@ staticDir = 'static'
                 url = "/access/"
                 weight = 6
     [languages.en]  # the URL for english pages will be ~/en
-        baseURL = "/"
+        baseURL = "https://hirodaisoken.github.io/website/en/"
         languageName = 'English'
         languageCode = 'en-us'
+        theme = 'sohakenTheme'
         title = 'Hiroshima Univ. Particles and Hardon'
         weight = 2
         [languages.en.Menu]
