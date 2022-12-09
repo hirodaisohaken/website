@@ -1,2 +1,3 @@
-sohaken/public*
+sohaken/public/*
+!sohaken/public/index.html
 sohaken/*vscode*
