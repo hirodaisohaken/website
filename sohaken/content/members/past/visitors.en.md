@@ -16,6 +16,7 @@ It is not a complete listing as the seminar speakers are not included.  Instead,
 
 | Name (last, first) | Date(s) | Purpose | 
 | ---- | ---- | ---- |
+| Onogi Tetsuya | December 7 - 8, 2022 | Giving intensive lecture on domain wall fermion. |
 | Tachibana Yasuki | November 16 - 18, 2022 | Visiting researcher on hadronic theory and give intensive lecture. |
 | Miyagi Takayuki | November 11, 2022 | Giving seminar on Nuclear theory. |
 | Umeeda Hiroyuki | October 24 - 28, 2022 | Visiting researcher on particle phenomenology and give seminar. |
