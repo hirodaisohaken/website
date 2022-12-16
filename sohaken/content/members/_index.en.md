@@ -43,7 +43,7 @@ Click on their names to learn more about their research and history.
 
 |   | Doctors  |  |  | | |
 |-----------------------------|-------|-------------|------------------------|-------------|---------|
-| Kouki Nakamura              | D3    | k210200@*   | Hadronic Theory        | A212        | [INSPIRE-HEP](https://inspirehep.net/search?p=a+K.Nakamura.1) |
+| Kouki Nakamura              | D3    | k210200@*   | Hadronic Theory        | A212        | [INSPIRE-HEP](https://inspirehep.net/literature?sort=mostrecent&size=25&page=1&q=aff%20hiroshima%20u.%20and%20a%20Kouki%20Nakamura) |
 | Yingbo Ji                   | D3    | d202186@*   | Lattice QCD            | B201        |    [INSPIRE-HEP](https://inspirehep.net/literature?sort=mostrecent&size=25&page=1&q=aff%20hiroshima%20u.%20and%20a%20Yingbo%20Ji)
 | Masahiko Taniguchi          | D2    | masa-taniguchi@* | Astroparticle Physics  | A212        |  [INSPIRE-HEP](https://inspirehep.net/literature?sort=mostrecent&size=25&page=1&q=aff%20hiroshima%20u.%20and%20a%20Masahiko%20Taniguchi) |
 | Albertus Hariwangsa Panuluh | D2    | panuluh-albertus@* | Particle Phenomenology | A208        | [INSPIRE-HEP]( https://inspirehep.net/literature?sort=mostrecent&size=25&page=1&q=aff%20hiroshima%20u.%20and%20a%20%27panuluh%20albertus%27) |

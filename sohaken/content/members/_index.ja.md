@@ -43,7 +43,7 @@ draft: false
 
 |                                  | 博士     |             |              |      |                                                                       |
 |----------------------------------|------|-------------|--------------|------|-----------------------------------------------------------------------|
-| 中村 幸輝                        | D3   | k210200@* | ハドロン    | A212 | [INSPIRE-HEP](https://inspirehep.net/search?p=a+K.Nakamura.1) |
+| 中村 幸輝                        | D3   | k210200@* | ハドロン    | A212 | [INSPIRE-HEP](https://inspirehep.net/literature?sort=mostrecent&size=25&page=1&q=aff%20hiroshima%20u.%20and%20a%20Kouki%20Nakamura) |
 | 姫 英博                          | D3   | d202186@* |  格子QCD    | B201 |    [INSPIRE-HEP](https://inspirehep.net/literature?sort=mostrecent&size=25&page=1&q=aff%20hiroshima%20u.%20and%20a%20Yingbo%20Ji)                                                                   |
 | 谷口 真彦                        | D2   | masa-taniguchi@* | 素粒子・宇宙物理 | A212 | [INSPIRE-HEP](https://inspirehep.net/literature?sort=mostrecent&size=25&page=1&q=aff%20hiroshima%20u.%20and%20a%20Masahiko%20Taniguchi)  |
 | アルベルトゥス ハリワンサ パヌル | D2   | panuluh-albertus@* | 素粒子物理学 | A208 | [INSPIRE-HEP]( https://inspirehep.net/literature?sort=mostrecent&size=25&page=1&q=aff%20hiroshima%20u.%20and%20a%20%27panuluh%20albertus%27) |
