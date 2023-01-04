@@ -43,7 +43,7 @@ draft: false
 
 |                                  | 博士     |             |              |      |                                                                       |
 |----------------------------------|------|-------------|--------------|------|-----------------------------------------------------------------------|
-| 中村 幸輝                        | D3   | k210200@* | ハドロン    | A212 | [INSPIRE-HEP](https://inspirehep.net/literature?sort=mostrecent&size=25&page=1&q=aff%20hiroshima%20u.%20and%20a%20Kouki%20Nakamura) |
+| 中村 幸輝                        | D3   | k210200@* | ハドロン    | A212 | [INSPIRE-HEP](https://inspirehep.net/authors/2126437) |
 | 姫 英博                          | D3   | d202186@* |  格子QCD    | B201 |    [INSPIRE-HEP](https://inspirehep.net/literature?sort=mostrecent&size=25&page=1&q=aff%20hiroshima%20u.%20and%20a%20Yingbo%20Ji)                                                                   |
 | 谷口 真彦                        | D2   | masa-taniguchi@* | 素粒子・宇宙物理 | A212 | [INSPIRE-HEP](https://inspirehep.net/literature?sort=mostrecent&size=25&page=1&q=aff%20hiroshima%20u.%20and%20a%20Masahiko%20Taniguchi)  |
 | アルベルトゥス ハリワンサ パヌル | D2   | panuluh-albertus@* | 素粒子物理学 | A208 | [INSPIRE-HEP]( https://inspirehep.net/literature?sort=mostrecent&size=25&page=1&q=aff%20hiroshima%20u.%20and%20a%20%27panuluh%20albertus%27) |
@@ -59,7 +59,7 @@ draft: false
 | 竹内 康太                        | M2   | m213026@* | 素粒子・宇宙物理 | A212 |                                                                       |
 | 黒岩 太平                        | M1   | m224003@* | 素粒子物理学 | A212 |                                                                       |
 | 吉岡 直樹                        | M1   | m221063@* | 素粒子物理学 | B201 |                                                                       |
-| 竹下 昌之介                      | M1   | shonosuke@* | 素粒子物理学 | B201 |                                                                       |
+| 竹下 昌之介                      | M1   | shonosuke@* | 素粒子物理学 | B201 | (https://inspirehep.net/literature?sort=mostrecent&size=25&page=1&q=shonosuke%20takeshita)                                                             |
 | 高木 隆                          | M1   | m226689@* | 素粒子物理学 | A212 |                                                                       |
 | 前田 玲史                        | M1   | maeta-reishi@* | 素粒子物理学 | A212 |                                                                       |
 
