@@ -59,7 +59,7 @@ draft: false
 | 竹内 康太                        | M2   | m213026@* | 素粒子・宇宙物理 | A212 |                                                                       |
 | 黒岩 太平                        | M1   | m224003@* | 素粒子物理学 | A212 |                                                                       |
 | 吉岡 直樹                        | M1   | m221063@* | 素粒子物理学 | B201 |                                                                       |
-| 竹下 昌之介                      | M1   | shonosuke@* | 素粒子物理学 | B201 | (https://inspirehep.net/literature?sort=mostrecent&size=25&page=1&q=shonosuke%20takeshita)                                                             |
+| 竹下 昌之介                      | M1   | shonosuke@* | 素粒子物理学 | B201 | [INSPIRE-HEP](https://inspirehep.net/literature?sort=mostrecent&size=25&page=1&q=shonosuke%20takeshita)                                                             |
 | 高木 隆                          | M1   | m226689@* | 素粒子物理学 | A212 |                                                                       |
 | 前田 玲史                        | M1   | maeta-reishi@* | 素粒子物理学 | A212 |                                                                       |
 

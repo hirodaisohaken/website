@@ -60,7 +60,7 @@ Click on their names to learn more about their research and history.
 | Kota Takeuchi               | M2    | m213026@* | Astroparticle Physics | A212        |   |
 | Taihei Kuroiwa              | M1    | m224003@* | Particle Physics | A212        |   |
 | Naoki Yoshioka              | M1    | m221063@* | Particle Physics | B201        |   |
-| Shonosuke Takeshita        | M1    | shonosuke@* | Particle Physics | B201        | (https://inspirehep.net/literature?sort=mostrecent&size=25&page=1&q=shonosuke%20takeshita)  |
+| Shonosuke Takeshita        | M1    | shonosuke@* | Particle Physics | B201        | [INSPIRE-HEP](https://inspirehep.net/literature?sort=mostrecent&size=25&page=1&q=shonosuke%20takeshita)  |
 | Ryu Takagi                  | M1    | m226689@* | Particle Physics | A212        |   |
 | Reishi Maeta                | M1    | maeta-reishi@* | Particle Physics | A212        |   |
 
