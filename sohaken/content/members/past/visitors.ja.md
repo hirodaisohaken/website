@@ -16,6 +16,7 @@ It is not a complete listing as the seminar speakers are not included.  Instead,
 
 | 名前 (性 名) | 日月（MM/DD/YY） | Purpose | 
 | ---- | ---- | ---- |
+| 青木 真由美 | 01/18/23 – 01/20/23 | Giving seminar on particle phenomenology. |
 | 大野木 哲也 | 12/07/22 - 12/08/22 | Giving intensive lecture on domain wall fermion. |
 | Tachibana Yasuki | 11/16/22 - 11/18/22 | Visiting researcher on hadronic theory and give intensive lecture. |
 | Miyagi Takayuki | 11/11/22 | Giving seminar on Nuclear theory. |

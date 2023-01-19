@@ -16,6 +16,7 @@ It is not a complete listing as the seminar speakers are not included.  Instead,
 
 | Name (last, first) | Date(s) | Purpose | 
 | ---- | ---- | ---- |
+| Aoki Mayumi | January 18 – 20, 2023| Giving seminar on particle phenomenology. |
 | Onogi Tetsuya | December 7 - 8, 2022 | Giving intensive lecture on domain wall fermion. |
 | Tachibana Yasuki | November 16 - 18, 2022 | Visiting researcher on hadronic theory and give intensive lecture. |
 | Miyagi Takayuki | November 11, 2022 | Giving seminar on Nuclear theory. |
