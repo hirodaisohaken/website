@@ -1,6 +1,6 @@
 ---
 title: "Sohaken Seminar: Yu Watanabe (Tokyo University)"
-date: 2023-01-18T15:00:00+09:00
+date: 2023-01-20T15:00:00+09:00
 description: "Fri. 01/20 14:35- (JST) @E210 and Online (Zoom)"
 draft: false
 ---

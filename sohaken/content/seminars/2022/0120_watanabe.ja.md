@@ -1,7 +1,7 @@
 ---
 title: "素ハ研セミナー:  渡邊有 (東京大学国際高等研究所カブリ数物連携宇宙研究機構)"
 date: 2023-01-20T15:00:00+09:00
-description: "01/20 (金)　14:35- (JST) @E210 and Online (Teams)"
+description: "01/20 (金)　14:35- (JST) @E210 and Online (Zoom)"
 draft: false
 ---
 
