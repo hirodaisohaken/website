@@ -1,6 +1,6 @@
 ---
 title: "Sohaken Seminar: Shihwen HOR (Tokyo University)"
-date: 2023-01-25T15:00:00+09:00
+date: 2023-02-24T15:00:00+09:00
 description: "Fri. 02/24 13:00- (JST) @405N Sentanken and Online (Teams)"
 draft: false
 ---
