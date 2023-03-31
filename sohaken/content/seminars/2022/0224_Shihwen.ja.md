@@ -1,5 +1,5 @@
 ---
-title: "素ハ研セミナー:  Shihwen HOR (Tokyo University)
+title: "素ハ研セミナー:  Shihwen HOR (Tokyo University)"
 date: 2023-02-24T15:00:00+09:00
 description: "02/24 (金)　13:00- (JST) @405N Sentanken and Online (Teams)"
 draft: false
