@@ -56,8 +56,8 @@ Click on their names to learn more about their research and history.
 | Ryuta Fukunaga              | M2    | m211872@* | Particle Physics | A212        |   |
 | Yukimura Izawa              | M2    | izawa-yukimura@* | Particle Physics | B201        | [INSPIRE-HEP](https://inspirehep.net/literature?sort=mostrecent&size=25&page=1&q=aff%20hiroshima%20u.%20and%20a%20Yukimura%20Izawa)  |
 | Satoshi Tanaka              | M2    | m210887@* | Particle Physics | A208        |   |
-| Shoko Ono                   | M1    | m225411@* | Particle Physics | A212        |   |
-| Kota Takeuchi               | M2    | m213026@* | Astroparticle Physics | A212        |   |
+| Shoko Ono                   | M1    | m225411@* | Particle Physics | A212        |  |
+| Kota Takeuchi               | M2    | m213026@* | Astroparticle Physics | A212        | [INSPIRE-HEP](https://inspirehep.net/literature?sort=mostrecent&size=25&page=1&q=aff%20hiroshima%20u.%20and%20a%20Kota%20Takeuchi) |
 | Taihei Kuroiwa              | M1    | m224003@* | Particle Physics | A212        |   |
 | Naoki Yoshioka              | M1    | m221063@* | Particle Physics | B201        |   |
 | Shonosuke Takeshita        | M1    | shonosuke@* | Particle Physics | B201        | [INSPIRE-HEP](https://inspirehep.net/literature?sort=mostrecent&size=25&page=1&q=shonosuke%20takeshita)  |
