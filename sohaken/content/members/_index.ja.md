@@ -25,16 +25,16 @@ draft: false
 | ![両角先生の写真](imgs/staff/morozumi_atarashi.jpg "memberimg")          | [両角 卓也](members/staff/morozumi)                        | morozumi@*   | 准教授 | 素粒子物理学          | A202                             | [INSPIRE-HEP](https://inspirehep.net/search?p=a+t.+morozumi) |
 | ![石川先生の写真](imgs/staff/ishikawa_20210104.jpg "memberimg") | [石川 健一](members/staff/ishikawa)  | ishikawa@#   | 准教授 | 格子QCD、HPC          | A203                             | [INSPIRE-HEP](https://inspirehep.net/search?p=a+k.+i.+ishikawa) |
 | ![清水先生の写真](imgs/staff/YusukeShimizu_atarashi.jpg "memberimg") | [清水 勇介](https://seeds.office.hiroshima-u.ac.jp/profile/ja.cee8e561825f5e4b520e17560c007669.html) | yu-shimizu@* | 助教授 | 素粒子物理学          | A201                             | [INSPIRE-HEP](https://inspirehep.net/search?p=a+Yusuke.Shimizu.1) |
-
+| | [坂井 あづみ](https://seeds.office.hiroshima-u.ac.jp/profile/ja.46af3c3051ccaffd520e17560c007669.html) | azumi-sakai@* | 助教授 | ハドロン         | A208                            |  [INSPIRE-HEP](https://inspirehep.net/search?p=a+A.Sakai.4) |
 ---
 
 #  ポスドク研究員とビジター
 | 氏名        | メール         | 職名     | 分野                  | 居室 | 論文検索  |
 |-------------|---------------|----------|-----------------------|------|---------------------|
-| 坂井 あづみ | azumi-sakai@* | ポスドク | ハドロン              | A208 | [INSPIRE-HEP](https://inspirehep.net/search?p=a+A.Sakai.4) |
+| ベンワ ニコラス                  | njbenoit@*  | ポスドク   | ハドロン | A201 | [INSPIRE-HEP](https://inspirehep.net/search?p=a+N.J.Benoit.1) |
 | 大川 正典   | okawa@sci.*   | ビジター | 格子QCD、素粒子物理学 | A201 | [INSPIRE-HEP](https://inspirehep.net/search?p=a+m.+okawa)  |
 | 坂本 弘樹   | h-sakamoto@*  | ビジター | 素粒子・宇宙物理 | A212 | [INSPIRE-HEP](https://inspirehep.net/search?p=a+H.Sakamoto.4) |
-| ベンワ ニコラス                  | njbenoit@*  | ビジター   | 素粒子物理学 | A201 | [INSPIRE-HEP](https://inspirehep.net/search?p=a+N.J.Benoit.1) |
+
 ---
 
 # 学生
@@ -43,34 +43,36 @@ draft: false
 
 |                                  | 博士     |             |              |      |                                                                       |
 |----------------------------------|------|-------------|--------------|------|-----------------------------------------------------------------------|
-| 中村 幸輝                        | D3   | k210200@* | ハドロン    | A212 | [INSPIRE-HEP](https://inspirehep.net/authors/2126437) |
 | 姫 英博                          | D3   | d202186@* |  格子QCD    | B201 |    [INSPIRE-HEP](https://inspirehep.net/literature?sort=mostrecent&size=25&page=1&q=aff%20hiroshima%20u.%20and%20a%20Yingbo%20Ji)                                                                   |
-| 谷口 真彦                        | D2   | masa-taniguchi@* | 素粒子・宇宙物理 | A212 | [INSPIRE-HEP](https://inspirehep.net/literature?sort=mostrecent&size=25&page=1&q=aff%20hiroshima%20u.%20and%20a%20Masahiko%20Taniguchi)  |
+| 谷口 真彦                        | D3   | masa-taniguchi@* | 素粒子・宇宙物理 | A212 | [INSPIRE-HEP](https://inspirehep.net/literature?sort=mostrecent&size=25&page=1&q=aff%20hiroshima%20u.%20and%20a%20Masahiko%20Taniguchi)  |
 | アルベルトゥス ハリワンサ パヌル | D2   | panuluh-albertus@* | 素粒子物理学 | A208 | [INSPIRE-HEP]( https://inspirehep.net/literature?sort=mostrecent&size=25&page=1&q=aff%20hiroshima%20u.%20and%20a%20%27panuluh%20albertus%27) |
 | チェンディキア アブディ          | D2   | cendikiaabdi@* |     ハドロン   | A212 |                                                                       |
-| 武井 玄徳                        | D1   | t-hironori@* | 格子QCD、素粒子物理学 | B201 |[INSPIRE-HEP](https://inspirehep.net/literature?sort=mostrecent&size=25&page=1&q=aff%20hiroshima%20u.%20and%20a%20Hironori%20Takei)                                                                       |
+| 武井 玄徳                        | D2   | t-hironori@* | 格子QCD、素粒子物理学 | B201 |[INSPIRE-HEP](https://inspirehep.net/literature?sort=mostrecent&size=25&page=1&q=aff%20hiroshima%20u.%20and%20a%20Hironori%20Takei) 
+| 井澤 幸邑                        | D1   | izawa-yukimura@* | 素粒子物理学 | B201 |[INSPIRE-HEP](https://inspirehep.net/literature?sort=mostrecent&size=25&page=1&q=aff%20hiroshima%20u.%20and%20a%20Yukimura%20Izawa)                                                                       |                                                                      |
 
 |                                  | 修士    |             |              |      |                                                                       |
 |----------------------------------|------|-------------|--------------|------|-----------------------------------------------------------------------|
 | 福永 隆太                        | M2   | m211872@* | 素粒子物理学 | A212 |                                                                       |
-| 井澤 幸邑                        | M2   | izawa-yukimura@* | 素粒子物理学 | B201 |[INSPIRE-HEP](https://inspirehep.net/literature?sort=mostrecent&size=25&page=1&q=aff%20hiroshima%20u.%20and%20a%20Yukimura%20Izawa)                                                                       |
-| 田中 怜詞                        | M2   | m210887@* | 素粒子物理学 | A208 |                                                                       |
-| 小野 翔子                        | M1   | m225411@* | 素粒子物理学 | A212 |                                                                       |
+| 小野 翔子                        | M2   | m225411@* | 素粒子物理学 | A212 |                                                                       |
 | 竹内 康太                        | M2   | m213026@* | 素粒子・宇宙物理 | A212 | [INSPIRE-HEP](https://inspirehep.net/literature?sort=mostrecent&size=25&page=1&q=aff%20hiroshima%20u.%20and%20a%20Kota%20Takeuchi) |
-| 黒岩 太平                        | M1   | m224003@* | 素粒子物理学 | A212 |                                                                       |
-| 吉岡 直樹                        | M1   | m221063@* | 素粒子物理学 | B201 |                                                                       |
-| 竹下 昌之介                      | M1   | shonosuke@* | 素粒子物理学 | B201 | [INSPIRE-HEP](https://inspirehep.net/literature?sort=mostrecent&size=25&page=1&q=shonosuke%20takeshita)                                                             |
-| 高木 隆                          | M1   | m226689@* | 素粒子物理学 | A212 |                                                                       |
-| 前田 玲史                        | M1   | maeta-reishi@* | 素粒子物理学 | A212 |                                                                       |
+| 黒岩 太平                        | M2   | m224003@* | 素粒子物理学 | A212 |                                                                       |
+| 吉岡 直樹                        | M2   | m221063@* | 素粒子物理学 | B201 |                                                                       |
+| 竹下 昌之介                      | M2   | shonosuke@* | 素粒子物理学 | B201 | [INSPIRE-HEP](https://inspirehep.net/literature?sort=mostrecent&size=25&page=1&q=shonosuke%20takeshita)                                                             |
+| 高木 隆                          | M2   | m226689@* | 素粒子物理学 | A212 |                                                                       |
+| 前田 玲史                        | M2   | maeta-reishi@* | 素粒子物理学 | A212 |                                                                       |
+| 折見 智治                        | M1   |             |              | B201 |                                                                       |   
+| 椛山 理玖                        | M1   |             |              | A212 |                                                                       | 
+| 比嘉 凱亜                        | M1   |             |              | A212 |                                                                       |    
+| 上村　ナオキ                        | M1   |             |              | A212 |                                                                       |                                                                      
 
 |                                  | 学士   |             |              |      |                                                                       |
 |----------------------------------|------|-------------|--------------|------|-----------------------------------------------------------------------|
-| 板谷 さくら                      | B4   |             |              | B201 |                                                                       |
-| 折見 智治                        | B4   |             |              | B201 |                                                                       |
-| 椛山 理玖                        | B4   |             |              | B201 |                                                                       |
-| 片山 颯                          | B4   |             |              | B201 |                                                                       |
-| 比嘉 凱亜                        | B4   |             |              | B201 |                                                                       |
-| 東家 聖                          | B4   |             |              | B201 |                                                                       |
+| ドイ　カズノリ                      | B4   |             |              | B201 |                                                                       |
+| 鏡　鈴                        | B4   |             |              | B201 |                                                                       |
+| 川上　ユマ                        | B4   |             |              | B201 |                                                                       |
+| ソエジマ　コウヘイ                          | B4   |             |              | B201 |                                                                       |
+| 高橋　ショウゴ                        | B4   |             |              | B201 |                                                                       |
+
 
 
 *:hiroshima-u.ac.jp
