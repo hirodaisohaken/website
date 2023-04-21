@@ -25,14 +25,14 @@ Click on their names to learn more about their research and history.
 | ![picture of associate professor Morozumi](imgs/staff/morozumi_atarashi.jpg "memberimg") | [Takuya Morozumi](members/staff/morozumi) | morozumi@* | Associate Professor | Particle Phenomenology | A202 | [INSPIRE-HEP](https://inspirehep.net/search?p=a+t.+morozumi) |
 | ![picture of associate professor Ishikawa](imgs/staff/ishikawa_20210104.jpg "memberimg") | [Ken-Ichi Ishikawa](members/staff/ishikawa) | ishikawa@# | Associate Professor | Lattice QCD and High Performance Computing | A203 | [INSPIRE-HEP](https://inspirehep.net/search?p=a+k.+i.+ishikawa) |
 | ![picture of assistant professor Shimizu](imgs/staff/YusukeShimizu_atarashi.jpg "memberimg") | [Yusuke Shimizu](https://seeds.office.hiroshima-u.ac.jp/profile/en.cee8e561825f5e4b520e17560c007669.html) | yu-shimizu@* | Assistant Professor | Particle Phenomenology | A201 | [INSPIRE-HEP](https://inspirehep.net/search?p=a+Yusuke.Shimizu.1) |
-|  | [Azumi Sakai](https://seeds.office.hiroshima-u.ac.jp/profile/en.cee8e561825f5e4b520e17560c007669.html) | azumi-sakai@* | Assistant Professor | Hadronic Theory and Phenomenology | A208 | [INSPIRE-HEP](https://inspirehep.net/search?p=a+A.Sakai.4) |
+|  | [Azumi Sakai](https://seeds.office.hiroshima-u.ac.jp/profile/en.46af3c3051ccaffd520e17560c007669.html) | azumi-sakai@* | Assistant Professor | Hadronic Theory and Phenomenology | A208 | [INSPIRE-HEP](https://inspirehep.net/search?p=a+A.Sakai.4) |
 
 ---
 
 # Post-Doctoral Researchers and Visitors {#visitors}
 | Name (first last) | Email         | Title               | Research Interests                | Room Number | Papers |
 |-----------------|---------------|---------------------|-----------------------------------|-------------| ------ |
-| Nicholas J. Benoit          | njbenoit@*     | Post-Doc Researcher  | Particle Phenomenology | A201        | [INSPIRE-HEP](https://inspirehep.net/search?p=a+N.J.Benoit.1) |
+| Nicholas J. Benoit          | njbenoit@*     | Post-Doc Researcher  | Hadronic Theory and Phenomenology | A201        | [INSPIRE-HEP](https://inspirehep.net/search?p=a+N.J.Benoit.1) |
 | Masanori Okawa  | okawa@sci.*   | Visitor             | Lattice QCD and Phenomenology | A201        | [INSPIRE-HEP](https://inspirehep.net/search?p=a+m.+okawa) |
 | Hiroki Sakamoto | h-sakamoto@*  | Visitor             | Astroparticle Physics         | A212        | [INSPIRE-HEP](https://inspirehep.net/search?p=a+H.Sakamoto.4) |
 
