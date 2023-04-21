@@ -55,10 +55,10 @@ Therefore, physicists do not regard the Standard Model as a final fundamental th
 : [Astroparticle Physics and General Theory of Relativity](https://home.hiroshima-u.ac.jp/inagaki/)
 
 **Takuya Morozumi**
-: [Particle flavor physics and neutrino phenomenology](members/morozumi)
+: [Particle flavor physics and neutrino phenomenology](members/staff/morozumi)
 
 **Ken-Ichi Ishikawa**
-: [Lattice quantum chromodynamics and high-performance computing](members/ishikawa)
+: [Lattice quantum chromodynamics and high-performance computing](members/staff/ishikawa)
 
 **Yusuke Shimizu**
 : [Neutrino phenomenology and flavor physics theory](members/shimizu)
