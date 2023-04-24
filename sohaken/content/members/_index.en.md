@@ -61,7 +61,7 @@ Click on their names to learn more about their research and history.
 | Shonosuke Takeshita        | M2    | shonosuke@* | Particle Physics | B201        | [INSPIRE-HEP](https://inspirehep.net/literature?sort=mostrecent&size=25&page=1&q=shonosuke%20takeshita)  |
 | Ryu Takagi                  | M2    | m226689@* | Particle Physics | A212        |   |
 | Reishi Maeta                | M2    | maeta-reishi@* | Particle Physics | A212        |   |
-| Tomoharu Orimi              | M1   |             |                        | B201        |   |
+| Tomoharu Orimi              | M1   |   m231944@* | Particle Phenomenology                | B201        |   |
 | Riku Kabayama               | M1    |             |                        | A212       |   |
 | Gaia Higa                   | M1    |             |                        | A212       |   |
 | Naoki Uemura                 | M1    |             |                        | A212       |   |
@@ -70,9 +70,9 @@ Click on their names to learn more about their research and history.
 |----------------------------------|------|-------------|--------------|------|-----------------------------------------------------------------------|
 | Kazunori Doi                 | B4   |             |                        | B201      |   |
 | Rin Kagami                 | B4   |             |                        | B201      |   |
-| Yuma Kawakami                 | B4   |             |                        | B201      |   |
+| Yuma Kawakami                 | B4   |  b206858@*  | Particle Physics | B201      |   |
 | Kohei Soejima                | B4   |             |                        | B201      |   |
-| Shogo Takahashi               | B4   |             |                        | B201      |   |
+| Shogo Takahashi               | B4   |  b203710@*  | Particle Physics | B201      |   |
 
 *:hiroshima-u.ac.jp
 
