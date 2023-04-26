@@ -68,10 +68,10 @@ Click on their names to learn more about their research and history.
 
 |   | Bachelors |  |  | | |
 |----------------------------------|------|-------------|--------------|------|-----------------------------------------------------------------------|
-| Kazunori Doi                 | B4   |             |                        | B201      |   |
-| Rin Kagami                 | B4   |             |                        | B201      |   |
+| Kazunori Doi                 | B4   |  b155371@*  |    Particle Physics      | B201      |   |
+| Rin Kagami                 | B4   |  b206182@* |     Particle Physics     | B201      |   |
 | Yuma Kawakami                 | B4   |  b206858@*  | Particle Physics | B201      |   |
-| Kohei Soejima                | B4   |             |                        | B201      |   |
+| Kohei Soejima                | B4   | b196304@*    |     Particle Physics     | B201      |   |
 | Shogo Takahashi               | B4   |  b203710@*  | Particle Physics | B201      |   |
 
 *:hiroshima-u.ac.jp
