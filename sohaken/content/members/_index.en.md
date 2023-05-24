@@ -62,7 +62,7 @@ Click on their names to learn more about their research and history.
 | Ryu Takagi                  | M2    | m226689@* | Particle Physics | A212        |   |
 | Reishi Maeta                | M2    | maeta-reishi@* | Particle Physics | A212        |   |
 | Tomoharu Orimi              | M1   |   m231944@* | Particle Phenomenology                | B201        |   |
-| Riku Kabayama               | M1    |             |                        | A212       |   |
+| Riku Kabayama               | M1    |  m232649@*           |   Hadronic Theory                     | A212       |   |
 | Gaia Higa                   | M1    | m230839@*  | Particle Physics | A212       |   |
 | Naoki Uemura                 | M1    | m234555@* | Particle Physics | A212       |   |
 
