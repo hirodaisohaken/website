@@ -45,7 +45,7 @@ staticDir = 'static'
                 weight = 5
             [[languages.ja.Menu.main]]
                 name = "アクセス"
-                url = "/access/"
+                url = "/accesstest/"
                 weight = 6
     [languages.en]  # the URL for english pages will be ~/en
         baseURL = "https://hirodaisohaken.github.io/website/en/"
@@ -79,6 +79,31 @@ staticDir = 'static'
                 name = "Access"
                 url = "/access/"
                 weight = 6
+
+
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.extensions]
+      definitionList = true
+      footnote = true
+      linkify = true
+      linkifyProtocol = 'https'
+      strikethrough = true
+      table = true
+      taskList = true
+      typographer = true
+    [markup.goldmark.parser]
+      autoHeadingID = true
+      autoHeadingIDType = 'github'
+      wrapStandAloneImageWithinParagraph = true
+      [markup.goldmark.parser.attribute]
+        block = false
+        title = true
+    [markup.goldmark.renderer]
+      hardWraps = false
+      unsafe = true
+      xhtml = false
 
 
 #[markup]
