@@ -25,23 +25,23 @@ staticDir = 'static'
         [languages.ja.Menu]
             [[languages.ja.Menu.main]]
                 name = "ホーム"
-                url = "/"
+                url = "https://hirodaisohaken.github.io/website/ja/"
                 weight = 1
             [[languages.ja.Menu.main]]
                 name = "About Us"
-                url = "/aboutus/"
+                url = "https://hirodaisohaken.github.io/website/ja/aboutus/"
                 weight = 2
             [[languages.ja.Menu.main]]
                 name = "メンバー"
-                url = "/members/"
+                url = "https://hirodaisohaken.github.io/website/ja/members/"
                 weight = 3
             [[languages.ja.Menu.main]]
                 name = "セミナー"
-                url = "/seminars/"
+                url = "https://hirodaisohaken.github.io/website/ja/seminars/"
                 weight = 4
             [[languages.ja.Menu.main]]
                 name = "出来事"
-                url = "/news/"
+                url = "https://hirodaisohaken.github.io/website/ja/news/"
                 weight = 5
             [[languages.ja.Menu.main]]
                 name = "アクセス"
@@ -57,27 +57,27 @@ staticDir = 'static'
         [languages.en.Menu]
             [[languages.en.Menu.main]]
                 name = "Home"
-                url = "/"
+                url = "https://hirodaisohaken.github.io/website/en/"
                 weight = 1
             [[languages.en.Menu.main]]
                 name = "About Us"
-                url = "/aboutus/"
+                url = "https://hirodaisohaken.github.io/website/en/aboutus/"
                 weight = 2
             [[languages.en.Menu.main]]
                 name = "Members"
-                url = "/members/"
+                url = "https://hirodaisohaken.github.io/website/en/members/"
                 weight = 3
             [[languages.en.Menu.main]]
                 name = "Seminars"
-                url = "/seminars/"
+                url = "https://hirodaisohaken.github.io/website/en/seminars/"
                 weight = 4
             [[languages.en.Menu.main]]
                 name = "News"
-                url = "/news/"
+                url = "https://hirodaisohaken.github.io/website/en/news/"
                 weight = 5
             [[languages.en.Menu.main]]
                 name = "Access"
-                url = "/access/"
+                url = "https://hirodaisohaken.github.io/website/en/access/"
                 weight = 6
 
 
