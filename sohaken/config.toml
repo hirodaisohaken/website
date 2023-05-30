@@ -10,14 +10,13 @@ defaultContentLanguage = 'ja'
 
 staticDir = 'static'
 
-baseURL = "https://hirodaisohaken.github.io/website/
-
 [params]
     mainSections = ['seminars', 'news'] # section names displayed in Home page
     paginate = 10 # the number of items diplayed in Home page
 
 [languages] # This will sort though all our language options and keep things neat
     [languages.ja] # the URL for japanese pages will be ~/
+        baseURL = "https://hirodaisohaken.github.io/website/ja/"
         languageName = '日本語'
         languageCode = 'ja'
         theme = 'sohakenTheme'
@@ -46,7 +45,7 @@ baseURL = "https://hirodaisohaken.github.io/website/
                 weight = 5
             [[languages.ja.Menu.main]]
                 name = "アクセス"
-                url = "/access/"
+                url = "https://hirodaisohaken.github.io/website/ja/access/"
                 weight = 6
     [languages.en]  # the URL for english pages will be ~/en
         baseURL = "https://hirodaisohaken.github.io/website/en/"
