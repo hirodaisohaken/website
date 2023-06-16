@@ -18,27 +18,27 @@ draft: false
 # スタッフ
 研究や活動については各氏名のリンクから確認できます。
 
-|                                                                                          | 氏名                                                  | メール        | 職名   | 分野                  | 居室                             |    論文  |
-|------------------------------------------------------------------------------------------|-------------------------------------------------------|--------------|--------|-----------------------|----------------------------------|----------------------------------------------------------------------------------------------------|
-| ![野中先生の写真](imgs/staff/nonaka_atarashi.jpg "memberimg")                        | [野中 千穂](https://seeds.office.hiroshima-u.ac.jp/profile/ja.d02aa0cf7fd0bf59520e17560c007669.html)  | nchiho@*     | 教授   | ハドロン              | A204                             | [INSPIRE-HEP](https://inspirehep.net/search?p=a+chiho+nonaka) |
-| ![稲垣先生の写真](imgs/staff/inagaki_atarashi.jpg "memberimg")                | [稲垣 知宏](https://home.hiroshima-u.ac.jp/inagaki/) | inagaki@*    | 教授   | 素粒子・宇宙物理 | 情報メディア教育研究センター | [INSPIRE-HEP](https://inspirehep.net/search?p=a+tomohiro+inagaki) |
-| ![両角先生の写真](imgs/staff/morozumi_atarashi.jpg "memberimg")          | [両角 卓也](members/staff/morozumi)                        | morozumi@*   | 准教授 | 素粒子物理学          | A202                             | [INSPIRE-HEP](https://inspirehep.net/search?p=a+t.+morozumi) |
+|                                                                                          | 氏名                                                  | メール        | 職名               | 居室                             |    論文  |
+|------------------------------------------------------------------------------------------|-------------------------------------------------------|--------------|--------|----------------------------------|----------------------------------------------------------------------------------------------------|
+| ![野中先生の写真](imgs/staff/nonaka_atarashi.jpg "memberimg")                        | [野中 千穂](https://seeds.office.hiroshima-u.ac.jp/profile/ja.d02aa0cf7fd0bf59520e17560c007669.html)  | nchiho@*     | 教授   | A204                             | [INSPIRE-HEP](https://inspirehep.net/search?p=a+chiho+nonaka) |
+| ![稲垣先生の写真](imgs/staff/inagaki_atarashi.jpg "memberimg")                | [稲垣 知宏](https://home.hiroshima-u.ac.jp/inagaki/) | inagaki@*    | 教授    | 情報メディア教育研究センター | [INSPIRE-HEP](https://inspirehep.net/search?p=a+tomohiro+inagaki) |
+| ![両角先生の写真](imgs/staff/morozumi_atarashi.jpg "memberimg")          | [両角 卓也](members/staff/morozumi)                        | morozumi@*   | 准教授 | A202                             | [INSPIRE-HEP](https://inspirehep.net/search?p=a+t.+morozumi) |
 | ![石川先生の写真](imgs/staff/ishikawa_20210104.jpg "memberimg") | [石川 健一](members/staff/ishikawa)  | ishikawa@#   | 准教授 | 格子QCD、HPC          | A203                             | [INSPIRE-HEP](https://inspirehep.net/search?p=a+k.+i.+ishikawa) |
-| ![清水先生の写真](imgs/staff/YusukeShimizu_atarashi.jpg "memberimg") | [清水 勇介](https://seeds.office.hiroshima-u.ac.jp/profile/ja.cee8e561825f5e4b520e17560c007669.html) | yu-shimizu@* | 助教授 | 素粒子物理学          | A201                             | [INSPIRE-HEP](https://inspirehep.net/search?p=a+Yusuke.Shimizu.1) |
-| | [坂井 あづみ](https://seeds.office.hiroshima-u.ac.jp/profile/ja.46af3c3051ccaffd520e17560c007669.html) | azumi-sakai@* | 助教授 | ハドロン         | A208                            |  [INSPIRE-HEP](https://inspirehep.net/search?p=a+A.Sakai.4) |
+| ![清水先生の写真](imgs/staff/YusukeShimizu_atarashi.jpg "memberimg") | [清水 勇介](https://seeds.office.hiroshima-u.ac.jp/profile/ja.cee8e561825f5e4b520e17560c007669.html) | yu-shimizu@* | 助教授 | A201                             | [INSPIRE-HEP](https://inspirehep.net/search?p=a+Yusuke.Shimizu.1) |
+| | [坂井 あづみ](https://seeds.office.hiroshima-u.ac.jp/profile/ja.46af3c3051ccaffd520e17560c007669.html) | azumi-sakai@* | 助教授   | A208                            |  [INSPIRE-HEP](https://inspirehep.net/search?p=a+A.Sakai.4) |
 ---
 
 #  ポスドク研究員とビジター
-| 氏名        | メール         | 職名     | 分野                  | 居室 | 論文検索  |
-|-------------|---------------|----------|-----------------------|------|---------------------|
-| ベンワ ニコラス                  | njbenoit@*  | ポスドク   | ハドロン | A201 | [INSPIRE-HEP](https://inspirehep.net/search?p=a+N.J.Benoit.1) |
-| 大川 正典   | okawa@sci.*   | ビジター | 格子QCD、素粒子物理学 | A201 | [INSPIRE-HEP](https://inspirehep.net/search?p=a+m.+okawa)  |
-| 坂本 弘樹   | h-sakamoto@*  | ビジター | 素粒子・宇宙物理 | A212 | [INSPIRE-HEP](https://inspirehep.net/search?p=a+H.Sakamoto.4) |
+| 氏名        | メール         | 職名                 | 居室 | 論文検索  |
+|-------------|---------------|----------|------|---------------------|
+| ベンワ ニコラス                  | njbenoit@*  | ポスドク   | A201 | [INSPIRE-HEP](https://inspirehep.net/search?p=a+N.J.Benoit.1) |
+| 大川 正典   | okawa@sci.*   | ビジター | A201 | [INSPIRE-HEP](https://inspirehep.net/search?p=a+m.+okawa)  |
+| 坂本 弘樹   | h-sakamoto@*  | ビジター | A212 | [INSPIRE-HEP](https://inspirehep.net/search?p=a+H.Sakamoto.4) |
 
 ---
 
 # 学生
-| 氏名                             | 学年 | メール       | 分野         | 部屋 | 論文検索                                                              |
+| 氏名                             | 学年 | メール           | 部屋 | 論文検索                                                              |
 |----------------------------------|------|-------------|--------------|------|-----------------------------------------------------------------------|
 
 |                                  | 博士     |             |              |      |                                                                       |
@@ -52,26 +52,26 @@ draft: false
 
 |                                  | 修士    |             |              |      |                                                                       |
 |----------------------------------|------|-------------|--------------|------|-----------------------------------------------------------------------|
-| 福永 隆太                        | M2   | m211872@* | 素粒子物理学 | A212 |                                                                       |
-| 小野 翔子                        | M2   | m225411@* | 素粒子物理学 | A212 |                                                                       |
-| 竹内 康太                        | M2   | m213026@* | 素粒子・宇宙物理 | A212 | [INSPIRE-HEP](https://inspirehep.net/literature?sort=mostrecent&size=25&page=1&q=aff%20hiroshima%20u.%20and%20a%20Kota%20Takeuchi) |
-| 黒岩 太平                        | M2   | m224003@* | 素粒子物理学 | A212 |                                                                       |
-| 吉岡 直樹                        | M2   | m221063@* | 素粒子物理学 | B201 |                                                                       |
+| 福永 隆太                        | M2   |  | 素粒子物理学 | A212 |                                                                       |
+| 小野 翔子                        | M2   |  | 素粒子物理学 | A212 |                                                                       |
+| 竹内 康太                        | M2   | | 素粒子・宇宙物理 | A212 | [INSPIRE-HEP](https://inspirehep.net/literature?sort=mostrecent&size=25&page=1&q=aff%20hiroshima%20u.%20and%20a%20Kota%20Takeuchi) |
+| 黒岩 太平                        | M2   |  | 素粒子物理学 | A212 |                                                                       |
+| 吉岡 直樹                        | M2   | | 素粒子物理学 | B201 |                                                                       |
 | 竹下 昌之介                      | M2   | shonosuke@* | 素粒子物理学 | B201 | [INSPIRE-HEP](https://inspirehep.net/literature?sort=mostrecent&size=25&page=1&q=shonosuke%20takeshita)                                                             |
-| 高木 隆                          | M2   | m226689@* | 素粒子物理学 | A212 |                                                                       |
+| 高木 隆                          | M2   | | 素粒子物理学 | A212 |                                                                       |
 | 前田 玲史                        | M2   | maeta-reishi@* | 素粒子物理学 | A212 |                                                                       |
-| 折見 智治                        | M1   | m231944@*            | 素粒子物理学  | B201 |                                                                       |   
-| 椛山 理玖                        | M1   |  m232649@*            |  ハドロン   | A212 |                                                                       | 
-| 比嘉 凱亜                        | M1   | m230839@*   |   素粒子物理学    | A212 |                                                                       |    
-| 上村 直樹                        | M1   | m234555@*   |  素粒子物理学  | A212 |                                                                       |                                                                      
+| 折見 智治                        | M1   |            | 素粒子物理学  | B201 |                                                                       |   
+| 椛山 理玖                        | M1   |              |  ハドロン   | A212 |                                                                       | 
+| 比嘉 凱亜                        | M1   |   |   素粒子物理学    | A212 |                                                                       |    
+| 上村 直樹                        | M1   |    |  素粒子物理学  | A212 |                                                                       |                                                                      
 
 |                                  | 学士   |             |              |      |                                                                       |
 |----------------------------------|------|-------------|--------------|------|-----------------------------------------------------------------------|
-| ドイ　カズノリ                      | B4   |  b155371@*    |              | B201 |                                                                       |
-| 鏡　鈴                        | B4   |b206182@*        |              | B201 |                                                                       |
-| 川上　ユマ                        | B4   |   b206858@*           |              | B201 |                                                                       |
-| ソエジマ　コウヘイ                          | B4   | b196304@*      |              | B201 |                                                                       |
-| 高橋　ショウゴ                        | B4   |     b203710@*    |              | B201 |                                                                       |
+| ドイ　カズノリ                      | B4   |      |              | B201 |                                                                       |
+| 鏡　鈴                        | B4   |        |              | B201 |                                                                       |
+| 川上　ユマ                        | B4   |             |              | B201 |                                                                       |
+| ソエジマ　コウヘイ                          | B4   |       |              | B201 |                                                                       |
+| 高橋　ショウゴ                        | B4   |        |              | B201 |                                                                       |
 
 
 
