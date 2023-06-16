@@ -58,9 +58,9 @@ Click on their names to learn more about their research and history.
 | Kota Takeuchi               | M2    |  | A212        | [INSPIRE-HEP](https://inspirehep.net/literature?sort=mostrecent&size=25&page=1&q=aff%20hiroshima%20u.%20and%20a%20Kota%20Takeuchi) |
 | Taihei Kuroiwa              | M2    |  | A212        |   |
 | Naoki Yoshioka              | M2   |  | B201        |   |
-| Shonosuke Takeshita        | M2    | shonosuke@* | Particle Physics | B201        | [INSPIRE-HEP](https://inspirehep.net/literature?sort=mostrecent&size=25&page=1&q=shonosuke%20takeshita)  |
+| Shonosuke Takeshita        | M2    | shonosuke@* | B201        | [INSPIRE-HEP](https://inspirehep.net/literature?sort=mostrecent&size=25&page=1&q=shonosuke%20takeshita)  |
 | Ryu Takagi                  | M2    | | A212        |   |
-| Reishi Maeta                | M2    | maeta-reishi@* | Particle Physics | A212        |   |
+| Reishi Maeta                | M2    | maeta-reishi@*  | A212        |   |
 | Tomoharu Orimi              | M1   |                | B201        |   |
 | Riku Kabayama               | M1    |               | A212       |   |
 | Gaia Higa                   | M1    |  | A212       |   |
