@@ -16,7 +16,7 @@ staticDir = 'static'
 
 [languages] # This will sort though all our language options and keep things neat
     [languages.ja] # the URL for japanese pages will be ~/
-        baseURL = "https://hirodaisohaken.github.io/website/ja/"
+        baseURL = "{{BASE_URL}}/ja/"
         languageName = '日本語'
         languageCode = 'ja'
         theme = 'sohakenTheme'
@@ -25,30 +25,39 @@ staticDir = 'static'
         [languages.ja.Menu]
             [[languages.ja.Menu.main]]
                 name = "ホーム"
-                url = "https://hirodaisohaken.github.io/website/ja/"
+                url = ""
                 weight = 1
             [[languages.ja.Menu.main]]
                 name = "About Us"
-                url = "https://hirodaisohaken.github.io/website/ja/aboutus/"
+                url = "/aboutus/"
                 weight = 2
             [[languages.ja.Menu.main]]
                 name = "メンバー"
-                url = "https://hirodaisohaken.github.io/website/ja/members/"
+                url = "/members/"
                 weight = 3
             [[languages.ja.Menu.main]]
                 name = "セミナー"
-                url = "https://hirodaisohaken.github.io/website/ja/seminars/"
+                url = "/seminars/"
                 weight = 4
             [[languages.ja.Menu.main]]
                 name = "出来事"
-                url = "https://hirodaisohaken.github.io/website/ja/news/"
+                url = "/news/"
                 weight = 5
             [[languages.ja.Menu.main]]
                 name = "アクセス"
-                url = "https://hirodaisohaken.github.io/website/ja/access/"
+                url = "/access/"
                 weight = 6
+            [[languages.ja.Menu.main]]
+                name = "宿泊案内"
+                target = "blank"
+                url = "https://www.google.com/maps/search/Hotels/@34.4154954,132.7343238,14.58z/data=!4m7!2m6!3m5!2sHiroshima+University!3s0x355aa23e6f628dbb:0xb41b8827fb5fd7dd!4m2!1d132.7140406!2d34.3991292?entry=ttu"
+                weight = 7
+            [[languages.ja.Menu.main]]
+                name = "Links"
+                url = "/links/"
+                weight = 8
     [languages.en]  # the URL for english pages will be ~/en
-        baseURL = "https://hirodaisohaken.github.io/website/en/"
+        baseURL = "{{BASE_URL}}/en/"
         languageName = 'English'
         languageCode = 'en-us'
         theme = 'sohakenTheme'
@@ -57,29 +66,37 @@ staticDir = 'static'
         [languages.en.Menu]
             [[languages.en.Menu.main]]
                 name = "Home"
-                url = "https://hirodaisohaken.github.io/website/en/"
+                url = ""
                 weight = 1
             [[languages.en.Menu.main]]
                 name = "About Us"
-                url = "https://hirodaisohaken.github.io/website/en/aboutus/"
+                url = "/aboutus/"
                 weight = 2
             [[languages.en.Menu.main]]
                 name = "Members"
-                url = "https://hirodaisohaken.github.io/website/en/members/"
+                url = "/members/"
                 weight = 3
             [[languages.en.Menu.main]]
                 name = "Seminars"
-                url = "https://hirodaisohaken.github.io/website/en/seminars/"
+                url = "/seminars/"
                 weight = 4
             [[languages.en.Menu.main]]
                 name = "News"
-                url = "https://hirodaisohaken.github.io/website/en/news/"
+                url = "/news/"
                 weight = 5
             [[languages.en.Menu.main]]
                 name = "Access"
-                url = "https://hirodaisohaken.github.io/website/en/access/"
+                url = "/access/"
                 weight = 6
-
+            [[languages.en.Menu.main]]
+                name = "Accomodation"
+                target = "blank"
+                url = "https://www.google.com/maps/search/Hotels/@34.4154954,132.7343238,14.58z/data=!4m7!2m6!3m5!2sHiroshima+University!3s0x355aa23e6f628dbb:0xb41b8827fb5fd7dd!4m2!1d132.7140406!2d34.3991292?entry=ttu"
+                weight = 7
+            [[languages.en.Menu.main]]
+                name = "Links"
+                url = "/links/"
+                weight = 8
 
 
 [markup]
