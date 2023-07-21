@@ -1,0 +1,36 @@
+name: Ready publish
+
+on:
+  push:
+    branches:
+      - master
+
+jobs:
+  deploy:
+    runs-on: ubuntu-22.04
+    steps:
+      - uses: actions/checkout@v3
+        with:
+          submodules: true
+          fetch-depth: 0
+
+      - name: Setup Hugo
+        uses: peaceiris/actions-hugo@v2
+        with:
+          hugo-version: 'latest'
+          # extended: true
+
+      - name: Build
+        run: hugo --minify -s "./sohaken"
+
+      - name: Inject BASE_URL
+        run: sed -i 's|{{BASE_URL}}|http://theo.phys.sci.hiroshima-u.ac.jp/~sohaken/NewPage/|' ./sohaken/config.toml
+
+      - name: Push
+        uses: s0/git-publish-subdir-action@develop
+        env:
+          REPO: self
+          BRANCH: publish
+          FOLDER: ./sohaken/public
+          GITHUB_TOKEN: ${{ secrets.TOKEN }}
+          MESSAGE: "Deploy: ({sha})"

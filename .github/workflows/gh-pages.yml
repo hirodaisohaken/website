@@ -20,6 +20,9 @@ jobs:
           hugo-version: 'latest'
           # extended: true
 
+      - name: Inject BASE_URL
+        run: sed -i 's|{{BASE_URL}}|https://hirodaisohaken.github.io/website|' ./sohaken/config.toml
+
       - name: Build
         run: hugo --minify -s "./sohaken"
 
