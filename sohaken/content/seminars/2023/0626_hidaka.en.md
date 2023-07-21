@@ -1,6 +1,6 @@
 ---
 title: "Intensive Lecture: Yoshimasa Hidaka (IPNS, KEK)"
-date: 2023-07-26T17:01:37+09:00
+date: 2023-06-26T17:01:37+09:00
 description: "Mon. 06/26 - Wed. 06/28 Hybrid: @E002, B301 and online (Zoom)"
 draft: false
 ---
