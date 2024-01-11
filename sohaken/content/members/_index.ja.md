@@ -24,7 +24,7 @@ draft: false
 | ![稲垣先生の写真](imgs/staff/inagaki_atarashi.jpg "memberimg")  | [稲垣 知宏](https://home.hiroshima-u.ac.jp/inagaki/) | inagaki@*    | 教授    | 情報メディア教育研究センター | [INSPIRE-HEP](https://inspirehep.net/search?p=a+tomohiro+inagaki) |
 | ![両角先生の写真](imgs/staff/morozumi_atarashi.jpg "memberimg") | [両角 卓也](members/staff/morozumi)  | morozumi@*   | 准教授 | C106 | [INSPIRE-HEP](https://inspirehep.net/search?p=a+t.+morozumi) |
 | ![石川先生の写真](imgs/staff/ishikawa_20210104.jpg "memberimg") | [石川 健一](members/staff/ishikawa)  | ishikawa@#   | 准教授 | C105 | [INSPIRE-HEP](https://inspirehep.net/search?p=a+k.+i.+ishikawa) |
-| ![坂井 あづみ]() | azumi-sakai@* | 育成助教  | C223 |  [INSPIRE-HEP](https://inspirehep.net/authors/2091512) |
+|                                                                 | [坂井 あづみ](https://seeds.office.hiroshima-u.ac.jp/profile/ja.46af3c3051ccaffd520e17560c007669.html) | azumi-sakai@* | 特任助教  | C223 |  [INSPIRE-HEP](https://inspirehep.net/authors/2091512) |
 ---
 
 #  ポスドク研究員とビジター
