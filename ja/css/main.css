@@ -13,7 +13,7 @@ a:link {
     text-decoration:underline;
 }
 a:hover {
-    color: #495464;
+    color: #ffffff;
     text-decoration:underline;
 }
 /* h1,h2,h3,h4,h5,h6,p {
@@ -30,10 +30,10 @@ tbody {
     text-align: center;
 }
 tbody tr:nth-child(odd) {
-    background-color: #E5E5E5;
+    background-color: #ccccff;
 }  
 tbody tr:nth-child(even) {
-    background-color: #f3f3f3;
+    background-color: #ffffff;
 }
 thead th:nth-child(1) {
     width: 20%;
@@ -63,7 +63,7 @@ thead th:nth-child(6) {
   box-sizing: border-box;
   border-width: 0;
   border-style: solid;
-  border-color: #e2e8f0;
+  border-color: #c9f8fe;
 }
 /* Ensure horizontal rules are visible by default */
 hr {border-top-width: 30px;}
