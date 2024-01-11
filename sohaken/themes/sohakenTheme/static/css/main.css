@@ -94,7 +94,7 @@ h1,h2,h3,h4,h5,h6,p,table {
     display: grid;
     grid-template: auto 1fr auto / repeat(12, minmax(0, 1fr));
     font-size: 1rem;
-    background-color: #F4F4F2;
+    background-color: #FFFFFF;
 }
 
 .globalheader {
@@ -102,7 +102,7 @@ h1,h2,h3,h4,h5,h6,p,table {
     padding: 0.5rem 0.5rem;
     display: flex;
     justify-content: center;
-    background-color: #495464;
+    background-color: #FFFFFF;
 }
 .globalheader a {
     max-width: 40%;
@@ -121,7 +121,7 @@ h1,h2,h3,h4,h5,h6,p,table {
 }
 .globalside a:hover {
     color: #ffffff;
-    background-color: #495464;
+    background-color: #b1ff00;
 }
 .globalside img {
     max-width: 65%;
@@ -171,8 +171,8 @@ h1,h2,h3,h4,h5,h6,p,table {
     flex-flow: column wrap;
     align-items: center;
     bottom: 0;
-    color:  #F4F4F2;
-    background-color: #495464;
+    color:  #FFFFFF;
+    background-color: #aeff8b;
     font-weight: bold;
 }
 .globalfooter span {
