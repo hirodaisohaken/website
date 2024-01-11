@@ -20,11 +20,11 @@ jobs:
           hugo-version: 'latest'
           # extended: true
 
+      - name: Inject BASE_URL
+        run: sed -i 's/{{BASE_URL}}/http:\/\/theo.phys.sci.hiroshima-u.ac.jp\/~sohaken/' ./sohaken/config.toml
+
       - name: Build
         run: hugo --minify -s "./sohaken"
-
-      - name: Inject BASE_URL
-        run: sed -i 's/{{BASE_URL}}/http:\/\/theo.phys.sci.hiroshima-u.ac.jp\/~sohaken\/NewPage/' ./sohaken/config.toml
 
       - name: Push
         uses: s0/git-publish-subdir-action@develop
