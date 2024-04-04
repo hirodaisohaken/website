@@ -55,7 +55,7 @@ Click on their names to learn more about their research and history.
 
 |   | Masters  |  |   | |
 |----------------------------------|------|-------------|-----------------|-----------------------------------------------------------------------|
-| Ryuta Fukunaga              | M2 |                | C101 |   |
+| Ryuta Fukunaga              | M2 |                | Eco-A212 |   |
 | Tomoharu Tahara             | M2 |                | Eco-A212  |   |
 | Riku Kabayama               | M2 |                | Eco-A211 |   |
 | Gaia Higa                   | M2 |                | Eco-A212 |   |
