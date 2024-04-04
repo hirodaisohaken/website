@@ -24,7 +24,7 @@ Click on their names to learn more about their research and history.
 | ![picture of professor Inagaki](imgs/staff/inagaki_atarashi.jpg "memberimg") | [Tomohiro Inagaki](https://home.hiroshima-u.ac.jp/inagaki/) | inagaki@*| Professor | Media Center | [INSPIRE-HEP](https://inspirehep.net/search?p=a+tomohiro+inagaki) |
 | ![picture of associate professor Morozumi](imgs/staff/morozumi_atarashi.jpg "memberimg") | [Takuya Morozumi](members/staff/morozumi) | morozumi@* | Associate Professor | Eco-A306 | [INSPIRE-HEP](https://inspirehep.net/search?p=a+t.+morozumi) |
 | ![picture of associate professor Ishikawa](imgs/staff/ishikawa_20210104.jpg "memberimg") | [Ken-Ichi Ishikawa](members/staff/ishikawa) | ishikawa@# | Associate Professor | Eco-A307 | [INSPIRE-HEP](https://inspirehep.net/search?p=a+k.+i.+ishikawa) |
-|  | [Azumi Sakai](https://seeds.office.hiroshima-u.ac.jp/profile/en.46af3c3051ccaffd520e17560c007669.html) | azumi-sakai@* | Assistant Professor (Special Appointment)  | Eco-A427 | [INSPIRE-HEP](https://inspirehep.net/authors/2091512) |
+| ![picture of assistant professor Sakai](sohaken/static/imgs/staff/Sakai_picture.jpg) | [Azumi Sakai](https://seeds.office.hiroshima-u.ac.jp/profile/en.46af3c3051ccaffd520e17560c007669.html) | azumi-sakai@* | Assistant Professor (Special Appointment)  | Eco-A427 | [INSPIRE-HEP](https://inspirehep.net/authors/2091512) |
 | | Nicholas J. Benoit | njbenoit@*   | Assistant Professor  | Eco-A421 | [INSPIRE-HEP](https://inspirehep.net/search?p=a+N.J.Benoit.1) |
 
 ---
