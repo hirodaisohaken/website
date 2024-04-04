@@ -25,7 +25,7 @@ Click on their names to learn more about their research and history.
 | ![picture of associate professor Morozumi](imgs/staff/morozumi_atarashi.jpg "memberimg") | [Takuya Morozumi](members/staff/morozumi) | morozumi@* | Associate Professor | Eco-A306 | [INSPIRE-HEP](https://inspirehep.net/search?p=a+t.+morozumi) |
 | ![picture of associate professor Ishikawa](imgs/staff/ishikawa_20210104.jpg "memberimg") | [Ken-Ichi Ishikawa](members/staff/ishikawa) | ishikawa@# | Associate Professor | Eco-A307 | [INSPIRE-HEP](https://inspirehep.net/search?p=a+k.+i.+ishikawa) |
 | ![picture of assistant professor Sakai](imgs/staff/Sakai_picture.jpg "memberimg") | [Azumi Sakai](https://seeds.office.hiroshima-u.ac.jp/profile/en.46af3c3051ccaffd520e17560c007669.html) | azumi-sakai@* | Assistant Professor (Special Appointment)  | Eco-A427 | [INSPIRE-HEP](https://inspirehep.net/authors/2091512) |
-|![picture of assistant professor Nicholas](imgs/staff/Nicholas_picture.jpg "memberimg") | [Nicholas J. Benoit](https://home.hiroshima-u.ac.jp/njbenoit/) | njbenoit@*   | Assistant Professor  | Eco-A421 | [INSPIRE-HEP](https://inspirehep.net/search?p=a+N.J.Benoit.1) |
+|![picture of assistant professor Nicholas](imgs/staff/Nicholas_picture.jpg "memberimg") | [Nicholas J. Benoit](https://home.hiroshima-u.ac.jp/njbenoit/) | njbenoit@*   | Specially Appointed Assistant Professor (Selected)  | Eco-A421 | [INSPIRE-HEP](https://inspirehep.net/authors/2052008) |
 
 ---
 
