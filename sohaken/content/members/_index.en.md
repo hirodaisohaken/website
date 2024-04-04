@@ -66,7 +66,9 @@ Click on their names to learn more about their research and history.
 
 |   | Bachelors |  |  | |
 |----------------------------------|------|-------------|-----------------|-----------------------------------------------------------------------|
-|  New student              | B4 |    | B201 |   |
+|  Miyoshi Eri           | B4 |    | Eco-A212  |   |
+|  Uno Kohei          | B4 |    | Eco-A211 |   |
+|  Shimizu Hiroki        | B4 |    | Eco-A211  |   |
 
 *:hiroshima-u.ac.jp
 
