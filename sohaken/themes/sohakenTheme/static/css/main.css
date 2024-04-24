@@ -13,7 +13,7 @@ a:link {
     text-decoration:underline;
 }
 a:hover {
-    color: #ffffff;
+    color: #8fbc8f;
     text-decoration:underline;
 }
 /* h1,h2,h3,h4,h5,h6,p {
@@ -30,7 +30,7 @@ tbody {
     text-align: center;
 }
 tbody tr:nth-child(odd) {
-    background-color: #ccccff;
+    background-color: #f0f6da;
 }  
 tbody tr:nth-child(even) {
     background-color: #ffffff;
@@ -121,7 +121,7 @@ h1,h2,h3,h4,h5,h6,p,table {
 }
 .globalside a:hover {
     color: #ffffff;
-    background-color: #b1ff00;
+    background-color: #8fbc8f;
 }
 .globalside img {
     max-width: 65%;
