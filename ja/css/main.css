@@ -63,7 +63,7 @@ thead th:nth-child(6) {
   box-sizing: border-box;
   border-width: 0;
   border-style: solid;
-  border-color: #c9f8fe;
+  border-color: #daeff5;
 }
 /* Ensure horizontal rules are visible by default */
 hr {border-top-width: 30px;}
