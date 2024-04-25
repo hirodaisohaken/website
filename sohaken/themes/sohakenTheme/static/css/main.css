@@ -121,7 +121,7 @@ h1,h2,h3,h4,h5,h6,p,table {
 }
 .globalside a:hover {
     color: #ffffff;
-    background-color: #a7d28d;
+    background-color: #8fbc8f;
 }
 .globalside img {
     max-width: 65%;
@@ -172,7 +172,7 @@ h1,h2,h3,h4,h5,h6,p,table {
     align-items: center;
     bottom: 0;
     color:  #FFFFFF;
-    background-color: #79c06e;
+    background-color: #a7d28d;
     font-weight: bold;
 }
 .globalfooter span {
