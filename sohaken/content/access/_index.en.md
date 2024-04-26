@@ -19,7 +19,7 @@ From JR Saijo Station to Hiroshima University (by bus):
 From JR Saijo Station to Hiroshima University (by bus): Take the bus bound for Hiroshima University at platform No. 3; the journey takes approximately 20 minutes and costs 290 yen.
 (The first bus departs at 6:55 a.m. and the last bus leaves at 10:20 p.m., with buses running every 15 to 20 minutes during this period.)
 
-[Timetable of Hiroshima University Line (Go to Geiyo Bus website in Japanese)](http://www.geiyo.co.jp/Unyu/daigaku202003.htm)
+[Timetable of Hiroshima University Line (Go to Geiyo Bus website in Japanese)](https://www.geiyo.co.jp/campus.html)
 
 Get off at "Hiroshima Daigaku Chuo Exit".
 
@@ -35,7 +35,7 @@ Take "Hiroshima Daigaku Line", about 20 minutes, 380 yen.
 
 Get off at "Hiroshima Daigaku Chuo Exit".
 
-[Hiroshima Daigaku Line timetable (go to Geiyo Bus website in Japanese)](http://www.geiyo.co.jp/Unyu/daigaku2H3003.htm)
+[Hiroshima Daigaku Line timetable (go to Geiyo Bus website in Japanese)](https://www.geiyo.co.jp/campus.html)
 
 
 # From Hiroshima Airport
@@ -61,12 +61,13 @@ Sanyo Main Line down train (bound for Saijo, Hiroshima, or Iwakuni), approx. 10 
 Bus from JR Saijo Station
 
 
-# From Hiroshima University Central Exit to Sokendai Seminar Room
+# From Hiroshima University Central Exit to Sohaken Seminar Room
 
-Get off at "Hiroshima University Central Exit" and the building on your left is the Faculty of Science Building.
+Get off at "Hiroshima University Central Exit" and the building on your right is the Faculty of Economics Building.
 
-Room A217 in the Science Building is the Sohka Lab Seminar Room.
+Room A210 in the Economics Building is the Sohaken Lab Seminar Room.
 
+Due to renovation work in the Faculty of Science, the laboratory is temporarily located in the Faculty of Economics.
 
 # Google Maps
 
