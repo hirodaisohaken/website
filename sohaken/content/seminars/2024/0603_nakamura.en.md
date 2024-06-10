@@ -1,5 +1,5 @@
 ---
-title: "Sohaken Seminar: Nishimura Kentaro (Hiroshima University WPI)"
+title: "Sohaken Seminar: Atsushi Nakamura (Emeritus Professor of Hiroshima University)"
 date: 2024-06-03T17:01:37+09:00
 description: "Mon. 06/03 Hybrid: E002 and online (Zoom)"
 draft: false
