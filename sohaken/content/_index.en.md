@@ -6,3 +6,5 @@ draft: false
 
 # Welcome!
 This is the homepage for the Hiroshima University Elementary Particle and Hadron Group!
+
+[Research Introduction ("What do you learn in Hiroshima University? 2025")](https://archive2.hiroshima-u.ac.jp/nyushi/nanigamanaberuka2025/#page=11)

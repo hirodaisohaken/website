@@ -20,7 +20,7 @@ Click on their names to learn more about their research and history.
 
 | | Name (first last) | Email | Title | Room Number | Papers | Researcher Introduction |
 | --- | ---- | ---- | ---- | ----- | ---- | ---- |
-| ![picture of professor Nonaka](imgs/staff/nonaka_atarashi.jpg "memberimg") | [Chiho Nonaka](https://seeds.office.hiroshima-u.ac.jp/profile/en.d02aa0cf7fd0bf59520e17560c007669.html) | nchiho@* | Professor | Eco-A309 | [INSPIRE-HEP](https://inspirehep.net/search?p=a+chiho+nonaka) | attach PDF |
+| ![picture of professor Nonaka](imgs/staff/nonaka_atarashi.jpg "memberimg") | [Chiho Nonaka](https://seeds.office.hiroshima-u.ac.jp/profile/en.d02aa0cf7fd0bf59520e17560c007669.html) | nchiho@* | Professor | Eco-A309 | [INSPIRE-HEP](https://inspirehep.net/search?p=a+chiho+nonaka) | [Research Introduction](https://archive2.hiroshima-u.ac.jp/nyushi/nanigamanaberuka2025/#page=11) |
 | ![picture of professor Inagaki](imgs/staff/inagaki_atarashi.jpg "memberimg") | [Tomohiro Inagaki](https://home.hiroshima-u.ac.jp/inagaki/) | inagaki@*| Professor | Media Center | [INSPIRE-HEP](https://inspirehep.net/search?p=a+tomohiro+inagaki) | ---- |
 | ![picture of associate professor Morozumi](imgs/staff/morozumi_atarashi.jpg "memberimg") | [Takuya Morozumi](members/staff/morozumi) | morozumi@* | Associate Professor | Eco-A306 | [INSPIRE-HEP](https://inspirehep.net/search?p=a+t.+morozumi) | ---- |
 | ![picture of associate professor Ishikawa](imgs/staff/ishikawa_20210104.jpg "memberimg") | [Ken-Ichi Ishikawa](members/staff/ishikawa) | ishikawa@# | Associate Professor | Eco-A307 | [INSPIRE-HEP](https://inspirehep.net/search?p=a+k.+i.+ishikawa) | ---- |
