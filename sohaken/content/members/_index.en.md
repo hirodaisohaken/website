@@ -1,6 +1,6 @@
 ---
 title: "Members"
-date: 2022-05-17T23:30:47+09:00
+date: 2024-10-18T04:01:00+09:00
 description: "Our lab Staff, Post-Doc Researchers, Visitors, and Students"
 draft: false
 ---
@@ -44,11 +44,10 @@ Click on their names to learn more about their research and history.
 
 |   | Doctors  |  |  | |
 |-----------------------------|-------|-------------|---------------------------------|---------|
-| Albertus Hariwangsa Panuluh | D3 | panuluh-albertus@* | Eco-A427 | [INSPIRE-HEP]( https://inspirehep.net/literature?sort=mostrecent&size=25&page=1&q=aff%20hiroshima%20u.%20and%20a%20%27panuluh%20albertus%27) |
 | Cendikia Abdi               | D3 | cendikiaabdi@*     | Eco-A212 |   |
 | Hironori Takei              | D3 |  t-hironori@*      | Eco-A212| [INSPIRE-HEP](https://inspirehep.net/literature?sort=mostrecent&size=25&page=1&q=aff%20hiroshima%20u.%20and%20a%20Hironori%20Takei)|
 | Yukimura Izawa              | D2 | izawa-yukimura@*   | Eco-A211 | [INSPIRE-HEP](https://inspirehep.net/literature?sort=mostrecent&size=25&page=1&q=aff%20hiroshima%20u.%20and%20a%20Yukimura%20Izawa)|
-| Kota Takeuchi               | D1 | k-takeuchi@*       | Eco-A212 | [INSPIRE-HEP](https://inspirehep.net/literature?sort=mostrecent&size=25&page=1&q=aff%20hiroshima%20u.%20and%20a%20Kota%20Takeuchi) |
+| Kota Takeuchi               | D2 | k-takeuchi@*       | Eco-A212 | [INSPIRE-HEP](https://inspirehep.net/literature?sort=mostrecent&size=25&page=1&q=aff%20hiroshima%20u.%20and%20a%20Kota%20Takeuchi) |
 | Naoki Yoshioka              | D1 |                | Eco-A421 |   |
 | Shonosuke Takeshita         | D1 | shonosuke@*    | Eco-A421 | [INSPIRE-HEP](https://inspirehep.net/literature?sort=mostrecent&size=25&page=1&q=shonosuke%20takeshita) |
 | Reishi Maeta                | D1 | maeta-reishi@* |  |   |
@@ -60,9 +59,10 @@ Click on their names to learn more about their research and history.
 | Riku Kabayama               | M2 |                | Eco-A211 |   |
 | Gaia Higa                   | M2 |                | Eco-A212 |   |
 | Naoki Uemura                | M2 |                | Eco-A211 |   |
-| Muhammad Azzam Alwan        | M1 |                | Eco-A427 |   |
+| Muhammad Azzam Alwan        | M2 |                | Eco-A427 |   |
 | Yuma Kawakami              | M1 |    | Eco-A211 |   |
 | Shogo Takahashi            | M1 |    | Eco-A211 |   |
+| Zefeng Wang                | M1 |    | Eco-A211 |   |
 
 |   | Bachelors |  |  | |
 |----------------------------------|------|-------------|-----------------|-----------------------------------------------------------------------|
