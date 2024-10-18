@@ -1,6 +1,6 @@
 ---
 title: "研究室のメンバー"
-date: 2022-05-17T23:25:13+09:00
+date: 2024-10-18T23:25:13+09:00
 description: "研究室に所属するスタッフ・ポスドク・ビジター・学生の一覧ページ"
 draft: false
 ---
@@ -42,11 +42,10 @@ draft: false
 
 |                                  | 博士 |             |              |                                                                          |
 |----------------------------------|------|-------------|------------------|-----------------------------------------------------------------------|
-| アルベルトゥス ハリワンサ パヌル | D3   | panuluh-albertus@* | 経A427 | [INSPIRE-HEP](https://inspirehep.net/literature?sort=mostrecent&size=25&page=1&q=aff%20hiroshima%20u.%20and%20a%20%27panuluh%20albertus%27) |
 | チェンディキア アブディ          | D3   | cendikiaabdi@*     | 経A212 |                                                                       |
 | 武井 玄徳                        | D3   | t-hironori@*       | 経A212 | [INSPIRE-HEP](https://inspirehep.net/literature?sort=mostrecent&size=25&page=1&q=aff%20hiroshima%20u.%20and%20a%20Hironori%20Takei)  |
 | 井澤 幸邑                        | D2   | izawa-yukimura@*   | 経A211 | [INSPIRE-HEP](https://inspirehep.net/literature?sort=mostrecent&size=25&page=1&q=aff%20hiroshima%20u.%20and%20a%20Yukimura%20Izawa)  |
-| 竹内 康太                        | D1   | k-takeuchi@*       | 経A212 | [INSPIRE-HEP](https://inspirehep.net/literature?sort=mostrecent&size=25&page=1&q=f%20a%20Kota%20Takeuchi%20and%20aff%20%20Hiroshima%20U.) |
+| 竹内 康太                        | D2   | k-takeuchi@*       | 経A212 | [INSPIRE-HEP](https://inspirehep.net/literature?sort=mostrecent&size=25&page=1&q=f%20a%20Kota%20Takeuchi%20and%20aff%20%20Hiroshima%20U.) |
 | 吉岡 直樹                        | D1   |             | 経A421 |                                                                       |
 | 竹下 昌之介                      | D1   | shonosuke@* | 経A421 | [INSPIRE-HEP](https://inspirehep.net/literature?sort=mostrecent&size=25&page=1&q=shonosuke%20takeshita) |
 | 前田 玲史                        | D1   | maeta-reishi@*  |  |                                                                       |
@@ -59,9 +58,10 @@ draft: false
 | 椛山 理玖                        | M2   |                 | 経A211 |                                                                       |
 | 比嘉 凱亜                        | M2   |                 | 経A212 |                                                                       |
 | 上村 直樹                        | M2   |                 | 経A211 |                                                                       |
-| ムハマド アッザム アルワン       | M1   |                 | 経A427 |                                                                       |
+| ムハマド アッザム アルワン       | M2   |                 | 経A427 |                                                                       |
 | 川上 侑真                        | M1   |            | 経A211 |                                                                       |
 | 高橋 昇吾                        | M1   |            | 経A211 |                                                                       |
+| 王 沢豊                         | M1   |            | 経A211 |                                                                       |
 
 |                                  | 学士 |             |                 |                                                                       |
 |----------------------------------|------|-------------|----------------|-----------------------------------------------------------------------|
