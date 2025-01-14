@@ -1,5 +1,5 @@
 ---
-title: "Intensive Lecture: Prof.Koji Tsumura (Kyusyu Univ.）"
+title: "Core-U Seminar: Prof.Koji Tsumura (Kyusyu Univ.）"
 date: 2024-11-26T10:30:00+09:00
 description: "Tue 11/26 Hybrid: E209 and online(Zoom)"
 draft: false
