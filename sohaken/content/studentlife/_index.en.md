@@ -15,9 +15,13 @@ draft: false
 - Frequency of commuting varies from student to student
 - You don't have to get up early
 
+---
+
 |Monday|Tuesday|Wednesday|Thursday|Friday|
 |----|----|----|----|----|
 |Journal Club(Introducing articles and researches)|QFT Seminar|----|Lab Meeting|QFT Seminar|
+
+---
 
 1. Journal club: Postgraduate students and faculty members introduce articles and other papers. Introductions may be given in English as well as Japanese. Participation is optional for undergraduates.
 2. Quantum field theory seminar (April - July): A book on calculations in quantum field theory is read in a loop. Students will carefully understand the logical developments in the book.
@@ -26,6 +30,8 @@ draft: false
 #### Annual events
 
 In addition to weekly events, there are a variety of other activities.
+
+---
 
 |----|Events|
 |----|----|
@@ -41,6 +47,8 @@ In addition to weekly events, there are a variety of other activities.
 |January|----|
 |February|Graduation thesis presentation|
 |March|Graduation Ceremony|
+
+---
 
 1. Various seminars: Seminars by researchers from outside the university are held on an irregular basis. Mostly in the field of elementary particles.
 2. Setouchi Summer Institute(SSI): The research meeting is usually held in August-September each year. Basically, presentations are given by postgraduate students and faculty members, but sometimes undergraduate students whose research is progressing fast also give presentations.
@@ -71,6 +79,5 @@ Other social events such as watching baseball games and year-end parties are org
 Each student pursues further education or employment at his or her own pace.
 
 ![修士の学生の生活](imgs/修士生の過ごし方.jpg)
-
 
 <!--more-->
