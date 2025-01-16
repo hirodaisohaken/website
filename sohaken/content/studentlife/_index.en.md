@@ -15,8 +15,6 @@ draft: false
 - Frequency of commuting varies from student to student
 - You don't have to get up early
 
----
-
 |Monday|Tuesday|Wednesday|Thursday|Friday|
 |----|----|----|----|----|
 |Journal Club(Introducing articles and researches)|QFT Seminar|----|Lab Meeting|QFT Seminar|
@@ -30,8 +28,6 @@ draft: false
 #### Annual events
 
 In addition to weekly events, there are a variety of other activities.
-
----
 
 |----|Events|
 |----|----|
