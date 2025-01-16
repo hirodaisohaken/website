@@ -56,6 +56,10 @@ staticDir = 'static'
                 name = "Links"
                 url = "/links/"
                 weight = 8
+            [[languages.ja.Menu.main]]
+                name = "学生生活"
+                url = "/studentlife/"
+                weight = 9
     [languages.en]  # the URL for english pages will be ~/en
         baseURL = "{{BASE_URL}}/en/"
         languageName = 'English'
@@ -97,6 +101,10 @@ staticDir = 'static'
                 name = "Links"
                 url = "/links/"
                 weight = 8
+            [[languages.en.Menu.main]]
+                name = "Students Life"
+                url = "/studentlife/"
+                weight = 9
 
 
 [markup]
