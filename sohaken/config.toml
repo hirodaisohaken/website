@@ -53,12 +53,12 @@ staticDir = 'static'
                 url = "https://www.google.com/maps/search/Hotels/@34.4154954,132.7343238,14.58z/data=!4m7!2m6!3m5!2sHiroshima+University!3s0x355aa23e6f628dbb:0xb41b8827fb5fd7dd!4m2!1d132.7140406!2d34.3991292?entry=ttu"
                 weight = 7
             [[languages.ja.Menu.main]]
-                name = "Links"
-                url = "/links/"
-                weight = 8
-            [[languages.ja.Menu.main]]
                 name = "学生生活"
                 url = "/studentlife/"
+                weight = 8
+            [[languages.ja.Menu.main]]
+                name = "Links"
+                url = "/links/"
                 weight = 9
     [languages.en]  # the URL for english pages will be ~/en
         baseURL = "{{BASE_URL}}/en/"
@@ -98,13 +98,14 @@ staticDir = 'static'
                 url = "https://www.google.com/maps/search/Hotels/@34.4154954,132.7343238,14.58z/data=!4m7!2m6!3m5!2sHiroshima+University!3s0x355aa23e6f628dbb:0xb41b8827fb5fd7dd!4m2!1d132.7140406!2d34.3991292?entry=ttu"
                 weight = 7
             [[languages.en.Menu.main]]
-                name = "Links"
-                url = "/links/"
-                weight = 8
-            [[languages.en.Menu.main]]
                 name = "Students Life"
                 url = "/studentlife/"
+                weight = 8
+            [[languages.en.Menu.main]]
+                name = "Links"
+                url = "/links/"
                 weight = 9
+
 
 
 [markup]
