@@ -1,7 +1,7 @@
 ---
-title: "Students Life(Japanese)"
+title: "Students Life"
 date: 2025-01-01T00:00:00+09:00
-description: "Students Life(Japanese)"
+description: "Students Life"
 draft: false
 ---
 <!-- This area up to !--more-- is displayed in Home page as summary. -->
