@@ -1,4 +1,11 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Hiroshima University Sohaken Home on Hiroshima Univ. Particles and Hardon</title><link>https://hirodaisohaken.github.io/website/en/</link><description>Recent content in Hiroshima University Sohaken Home on Hiroshima Univ. Particles and Hardon</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Thu, 19 Dec 2024 12:50:00 +0900</lastBuildDate><atom:link href="https://hirodaisohaken.github.io/website/en/index.xml" rel="self" type="application/rss+xml"/><item><title>Core-U Seminar: Dr.Kotaro Murakami(Science Tokyo)</title><link>https://hirodaisohaken.github.io/website/en/seminars/2024/1219_murakami/</link><pubDate>Thu, 19 Dec 2024 12:50:00 +0900</pubDate><guid>https://hirodaisohaken.github.io/website/en/seminars/2024/1219_murakami/</guid><description>&lt;ul>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Hiroshima University Sohaken Home on Hiroshima Univ. Particles and Hardon</title><link>https://hirodaisohaken.github.io/website/en/</link><description>Recent content in Hiroshima University Sohaken Home on Hiroshima Univ. Particles and Hardon</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Mon, 03 Mar 2025 13:00:00 +0900</lastBuildDate><atom:link href="https://hirodaisohaken.github.io/website/en/index.xml" rel="self" type="application/rss+xml"/><item><title>Core-U Seminar: Dr. Hiroyuki Takata</title><link>https://hirodaisohaken.github.io/website/en/seminars/2025/0305_takata/</link><pubDate>Mon, 03 Mar 2025 13:00:00 +0900</pubDate><guid>https://hirodaisohaken.github.io/website/en/seminars/2025/0305_takata/</guid><description>&lt;ul>
+&lt;li>Speaker:
+Dr. Hiroyuki Takata&lt;/li>
+&lt;li>Date:
+Mon 3/5 Hybrid: E209 and online(Teams)&lt;/li>
+&lt;li>Title:
+Extended Fourier Transformation - A New Perspective Connecting Real Space and Fock Space&lt;/li>
+&lt;/ul></description></item><item><title>Core-U Seminar: Dr.Kotaro Murakami(Science Tokyo)</title><link>https://hirodaisohaken.github.io/website/en/seminars/2024/1219_murakami/</link><pubDate>Thu, 19 Dec 2024 12:50:00 +0900</pubDate><guid>https://hirodaisohaken.github.io/website/en/seminars/2024/1219_murakami/</guid><description>&lt;ul>
 &lt;li>Speaker:
 Dr.Kotaro Murakami (Science Tokyo )&lt;/li>
 &lt;li>Date:
@@ -276,7 +283,7 @@ Kagamiyama 1-3-1, Higashi Hiroshima, 739-8526, Japan&lt;/p>
 &lt;/a>
 &lt;/p>
 &lt;hr>
-&lt;h1 id="a-stencil-communication-sample-program-with-double-buffering-using-mpi-1httptheophysscihiroshima-uacjpishikawaapl9wgstencil_double_buffering_mpi-10targz">&lt;a href="http://theo.phys.sci.hiroshima-u.ac.jp/~ishikawa/APL9WG/stencil_double_buffering_mpi-1.0.tar.gz"
+&lt;h1 id="a-stencil-communication-sample-program-with-double-buffering-using-mpi-1">&lt;a href="http://theo.phys.sci.hiroshima-u.ac.jp/~ishikawa/APL9WG/stencil_double_buffering_mpi-1.0.tar.gz"
  
  target="_blank" rel="noopener" >
  A stencil communication sample program with double buffering using MPI-1.
