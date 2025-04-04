@@ -1,6 +1,6 @@
 ---
 title: "Members"
-date: 2024-10-18T04:01:00+09:00
+date: 2025-04-04T04:01:00+09:00
 description: "Our lab Staff, Post-Doc Researchers, Visitors, and Students"
 draft: false
 ---
@@ -24,17 +24,16 @@ Click on their names to learn more about their research and history.
 | ![picture of professor Inagaki](imgs/staff/inagaki_atarashi.jpg "memberimg") | [Tomohiro Inagaki](https://home.hiroshima-u.ac.jp/inagaki/) | inagaki@*| Professor | Media Center | [INSPIRE-HEP](https://inspirehep.net/search?p=a+tomohiro+inagaki) | ---- |
 | ![picture of associate professor Morozumi](imgs/staff/morozumi_atarashi.jpg "memberimg") | [Takuya Morozumi](members/staff/morozumi) | morozumi@* | Associate Professor | Eco-A306 | [INSPIRE-HEP](https://inspirehep.net/search?p=a+t.+morozumi) | ---- |
 | ![picture of associate professor Ishikawa](imgs/staff/ishikawa_20210104.jpg "memberimg") | [Ken-Ichi Ishikawa](http://theo.phys.sci.hiroshima-u.ac.jp/~ishikawa/) | ishikawa@# | Associate Professor | Eco-A307 | [INSPIRE-HEP](https://inspirehep.net/search?p=a+k.+i.+ishikawa) | ---- |
-| ![picture of assistant professor Sakai](imgs/staff/Sakai_picture.jpg "memberimg") | [Azumi Sakai](https://seeds.office.hiroshima-u.ac.jp/profile/en.46af3c3051ccaffd520e17560c007669.html) | azumi-sakai@* | Assistant Professor (Special Appointment)  | Eco-A427 | [INSPIRE-HEP](https://inspirehep.net/authors/2091512) | ---- |
-|![picture of assistant professor Nicholas](imgs/staff/Nicholas_picture.jpg "memberimg") | [Nicholas J. Benoit](https://home.hiroshima-u.ac.jp/njbenoit/) | njbenoit@*   | Specially Appointed Assistant Professor (Selected)  | Eco-A421 | [INSPIRE-HEP](https://inspirehep.net/authors/2052008) | ---- |
+| ![picture of assistant professor Nicholas](imgs/staff/Nicholas_picture.jpg "memberimg") | [Nicholas J. Benoit](https://home.hiroshima-u.ac.jp/njbenoit/) | njbenoit@*   | Specially Appointed Assistant Professor (Selected)  | Eco-A421 | [INSPIRE-HEP](https://inspirehep.net/authors/2052008) | ---- |
 
 ---
 
 # Post-Doctoral Researchers and Visitors {#visitors}
 | Name (first last) | Email         | Title                       | Room Number | Papers |
 |-----------------|---------------|------------------------------------------|-------------| ------ |
-| Masahiko Taniguchi | masa-taniguchi@* | Post-doc Researcher  |  | [INSPIRE-HEP](https://inspirehep.net/literature?sort=mostrecent&size=25&page=1&q=aff%20hiroshima%20u.%20and%20a%20Masahiko%20Taniguchi) |
 | Masanori Okawa     | okawa@sci.*  | Visitor             |  Eco-A421 | [INSPIRE-HEP](https://inspirehep.net/search?p=a+m.+okawa) |
 | Hiroki Sakamoto    | h-sakamoto@* | Visitor             |   | [INSPIRE-HEP](https://inspirehep.net/search?p=a+H.Sakamoto.4) |
+| Masahiko Taniguchi | masa-taniguchi@* | Post-doc Researcher  |  | [INSPIRE-HEP](https://inspirehep.net/literature?sort=mostrecent&size=25&page=1&q=aff%20hiroshima%20u.%20and%20a%20Masahiko%20Taniguchi) |
 
 ---
 
@@ -44,31 +43,32 @@ Click on their names to learn more about their research and history.
 
 |   | Doctors  |  |  | |
 |-----------------------------|-------|-------------|---------------------------------|---------|
-| Cendikia Abdi               | D3 | cendikiaabdi@*     | Eco-A212 |   |
-| Hironori Takei              | D3 |  t-hironori@*      | Eco-A212| [INSPIRE-HEP](https://inspirehep.net/literature?sort=mostrecent&size=25&page=1&q=aff%20hiroshima%20u.%20and%20a%20Hironori%20Takei)|
-| Yukimura Izawa              | D2 | izawa-yukimura@*   | Eco-A211 | [INSPIRE-HEP](https://inspirehep.net/literature?sort=mostrecent&size=25&page=1&q=aff%20hiroshima%20u.%20and%20a%20Yukimura%20Izawa)|
+| Cendikia Abdi               | OD | cendikiaabdi@*     | Eco-A212 |   |
+| Yukimura Izawa              | D3 | izawa-yukimura@*   | Eco-A211 | [INSPIRE-HEP](https://inspirehep.net/literature?sort=mostrecent&size=25&page=1&q=aff%20hiroshima%20u.%20and%20a%20Yukimura%20Izawa)|
 | Kota Takeuchi               | D2 | k-takeuchi@*       | Eco-A212 | [INSPIRE-HEP](https://inspirehep.net/literature?sort=mostrecent&size=25&page=1&q=aff%20hiroshima%20u.%20and%20a%20Kota%20Takeuchi) |
-| Naoki Yoshioka              | D1 |                | Eco-A421 |   |
-| Shonosuke Takeshita         | D1 | shonosuke@*    | Eco-A421 | [INSPIRE-HEP](https://inspirehep.net/literature?sort=mostrecent&size=25&page=1&q=shonosuke%20takeshita) |
-| Reishi Maeta                | D1 | maeta-reishi@* |  |   |
+| Naoki Yoshioka              | D2 | na-yoshioka@*      | Eco-A421 | [INSPIRE-HEP](https://inspirehep.net/literature?sort=mostrecent&size=25&page=1&q=a%20naoki%20yoshioka%20and%20r%20HUPD-%2A) |
+| Shonosuke Takeshita         | D2 | shonosuke@*        | Eco-A421 | [INSPIRE-HEP](https://inspirehep.net/literature?sort=mostrecent&size=25&page=1&q=shonosuke%20takeshita) |
+| Reishi Maeta                | D2 | maeta-reishi@*     |          |   |
+| Tomoharu Tahara             | D1 | t-tomoharu@*       | Eco-A212 | [INSPIRE-HEP](https://inspirehep.net/literature?sort=mostrecent&size=25&page=1&q=a%20tomoharu%20tahara%20and%20r%20HUPD-%2A) |
 
 |   | Masters  |  |   | |
 |----------------------------------|------|-------------|-----------------|-----------------------------------------------------------------------|
-| Ryuta Fukunaga              | M2 |                | Eco-A212 |   |
-| Tomoharu Tahara             | M2 |                | Eco-A212  |   |
-| Riku Kabayama               | M2 |                | Eco-A211 |   |
-| Gaia Higa                   | M2 |                | Eco-A212 |   |
-| Naoki Uemura                | M2 |                | Eco-A211 |   |
-| Muhammad Azzam Alwan        | M2 |                | Eco-A427 |   |
-| Yuma Kawakami              | M1 |    | Eco-A211 |   |
-| Shogo Takahashi            | M1 |    | Eco-A211 |   |
+| Muhammad Azzam Alwan       | M2 | azzam-alwan@* | Eco-A427 | [INSPIRE-HEP](https://inspirehep.net/literature?sort=mostrecent&size=25&page=1&q=a%20Muhammad%20Azzam%20Alwan) |
+| Yuma Kawakami              | M2 |    | Eco-A211 |   |
+| Shogo Takahashi            | M2 |    | Eco-A211 |   |
 | Zefeng Wang                | M1 |    | Eco-A211 |   |
+| Eri Miyoshi                | M1 |    | Eco-A212 |   |
+| Kohei Uno                  | M1 |    | Eco-A211 |   |
+| Hiroki Shimizu             | M1 |    | Eco-A211 |   |
 
 |   | Bachelors |  |  | |
 |----------------------------------|------|-------------|-----------------|-----------------------------------------------------------------------|
-|  Eri Miyoshi       | B4 |    | Eco-A212  |   |
-|  Kohei Uno          | B4 |    | Eco-A211 |   |
-|  Hiroki Shimizu       | B4 |    | Eco-A211  |   |
+| Reo Kawai                        | B4   |             | Eco-A212 |                                                                       |
+| Io  Murakami                     | B4   |             | Eco-A212 |                                                                       |
+| Shota Sakai                      | B4   |             | Eco-A212 |                                                                       |
+| Kazuma Shimosato                 | B4   |             | Eco-A211 |                                                                       |
+| Junki Matsuo                     | B4   |             | Eco-A211 |                                                                       |
+
 
 *:hiroshima-u.ac.jp
 
