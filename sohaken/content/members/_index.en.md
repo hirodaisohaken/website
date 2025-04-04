@@ -54,20 +54,20 @@ Click on their names to learn more about their research and history.
 |   | Masters  |  |   | |
 |----------------------------------|------|-------------|-----------------|-----------------------------------------------------------------------|
 | Muhammad Azzam Alwan       | M2 | azzam-alwan@* | Eco-A427 | [INSPIRE-HEP](https://inspirehep.net/literature?sort=mostrecent&size=25&page=1&q=a%20Muhammad%20Azzam%20Alwan) |
-| Yuma Kawakami              | M2 |    | Eco-A211 |   |
-| Shogo Takahashi            | M2 |    | Eco-A211 |   |
-| Zefeng Wang                | M1 |    | Eco-A211 |   |
-| Eri Miyoshi                | M1 |    | Eco-A212 |   |
-| Kohei Uno                  | M1 |    | Eco-A211 |   |
-| Hiroki Shimizu             | M1 |    | Eco-A211 |   |
+| Yuma Kawakami              | M2 |               | Eco-A211 |   |
+| Shogo Takahashi            | M2 |               | Eco-A211 |   |
+| Zefeng Wang                | M1 |               | Eco-A211 |   |
+| Eri Miyoshi                | M1 |               | Eco-A212 |   |
+| Kohei Uno                  | M1 |               | Eco-A211 |   |
+| Hiroki Shimizu             | M1 |               | Eco-A211 |   |
 
 |   | Bachelors |  |  | |
 |----------------------------------|------|-------------|-----------------|-----------------------------------------------------------------------|
 | Reo Kawai                        | B4   |             | Eco-A212 |                                                                       |
 | Io  Murakami                     | B4   |             | Eco-A212 |                                                                       |
 | Shota Sakai                      | B4   |             | Eco-A212 |                                                                       |
-| Kazuma Shimosato                 | B4   |             | Eco-A211 |                                                                       |
-| Junki Matsuo                     | B4   |             | Eco-A211 |                                                                       |
+| Kazuma Shimozato                 | B4   |             | Eco-A211 |                                                                       |
+| Yoshiki Matsuo                   | B4   |             | Eco-A211 |                                                                       |
 
 
 *:hiroshima-u.ac.jp
