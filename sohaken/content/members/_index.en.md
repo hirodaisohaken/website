@@ -1,6 +1,6 @@
 ---
 title: "Members"
-date: 2025-04-04T04:01:00+09:00
+date: 2025-04-11T04:01:00+09:00
 description: "Our lab Staff, Post-Doc Researchers, Visitors, and Students"
 draft: false
 ---
