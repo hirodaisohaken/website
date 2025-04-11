@@ -57,16 +57,16 @@ Click on their names to learn more about their research and history.
 | Yuma Kawakami              | M2 |               | Eco-A211 |   |
 | Shogo Takahashi            | M2 |               | Eco-A211 |   |
 | Zefeng Wang                | M1 |               | Eco-A211 |   |
-| Eri Miyoshi                | M1 |               | Eco-A212 |   |
-| Kohei Uno                  | M1 |               | Eco-A211 |   |
+| Eri Miyoshi                | M1 |               | Eco-A427 |   |
+| Kohei Uno                  | M1 |               | Eco-A212 |   |
 | Hiroki Shimizu             | M1 |               | Eco-A211 |   |
 
 |   | Bachelors |  |  | |
 |----------------------------------|------|-------------|-----------------|-----------------------------------------------------------------------|
 | Reo Kawai                        | B4   |             | Eco-A212 |                                                                       |
 | Io  Murakami                     | B4   |             | Eco-A212 |                                                                       |
-| Shota Sakai                      | B4   |             | Eco-A212 |                                                                       |
-| Kazuma Shimozato                 | B4   |             | Eco-A211 |                                                                       |
+| Shota Sakai                      | B4   |             | Eco-A211 |                                                                       |
+| Kazuma Shimozato                 | B4   |             | Eco-A212 |                                                                       |
 | Yoshiki Matsuo                   | B4   |             | Eco-A211 |                                                                       |
 
 
