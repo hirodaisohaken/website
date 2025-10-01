@@ -19,6 +19,7 @@ Earlier thesis's maybe added at a later time.  The theses are in no particular o
 
 ## 2023
 | Student Name (Last, First) | Thesis Title | Language | HUIR Link |
+| ---- | ---- | ---- | ---- |
 | Ji, Yingbo           | Study of Numerical Stochastic Perturbation Theory toward the high-order perturbation of matrix models | En | [HUIR](https://hiroshima.repo.nii.ac.jp/records/2001821)  |
 | Taniguchi, Masahiko  | Cartan F(R) gravity and the time evolution of the Universe  | En | [HUIR](https://hiroshima.repo.nii.ac.jp/records/2001913) |
 
