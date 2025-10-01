@@ -1,6 +1,6 @@
 ---
 title: "研究室のメンバー"
-date: 2025-04-11T04:00:00+09:00
+date: 2025-10-01T04:00:00+09:00
 description: "研究室に所属するスタッフ・ポスドク・ビジター・学生の一覧ページ"
 draft: false
 ---
@@ -36,11 +36,11 @@ draft: false
 ---
 
 # 学生
-| 氏名                             | 学年 | メール           | 部屋 | 論文検索                                                              |
+| 氏名                             | 学年 | メール      | 部屋         | 論文検索                                                              |
 |----------------------------------|------|-------------|--------------|-----------------------------------------------------------------------|
 
-|                                  | 博士 |             |              |                                                                          |
-|----------------------------------|------|-------------|------------------|-----------------------------------------------------------------------|
+|                                  | 博士 |             |              |                                                                       |
+|----------------------------------|------|-------------|--------------|-----------------------------------------------------------------------|
 | チェンディキア アブディ          | OD   | cendikiaabdi@*   | 経A212 |                                                                       |
 | 井澤 幸邑                        | D3   | izawa-yukimura@* | 経A211 | [INSPIRE-HEP](https://inspirehep.net/literature?sort=mostrecent&size=25&page=1&q=aff%20hiroshima%20u.%20and%20a%20Yukimura%20Izawa)  |
 | 竹内 康太                        | D2   | k-takeuchi@*     | 経A212 | [INSPIRE-HEP](https://inspirehep.net/literature?sort=mostrecent&size=25&page=1&q=f%20a%20Kota%20Takeuchi%20and%20aff%20%20Hiroshima%20U.) |
@@ -48,11 +48,12 @@ draft: false
 | 竹下 昌之介                      | D2   | shonosuke@*      | 経A421 | [INSPIRE-HEP](https://inspirehep.net/literature?sort=mostrecent&size=25&page=1&q=shonosuke%20takeshita) |
 | 前田 玲史                        | D2   | maeta-reishi@*   |        |                                                                       |
 | 田原 智治                        | D1   | t-tomoharu@*     | 経A212 | [INSPIRE-HEP](https://inspirehep.net/literature?sort=mostrecent&size=25&page=1&q=a%20tomoharu%20tahara%20and%20r%20HUPD-%2A) |
+| ムハマド アッザム アルワン       | D1   | azzam-alwan@*    | 経A427 | [INSPIRE-HEP](https://inspirehep.net/literature?sort=mostrecent&size=25&page=1&q=a%20Muhammad%20Azzam%20Alwan) |
+| パンディ シッダールタ ラメシュ   | D1   |                  | 経A427 |                                                                       |
 
 
 |                                  | 修士 |             |                |                                                                       |
 |----------------------------------|------|-------------|----------------|-----------------------------------------------------------------------|
-| ムハマド アッザム アルワン       | M2   | azzam-alwan@* | 経A427 | [INSPIRE-HEP](https://inspirehep.net/literature?sort=mostrecent&size=25&page=1&q=a%20Muhammad%20Azzam%20Alwan) |
 | 川上 侑真                        | M2   |             | 経A211 |                                                                       |
 | 高橋 昇吾                        | M2   |             | 経A211 |                                                                       |
 | 王 沢豊                          | M1   |             | 経A211 |                                                                       |
