@@ -13,9 +13,8 @@ This area up to !--more-- is displayed as Summary in listing pages linked from s
 
 学位論文の題目と広島大学学術情報リポジトリへのリンクとをまとめたページです。
 <!--more-->
-まず[博士論文]({{< relref path="/members/past/degrees.md#博士論文" >}})を提出し、次に[修士論文]({{< relref path="/members/past/degrees.md#修士論文" >}})を提出します。
-このリストは 2016 年から始まったばかりで、以前の論文は後で追加される可能性があります。
-論文は順不同です。
+<!-- まず[博士論文]({{< relref path="/members/past/degrees.md#博士論文" >}})を提出し、次に[修士論文]({{< relref path="/members/past/degrees.md#修士論文" >}})を提出します。 -->
+以前の論文が後で追加される可能性があります。 論文は順不同です。
 
 # 博士論文
 ## 2023
