@@ -3,72 +3,72 @@ NOTE:
 Tilte is displayed as Topic title in Home page and Listing page.
 Description is displayed as Short summary in Home page.
 This area up to !--more-- is displayed as Summary in listing pages linked from sidebar items.
--->
-&lt;p>過去ポスドク研究員とビジターがリストです。&lt;/p></description></item><item><title>卒業後の進路</title><link>http://theo.phys.sci.hiroshima-u.ac.jp/~sohaken/ja/members/past/career/</link><pubDate>Tue, 19 Jul 2022 15:56:57 +0900</pubDate><guid>http://theo.phys.sci.hiroshima-u.ac.jp/~sohaken/ja/members/past/career/</guid><description>&lt;!--
+--&gt;
+&lt;p&gt;過去ポスドク研究員とビジターがリストです。&lt;/p&gt;</description></item><item><title>卒業後の進路</title><link>http://theo.phys.sci.hiroshima-u.ac.jp/~sohaken/ja/members/past/career/</link><pubDate>Tue, 19 Jul 2022 15:56:57 +0900</pubDate><guid>http://theo.phys.sci.hiroshima-u.ac.jp/~sohaken/ja/members/past/career/</guid><description>&lt;!--
 NOTE:
 Tilte is displayed as Topic title in Home page and Listing page.
 Description is displayed as Short summary in Home page.
 This area up to !--more-- is displayed as Summary in listing pages linked from sidebar items.
--->
-&lt;p>博士課程卒業後の進路&lt;/p></description></item><item><title>学位論文</title><link>http://theo.phys.sci.hiroshima-u.ac.jp/~sohaken/ja/members/past/degrees/</link><pubDate>Tue, 19 Jul 2022 15:55:56 +0900</pubDate><guid>http://theo.phys.sci.hiroshima-u.ac.jp/~sohaken/ja/members/past/degrees/</guid><description>&lt;!--
+--&gt;
+&lt;p&gt;博士課程卒業後の進路&lt;/p&gt;</description></item><item><title>学位論文</title><link>http://theo.phys.sci.hiroshima-u.ac.jp/~sohaken/ja/members/past/degrees/</link><pubDate>Tue, 19 Jul 2022 15:55:56 +0900</pubDate><guid>http://theo.phys.sci.hiroshima-u.ac.jp/~sohaken/ja/members/past/degrees/</guid><description>&lt;!--
 NOTE:
 Tilte is displayed as Topic title in Home page and Listing page.
 Description is displayed as Short summary in Home page.
 This area up to !--more-- is displayed as Summary in listing pages linked from sidebar items.
--->
-&lt;p>学位論文の題目と広島大学学術情報リポジトリへのリンクとをまとめたページです。&lt;/p></description></item><item><title>石川 健一</title><link>http://theo.phys.sci.hiroshima-u.ac.jp/~sohaken/ja/members/staff/ishikawa/</link><pubDate>Mon, 23 May 2022 09:39:39 +0900</pubDate><guid>http://theo.phys.sci.hiroshima-u.ac.jp/~sohaken/ja/members/staff/ishikawa/</guid><description>&lt;p>名前 : 石川 健一 (Ken-Ichi Ishikawa)&lt;/p>
-&lt;p>専門分野 : 格子QCD, 素粒子物理学
-Research Interests: Lattice QCD, Elementary particle physics&lt;/p>
-&lt;p>〒739-8526 広島県東広島市鏡山1-3-1
+--&gt;
+&lt;p&gt;学位論文の題目と広島大学学術情報リポジトリへのリンクとをまとめたページです。&lt;/p&gt;</description></item><item><title>石川 健一</title><link>http://theo.phys.sci.hiroshima-u.ac.jp/~sohaken/ja/members/staff/ishikawa/</link><pubDate>Mon, 23 May 2022 09:39:39 +0900</pubDate><guid>http://theo.phys.sci.hiroshima-u.ac.jp/~sohaken/ja/members/staff/ishikawa/</guid><description>&lt;p&gt;名前 : 石川 健一 (Ken-Ichi Ishikawa)&lt;/p&gt;
+&lt;p&gt;専門分野 : 格子QCD, 素粒子物理学
+Research Interests: Lattice QCD, Elementary particle physics&lt;/p&gt;
+&lt;p&gt;〒739-8526 広島県東広島市鏡山1-3-1
 広島大学理学部物理科学科素粒子論研究室
 Address: Hiroshima University, Department of Physical Science,
-Kagamiyama 1-3-1, Higashi Hiroshima, 739-8526, Japan&lt;/p>
-&lt;p>Office Phone : +81-(0)824-24-7363&lt;/p>
-&lt;p>Office FAX : +81-(0)824-24-0717&lt;/p>
-&lt;p>E-mail : ishikawa[アットマーク]phys.sci.hiroshima-u.jp.ac&lt;/p>
-&lt;hr>
-&lt;h1 id="研究助成">研究助成&lt;/h1>
-&lt;h3 id="平成２４年度科学研究費補助金">平成２４年度科学研究費補助金:&lt;/h3>
-&lt;ul>
-&lt;li>研究種目:基盤研究(C)&lt;/li>
-&lt;li>研究課題名:「格子QCD理論におけるオーバーラップフェルミオンソルバーの前処理に関する研究」&lt;/li>
-&lt;li>課題番号:24540276&lt;/li>
-&lt;/ul>
-&lt;h3 id="平成２０-２２年度科学研究費補助金">平成２０-２２年度科学研究費補助金:&lt;/h3>
-&lt;ul>
-&lt;li>研究種目:若手B&lt;/li>
-&lt;li>研究課題名:「汎用グラフィックカードを用いた格子QCD計算の加速法の研究」&lt;/li>
-&lt;li>課題番号:20740139 [Nvidia CUDA QCD project page]&lt;/li>
-&lt;/ul>
-&lt;h3 id="平成１６-１８年度科学研究費補助金">平成１６-１８年度科学研究費補助金:&lt;/h3>
-&lt;ul>
-&lt;li>研究種目:若手B&lt;/li>
-&lt;li>研究課題名:「ダイナミカル格子QCDアルゴリズムの前処理法による改良の研究」&lt;/li>
-&lt;li>課題番号:16740147&lt;/li>
-&lt;/ul>
-&lt;hr>
-&lt;h1 id="a-stencil-communication-sample-program-with-double-buffering-using-mpi-1">&lt;a href="http://theo.phys.sci.hiroshima-u.ac.jp/~ishikawa/APL9WG/stencil_double_buffering_mpi-1.0.tar.gz"
+Kagamiyama 1-3-1, Higashi Hiroshima, 739-8526, Japan&lt;/p&gt;
+&lt;p&gt;Office Phone : +81-(0)824-24-7363&lt;/p&gt;
+&lt;p&gt;Office FAX : +81-(0)824-24-0717&lt;/p&gt;
+&lt;p&gt;E-mail : ishikawa[アットマーク]phys.sci.hiroshima-u.jp.ac&lt;/p&gt;
+&lt;hr&gt;
+&lt;h1 id="研究助成"&gt;研究助成&lt;/h1&gt;
+&lt;h3 id="平成２４年度科学研究費補助金"&gt;平成２４年度科学研究費補助金:&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;研究種目:基盤研究(C)&lt;/li&gt;
+&lt;li&gt;研究課題名:「格子QCD理論におけるオーバーラップフェルミオンソルバーの前処理に関する研究」&lt;/li&gt;
+&lt;li&gt;課題番号:24540276&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id="平成２０-２２年度科学研究費補助金"&gt;平成２０-２２年度科学研究費補助金:&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;研究種目:若手B&lt;/li&gt;
+&lt;li&gt;研究課題名:「汎用グラフィックカードを用いた格子QCD計算の加速法の研究」&lt;/li&gt;
+&lt;li&gt;課題番号:20740139 [Nvidia CUDA QCD project page]&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id="平成１６-１８年度科学研究費補助金"&gt;平成１６-１８年度科学研究費補助金:&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;研究種目:若手B&lt;/li&gt;
+&lt;li&gt;研究課題名:「ダイナミカル格子QCDアルゴリズムの前処理法による改良の研究」&lt;/li&gt;
+&lt;li&gt;課題番号:16740147&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h1 id="a-stencil-communication-sample-program-with-double-buffering-using-mpi-1"&gt;&lt;a href="http://theo.phys.sci.hiroshima-u.ac.jp/~ishikawa/APL9WG/stencil_double_buffering_mpi-1.0.tar.gz"
  
- target="_blank" rel="noopener" >
+ target="_blank" rel="noopener" &gt;
  A stencil communication sample program with double buffering using MPI-1.
-&lt;/a>
-&lt;/h1>
-&lt;p>The two dimensional Poisson equation is solved with the Jacobi iteration algorithm. This work has been done with Issaku Kanamori and the co-design working group members for the lattice QCD applications on Post K Computer, and supported by Priority Issue 9 to be tackled by Using Post K Computer.&lt;/p></description></item><item><title>両角 卓也</title><link>http://theo.phys.sci.hiroshima-u.ac.jp/~sohaken/ja/members/staff/morozumi/</link><pubDate>Tue, 17 May 2022 17:59:27 +0900</pubDate><guid>http://theo.phys.sci.hiroshima-u.ac.jp/~sohaken/ja/members/staff/morozumi/</guid><description>&lt;h1 id="introduction">Introduction&lt;/h1>
-&lt;p>物質や質量の起源は何か？　　
+&lt;/a&gt;
+&lt;/h1&gt;
+&lt;p&gt;The two dimensional Poisson equation is solved with the Jacobi iteration algorithm. This work has been done with Issaku Kanamori and the co-design working group members for the lattice QCD applications on Post K Computer, and supported by Priority Issue 9 to be tackled by Using Post K Computer.&lt;/p&gt;</description></item><item><title>両角 卓也</title><link>http://theo.phys.sci.hiroshima-u.ac.jp/~sohaken/ja/members/staff/morozumi/</link><pubDate>Tue, 17 May 2022 17:59:27 +0900</pubDate><guid>http://theo.phys.sci.hiroshima-u.ac.jp/~sohaken/ja/members/staff/morozumi/</guid><description>&lt;h1 id="introduction"&gt;Introduction&lt;/h1&gt;
+&lt;p&gt;物質や質量の起源は何か？　　
 我々の存在の根源に関わる疑問を解明しようというのが、
-私の研究テーマです。具体的なテーマは次のとうりです。&lt;/p>
-&lt;p>１）CP対称性の破れと物質の起源&lt;br>
-２）B 中間子稀崩壊現象による標準模型を超える理論の検証&lt;br>
-３）Chiral　Weak　Dynamics　（K中間子崩壊の理論&lt;br>&lt;/p>
-&lt;p>　素粒子の相互作用の中でクオークや電子、ニュートリノなどの質量を
+私の研究テーマです。具体的なテーマは次のとうりです。&lt;/p&gt;
+&lt;p&gt;１）CP対称性の破れと物質の起源&lt;br&gt;
+２）B 中間子稀崩壊現象による標準模型を超える理論の検証&lt;br&gt;
+３）Chiral　Weak　Dynamics　（K中間子崩壊の理論&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;　素粒子の相互作用の中でクオークや電子、ニュートリノなどの質量を
 決めている部分を湯川相互作用と呼んでいます。この相互作用は
 素粒子の相互作用のうち１２種類のクオークやレプトンの間で異なる値
 をとり、いわば、いろんな物質の存在形態の個性を与えている部分です。
 群論的に値が簡単には決まったりはせず、いろいろな対称性を破る起源
 になっています。その一つがCP対称性の破れで、現在、我々の宇宙でなぜ
 物質のほうが反物質より多いのかという疑問をとく鍵であると考えられています。
-（CPの破れと物質の起源）&lt;/p>
-&lt;p>　　私の研究テーマの一つはこのCP対称性の破れを、手がかりにして、
+（CPの破れと物質の起源）&lt;/p&gt;
+&lt;p&gt;　　私の研究テーマの一つはこのCP対称性の破れを、手がかりにして、
 宇宙の物質反物質非対称性を説明する理論を特定することです。
 また逆に、もっともらしいモデルを構築してどのような現象がおきるか
 という研究もしています。そのために、モデルが予言する標準模型から
@@ -80,4 +80,4 @@ Kagamiyama 1-3-1, Higashi Hiroshima, 739-8526, Japan&lt;/p>
 と実験値を比較するには、K中間子やB中間子の束縛状態としての性質を調
 べなければなりません。現在のところK-2PI崩壊やB-2PI崩壊を満足に計算する
 理論的枠組みは完成していません。これを何とかするのも私の研究テーマ
-の一つです。（Chiral　Weak　Dynamics)&lt;/p></description></item></channel></rss>
+の一つです。（Chiral　Weak　Dynamics)&lt;/p&gt;</description></item></channel></rss>
