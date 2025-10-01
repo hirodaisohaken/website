@@ -38,13 +38,13 @@ Earlier thesis's maybe added at a later time.  The theses are in no particular o
 ## 2019
 | Student Name (Last, First) | Thesis Title | Language | HUIR Link |
 | ---- | ---- | ---- | ---- |
-| Ueno, Ryoichiro | Study of tensor renormalization group algorithm toward application to field theory | eng | [HUIR](https://ir.lib.hiroshima-u.ac.jp/00048344) |
-| Ookane, Hideaki | Construction of a renormalization group improved effective potential in a two real scalar system | eng | [HUIR](https://ir.lib.hiroshima-u.ac.jp/00048333) |
-| Apriadi Salim, Adam | Particle Number Asymmetry Generation in the Universe | eng | [HUIR](https://ir.lib.hiroshima-u.ac.jp/00048348) |
-| Yuu, Akihiro | Study of Three Generation Seesaw Model with Dirac Mass Matrix of Four-zero Texture and CP Violation in Neutrino Sector | eng | [HUIR](https://ir.lib.hiroshima-u.ac.jp/00049399) |
-| Sakamoto, Hiroki | Inflationary models improved by quantum corrections | eng | [HUIR](https://ir.lib.hiroshima-u.ac.jp/00049444) |
-| Takagi, Kenta | Phenomenology for the Lepton Flavor Mixing | eng | [HUIR](https://ir.lib.hiroshima-u.ac.jp/00049445) |
-| Takahashi, Shunya | Analysis of Model with Vector-like Quark through Standard Model Effective Field Theory | eng | [HUIR](https://ir.lib.hiroshima-u.ac.jp/00049446) |
+| Ueno, Ryoichiro | Study of tensor renormalization group algorithm toward application to field theory | En | [HUIR](https://ir.lib.hiroshima-u.ac.jp/00048344) |
+| Ookane, Hideaki | Construction of a renormalization group improved effective potential in a two real scalar system | En | [HUIR](https://ir.lib.hiroshima-u.ac.jp/00048333) |
+| Apriadi Salim, Adam | Particle Number Asymmetry Generation in the Universe | En | [HUIR](https://ir.lib.hiroshima-u.ac.jp/00048348) |
+| Yuu, Akihiro | Study of Three Generation Seesaw Model with Dirac Mass Matrix of Four-zero Texture and CP Violation in Neutrino Sector | En | [HUIR](https://ir.lib.hiroshima-u.ac.jp/00049399) |
+| Sakamoto, Hiroki | Inflationary models improved by quantum corrections | En | [HUIR](https://ir.lib.hiroshima-u.ac.jp/00049444) |
+| Takagi, Kenta | Phenomenology for the Lepton Flavor Mixing | En | [HUIR](https://ir.lib.hiroshima-u.ac.jp/00049445) |
+| Takahashi, Shunya | Analysis of Model with Vector-like Quark through Standard Model Effective Field Theory | En | [HUIR](https://ir.lib.hiroshima-u.ac.jp/00049446) |
 
 ## 2017
 | Student Name (Last, First) | Thesis Title | Language | HUIR Link |
