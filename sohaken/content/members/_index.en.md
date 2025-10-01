@@ -1,6 +1,6 @@
 ---
 title: "Members"
-date: 2025-04-11T04:01:00+09:00
+date: 2025-10-01T04:01:00+09:00
 description: "Our lab Staff, Post-Doc Researchers, Visitors, and Students"
 draft: false
 ---
@@ -50,10 +50,11 @@ Click on their names to learn more about their research and history.
 | Shonosuke Takeshita         | D2 | shonosuke@*        | Eco-A421 | [INSPIRE-HEP](https://inspirehep.net/literature?sort=mostrecent&size=25&page=1&q=shonosuke%20takeshita) |
 | Reishi Maeta                | D2 | maeta-reishi@*     |          |   |
 | Tomoharu Tahara             | D1 | t-tomoharu@*       | Eco-A212 | [INSPIRE-HEP](https://inspirehep.net/literature?sort=mostrecent&size=25&page=1&q=a%20tomoharu%20tahara%20and%20r%20HUPD-%2A) |
+| Muhammad Azzam Alwan        | D1 | azzam-alwan@* | Eco-A427 | [INSPIRE-HEP](https://inspirehep.net/literature?sort=mostrecent&size=25&page=1&q=a%20Muhammad%20Azzam%20Alwan) |
+| Pandey Siddharth Ramesh     | D1 |               | Eco-A427 |  |
 
 |   | Masters  |  |   | |
 |----------------------------------|------|-------------|-----------------|-----------------------------------------------------------------------|
-| Muhammad Azzam Alwan       | M2 | azzam-alwan@* | Eco-A427 | [INSPIRE-HEP](https://inspirehep.net/literature?sort=mostrecent&size=25&page=1&q=a%20Muhammad%20Azzam%20Alwan) |
 | Yuma Kawakami              | M2 |               | Eco-A211 |   |
 | Shogo Takahashi            | M2 |               | Eco-A211 |   |
 | Zefeng Wang                | M1 |               | Eco-A211 |   |
