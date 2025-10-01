@@ -59,6 +59,7 @@ This area up to !--more-- is displayed as Summary in listing pages linked from s
 
 ## 2014
 | 学生の名前 (性 名) | 論文題目                                      | 言語 | HUIRのリンク                                      |
+|--------------------|-----------------------------------------------|------|---------------------------------------------------|
 | 玉井 孝太郎 | Higgs sector of Dirac neutrino mass model of Davidson and Logan （ダヴィドソンとローガンのディラックニュートリノ質量模型のヒッグスセクター） | 英語 | [HUIR](https://hiroshima.repo.nii.ac.jp/records/2004692) ]
 
 
