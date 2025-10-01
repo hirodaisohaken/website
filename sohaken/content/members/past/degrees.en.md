@@ -57,6 +57,7 @@ Earlier thesis's maybe added at a later time.  The theses are in no particular o
 | Umeeda, Hiroyuki | Time Reversal Violation through B Meson Mixing | En | [HUIR](https://ir.lib.hiroshima-u.ac.jp/00043601) |
 
 ## 2014
+| Student Name (Last, First) | Thesis Title | Language | HUIR Link |
 |--------------------|-----------------------------------------------|------|---------------------------------------------------|
 | Tamai, Kotaro  | Higgs sector of Dirac neutrino mass model of Davidson and Logan | En | [HUIR](https://hiroshima.repo.nii.ac.jp/records/2004692) |
 
