@@ -11,13 +11,23 @@ Whereas, we place little focus on the backend HTML/CSS/JS and Hugo policies.
 # How to generate/edit sohaken web page
 - git command is used.
 - generate local repository: git clone https://github.com/hirodaisohaken/website
+- edit contents sohaken/content/ where _index.en.md or _index.ja.md are located in a structure. 
 - commit modifications on the local repository:  git commit -m "message"
 - reflect local modifications on the GitHub master repository:  git push
 - If you want to use an SSH connection to GitHub, you need to change the access method.
   - Prepare your SSH account on GitHub and upload your ssh-key. You can check the ssh connection with: ssh -T git@github.com
   - Check the access method: git remote -v
-  - Change the access method to ss mode:  git remote set-url origin git@github.com:hirodaisohaken/website
+  - Change the access method to SSH mode:  git remote set-url origin git@github.com:hirodaisohaken/website
   - Verify your access method: git remote -v
+  - 
+- To generate public_html on the local repository:
+  - HUGO command/system has to be installed your machine.
+  - Replace
+     baseURL = "{{BASE_URL}}/ja/"
+   to
+     baseURL = "http://theo.phys.sci.hiroshima-u.ac.jp/~sohaken/ja/"
+   in sohaken/config.toml
+  - Geneate public_html in sohaken/public:  hugo --minify -s ./sohaken/
 
 # Translation Notes
 i18n folder holds general translations for English and Japanese.  Content in different languages is driven by markdown file extensions `_index.en.md` and `_index.ja.md` for example.
