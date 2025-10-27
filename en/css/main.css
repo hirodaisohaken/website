@@ -3,7 +3,6 @@ img {max-width:100%;}
 ol,ul {
   list-style: none;
   margin: 0;
-  padding: 0;
 }
 a {
     color: inherit;
@@ -197,4 +196,37 @@ h1,h2,h3,h4,h5,h6,p,table {
     display: inline-block;
     margin: 0 .25rem;
     content: ">";
+}
+
+.ssifooter {
+    grid-column: 1 / -1;
+    padding: 1.5rem;
+    display: flex;
+    flex-flow: column wrap;
+    align-items: center;
+    bottom: 0;
+    color:  #FFFFFF;
+    background-color: #0077ff;
+    font-weight: bold;
+}
+
+.ssiheader {
+    grid-column: 1 / span 12;
+    padding: 0.5rem 0.5rem;
+    display: flex;
+    justify-content: center;
+    color:  #000000;
+}
+
+.ssiimg {
+    border-radius: 100%;
+    max-width: 100%;
+    object-fit: contain;
+}
+
+.ssih1 {
+    position: absolute;
+    align-items: center;
+    color: #FFFFFF;
+    background-color: #00000065;
 }
