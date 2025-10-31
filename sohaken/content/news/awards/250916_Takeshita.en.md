@@ -6,6 +6,7 @@ draft: false
 ---
 
 We are happy to congratulate Shonosuke Takeshita, a doctoral student in our group!
+
 He was awarded as the best student presenter at the [Physical Society of Japan 2025 (80th) Annual Meeting] (https://www.jps.or.jp/activities/awards/gakusei/2025a_student_presentation_award.php).
 
 <!--more-->
