@@ -1,6 +1,6 @@
 ---
 title: "Members"
-date: 2026-04-08T04:01:00+09:00
+date: 2026-04-13T04:01:00+09:00
 description: "Our lab Staff, Post-Doc Researchers, Visitors, and Students"
 draft: false
 ---
@@ -53,23 +53,22 @@ Click on their names to learn more about their research and history.
 
 |   | Masters  |  |   | |
 |----------------------------------|------|-------------|-----------------|-----------------------------------------------------------------------|
-| Kohei Uno                  | M2 |            | Eco-C214 |   |
-| Zefeng Wang                | M2 |            | Eco-C213 |   |
-| Hiroki Shimizu             | M2 |            | Eco-C213 |   |
-| Eri Miyoshi                | M2 |            | Eco-C210 |   |
-| Io  Murakami               | M1 |            | Eco-C214 |   |
-| Yoshiki Matsuo             | M1 |            | Eco-C213 |   |
-| Satoru Tsumagari           | M1 |            | Eco-C214 |   |
-| Takahiro Yamada            | M1 |            | Eco-C214 |   |
+| Kohei Uno                  | M2 |            | Sci-C214 |   |
+| Zefeng Wang                | M2 |            | Sci-C213 |   |
+| Hiroki Shimizu             | M2 |            | Sci-C213 |   |
+| Eri Miyoshi                | M2 |            | Sci-C210 |   |
+| Io  Murakami               | M1 |            | Sci-C214 |   |
+| Yoshiki Matsuo             | M1 |            | Sci-C213 |   |
+| Satoru Tsumagari           | M1 |            | Sci-C214 |   |
+| Takahiro Yamada            | M1 |            | Sci-C214 |   |
 
 |   | Bachelors |  |  | |
 |----------------------------------|------|-------------|-----------------|-----------------------------------------------------------------------|
-| Kazuma Shimozato           | B4  |      | Eco-C214 |     |
-| Daichi Kawato              | B4  |      | Eco-C213 |     |
-| Ryo    Sano                | B4  |      | Eco-C213 |     |
-| Wataru Nakamura            | B4  |      | Eco-C213 |     |
-| Ryouma Uegaki              | B4  |      | Eco-C213 |     |
-
+| Kazuma Shimozato           | B4  |      | Sci-C214 |     |
+| Daichi Kawato              | B4  |      | Sci-C213 |     |
+| Ryo    Sano                | B4  |      | Sci-C213 |     |
+| Wataru Nakamura            | B4  |      | Sci-C213 |     |
+| Ryouma Uegaki              | B4  |      | Sci-C213 |     |
 
 
 *:hiroshima-u.ac.jp
