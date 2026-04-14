@@ -1,6 +1,6 @@
 ---
 title: "Access to Sohaken lab"
-date: 2022-04-14T16:31:03+09:00
+date: 2026-14-14T16:31:03+09:00
 description: "how to access to Sohaken lab"
 draft: false
 ---
