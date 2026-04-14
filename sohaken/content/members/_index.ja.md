@@ -1,6 +1,6 @@
 ---
 title: "研究室のメンバー"
-date: 2026-04-08T04:00:00+09:00
+date: 2026-04-14T04:00:00+09:00
 description: "研究室に所属するスタッフ・ポスドク・ビジター・学生の一覧ページ"
 draft: false
 ---
@@ -20,10 +20,10 @@ draft: false
 
 | | 氏名 | メール | 職名 | 居室 | 論文 | 研究者紹介 |
 | ---- | ---- | ---- | ---- | ---- | ---- | ---- |
-| ![野中先生の写真](imgs/staff/nonaka_atarashi.jpg "memberimg")   | [野中 千穂](https://seeds.office.hiroshima-u.ac.jp/profile/ja.d02aa0cf7fd0bf59520e17560c007669.html)  | nchiho@* | 教授 | 経A309 | [INSPIRE-HEP](https://inspirehep.net/search?p=a+chiho+nonaka) | [研究者紹介](https://archive2.hiroshima-u.ac.jp/nyushi/nanigamanaberuka2025/#page=11) |
+| ![野中先生の写真](imgs/staff/nonaka_atarashi.jpg "memberimg")   | [野中 千穂](https://seeds.office.hiroshima-u.ac.jp/profile/ja.d02aa0cf7fd0bf59520e17560c007669.html)  | nchiho@* | 教授 | 理C218 | [INSPIRE-HEP](https://inspirehep.net/search?p=a+chiho+nonaka) | [研究者紹介](https://archive2.hiroshima-u.ac.jp/nyushi/nanigamanaberuka2025/#page=11) |
 | ![稲垣先生の写真](imgs/staff/inagaki_atarashi.jpg "memberimg")  | [稲垣 知宏](https://home.hiroshima-u.ac.jp/inagaki/) | inagaki@*    | 教授    | 情報メディア教育研究センター | [INSPIRE-HEP](https://inspirehep.net/search?p=a+tomohiro+inagaki) | ---- |
-| ![両角先生の写真](imgs/staff/morozumi_atarashi.jpg "memberimg") | [両角 卓也](members/staff/morozumi)  | morozumi@*   | 准教授 | 経A306 | [INSPIRE-HEP](https://inspirehep.net/search?p=a+t.+morozumi) | ---- |
-| ![石川先生の写真](imgs/staff/ishikawa_20210104.jpg "memberimg") | [石川 健一](http://theo.phys.sci.hiroshima-u.ac.jp/~ishikawa/)  | ishikawa@#   | 准教授 | 経A307 | [INSPIRE-HEP](https://inspirehep.net/search?p=a+k.+i.+ishikawa) |
+| ![両角先生の写真](imgs/staff/morozumi_atarashi.jpg "memberimg") | [両角 卓也](members/staff/morozumi)  | morozumi@*   | 准教授 | 理C216 | [INSPIRE-HEP](https://inspirehep.net/search?p=a+t.+morozumi) | ---- |
+| ![石川先生の写真](imgs/staff/ishikawa_20210104.jpg "memberimg") | [石川 健一](http://theo.phys.sci.hiroshima-u.ac.jp/~ishikawa/)  | ishikawa@#   | 准教授 | 理C217 | [INSPIRE-HEP](https://inspirehep.net/search?p=a+k.+i.+ishikawa) |
 
 #  ポスドク研究員とビジター
 | 氏名        | メール         | 職名                 | 居室 | 論文検索  |
