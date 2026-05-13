@@ -67,7 +67,7 @@ Click on their names to learn more about their research and history.
 | Kazuma Shimozato           | B4  |      | Sci-C214 |     |
 | Daichi Kawato              | B4  |      | Sci-C213 |     |
 | Ryo    Sano                | B4  |      | Sci-C213 |     |
-| Wataru Nakamura            | B4  |      | Sci-C213 |     |
+| Wataru Nakane              | B4  |      | Sci-C213 |     |
 | Ryouma Uegaki              | B4  |      | Sci-C213 |     |
 
 
