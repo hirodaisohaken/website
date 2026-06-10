@@ -16,7 +16,7 @@ staticDir = 'static'
 
 [languages] # This will sort though all our language options and keep things neat
     [languages.ja] # the URL for japanese pages will be ~/
-        baseURL = "ja/"
+        baseURL = "{{BASE_URL}}/ja/"
         languageName = '日本語'
         languageCode = 'ja'
         theme = 'sohakenTheme'
@@ -65,7 +65,7 @@ staticDir = 'static'
                 url = "/ssi/"
                 weight = 10
     [languages.en]  # the URL for english pages will be ~/en
-        baseURL = "en/"
+        baseURL = "{{BASE_URL}}/en/"
         languageName = 'English'
         languageCode = 'en-us'
         theme = 'sohakenTheme'
