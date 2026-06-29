@@ -1,6 +1,6 @@
 ---
 title: "Watching Carp-Orix interleague game"
-date: 2026-06-06T06:14:00+09:00
+date: 2026-06-06T14:00:00+09:00
 description: "We went on a Mazda studium to watch Carp-Orix interleague game"
 draft: false
 ---
