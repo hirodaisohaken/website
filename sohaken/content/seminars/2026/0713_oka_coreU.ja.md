@@ -1,14 +1,14 @@
 ---
 title: "Core-U セミナー: 岡 真氏"
-date: 2026-06-14T08:45:00+09:00
-description: "7/14火 E104"
+date: 2026-06-14T10:00:00+09:00
+description: "7/14火 E104+Teams"
 draft: false
 ---
 
 - Speaker:
 岡 真氏
 - Date:
-7/14火 08:45-12:00 E104
+7/14火 10:00-11:30 ハイブリッド: E104 + Teams
 - Title:
 Nuclear Gravitational Form Factor: Mass radius and D-term
 
