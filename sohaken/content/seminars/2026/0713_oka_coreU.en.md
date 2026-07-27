@@ -1,14 +1,14 @@
 ---
 title: "Core-U Seminar: Prof. Oka Makoto"
-date: 2026-06-14T10:00:00+09:00
-description: "Tue July 14 E104+Teams"
+date: 2026-07-14T10:00:00+09:00
+description: "Tue, July 14 E104+Teams"
 draft: false
 ---
 
 - Speaker:
 Prof. Oka Makoto
 - Date:
-Tue July 14 10:00-11:30 JST (UTC+9) Hybrid: E104 + Teams
+Tue, July 14 10:00-11:30 JST (UTC+9) Hybrid: E104 + Teams
 - Title:
 Nuclear Gravitational Form Factor: Mass Radius and D-term
 

@@ -1,6 +1,6 @@
 ---
 title: "Core-U セミナー: 岡 真氏"
-date: 2026-06-14T10:00:00+09:00
+date: 2026-07-14T10:00:00+09:00
 description: "7/14火 E104+Teams"
 draft: false
 ---
