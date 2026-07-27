@@ -1,14 +1,14 @@
 ---
 title: "Core-U Seminar: Assoc. Prof. Teppei Kitahara"
 date: 2026-07-27T14:35:00+09:00
-description: "Thu, July 30 E210+Teams"
+description: "Thu, July 30 C103+Teams"
 draft: false
 ---
 
 - Speaker:
 Assoc. Prof. Teppei Kitahara
 - Date:
-Thu, July 30 14:35-16:05 JST (UTC+9) Hybrid: E210 + Teams
+Thu, July 30 14:35-16:05 JST (UTC+9) Hybrid: C103 + Teams
 - Title:
 Flavor Physics Today and Future Prospects
 
