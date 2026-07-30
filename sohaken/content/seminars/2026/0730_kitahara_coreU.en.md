@@ -1,6 +1,6 @@
 ---
 title: "Core-U Seminar: Assoc. Prof. Teppei Kitahara"
-date: 2026-07-27T14:35:00+09:00
+date: 2026-07-30T14:35:00+09:00
 description: "Thu, July 30 C103+Teams"
 draft: false
 ---

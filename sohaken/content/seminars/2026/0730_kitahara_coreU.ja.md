@@ -1,6 +1,6 @@
 ---
 title: "Core-U セミナー: 北原 鉄平氏"
-date: 2026-07-27T14:35:00+09:00
+date: 2026-07-30T14:35:00+09:00
 description: "7/30木 C103+Teams"
 draft: false
 ---
