@@ -1,14 +1,14 @@
 ---
 title: "セミナー: 山中 長閑氏"
-date: 2026-10-01T14:00:00+09:00
-description: "10/1木 (place)"
+date: 2026-09-30T14:00:00+09:00
+description: "10/1木 C215+teams"
 draft: false
 ---
 
 - Speaker:
 山中 長閑氏
 - Date:
-10/1木 14:00- (place)
+10/1木 14:00- ハイブリッド: C215 + teams
 - Title:
 Resolutions of the strong CP problem and the U(1) problem
 

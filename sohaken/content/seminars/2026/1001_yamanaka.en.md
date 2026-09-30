@@ -1,14 +1,14 @@
 ---
 title: "Seminar: Dr. Yamanaka Nodoka"
-date: 2026-10-01T14:00:00+09:00
-description: "Thu, 10/1 (place)"
+date: 2026-09-30T14:00:00+09:00
+description: "Thu, 10/1 C215+teams"
 draft: false
 ---
 
 - Speaker:
 Dr. Yamanaka Nodoka
 - Date:
-Thu, October 1 14:00 JST (UTC+9) (place)
+Thu, October 1 14:00 JST (UTC+9) Hybrid: C215 + teams
 - Title:
 Resolutions of the strong CP problem and the U(1) problem
 

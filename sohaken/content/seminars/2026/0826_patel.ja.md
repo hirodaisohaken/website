@@ -1,14 +1,14 @@
 ---
 title: "セミナー: Teerthal Patel氏"
 date: 2026-08-25T14:00:00+09:00
-description: "8/25水 C103"
+description: "8/25水 C103+zoom"
 draft: false
 ---
 
 - Speaker:
 Teerthal Patel氏
 - Date:
-8/26金 14:00- C103
+8/26金 14:00- ハイブリッド: C103 + zoom
 - Title:
 Robust 3+1D simulations of BDNK causal relativistic hydrodynamics
 

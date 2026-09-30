@@ -1,14 +1,14 @@
 ---
 title: "Seminar: Dr. Teerthal Patel"
 date: 2026-08-25T14:00:00+09:00
-description: "Wed, August 26 C103"
+description: "Wed, August 26 C103+zoom"
 draft: false
 ---
 
 - Speaker:
 Dr. Teerthal Patel
 - Date:
-Wed, August 26 14:00- JST (UTC+9) C103
+Wed, August 26 14:00- JST (UTC+9) Hybrid: C103 + zoom
 - Title:
 Robust 3+1D simulations of BDNK causal relativistic hydrodynamics
 
