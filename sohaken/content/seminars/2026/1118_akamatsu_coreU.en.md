@@ -1,5 +1,5 @@
 ---
-title: "Seminar: Dr. Yukinao Akamatsu"
+title: "Core-U Seminar: Dr. Yukinao Akamatsu"
 date: 2026-11-04T15:00:00+09:00
 description: "Wed, 11/18 ADSM405N+teams"
 draft: false

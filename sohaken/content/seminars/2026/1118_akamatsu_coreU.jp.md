@@ -1,5 +1,5 @@
 ---
-title: "セミナー: 赤松 幸尚氏"
+title: "Core-U セミナー: 赤松 幸尚氏"
 date: 2026-11-04T15:00:00+09:00
 description: "11/18水 先端研405N+teams"
 draft: false
