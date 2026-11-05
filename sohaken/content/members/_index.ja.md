@@ -1,6 +1,6 @@
 ---
 title: "研究室のメンバー"
-date: 2026-04-14T04:00:00+09:00
+date: 2026-11-05T04:00:00+09:00
 description: "研究室に所属するスタッフ・ポスドク・ビジター・学生の一覧ページ"
 draft: false
 ---
@@ -40,19 +40,19 @@ draft: false
 
 |                                  | 博士 |             |              |                                                                       |
 |----------------------------------|------|-------------|--------------|-----------------------------------------------------------------------|
-| チェンディキア アブディ          | OD   | cendikiaabdi@*   | 理C212 |                                                                       |
-| 前田 玲史                        | D3   | maeta-reishi@*   |        |                                                                       |
+| チェンディキア アブディ          | OD   | cendikiaabdi@*   | 理C212 | [INSPIER-HEP](https://inspirehep.net/authors/3165206) |
+| 前田 玲史                        | D3   | maeta-reishi@*   |        | [INSPIER-HEP](https://inspirehep.net/authors/3088983) |
 | 吉岡 直樹                        | D3   | na-yoshioka@*    | 理C219 | [INSPIRE-HEP](https://inspirehep.net/literature?sort=mostrecent&size=25&page=1&q=a%20naoki%20yoshioka%20and%20r%20HUPD-%2A) |
 | 竹下 昌之介                      | D3   | shonosuke@*      | 理C219 | [INSPIRE-HEP](https://inspirehep.net/literature?sort=mostrecent&size=25&page=1&q=shonosuke%20takeshita) |
 | 田原 智治                        | D2   | t-tomoharu@*     | 理C214 | [INSPIRE-HEP](https://inspirehep.net/literature?sort=mostrecent&size=25&page=1&q=a%20tomoharu%20tahara%20and%20r%20HUPD-%2A) |
 | ムハマド アッザム アルワン       | D1   | azzam-alwan@*    | 理C210 | [INSPIRE-HEP](https://inspirehep.net/literature?sort=mostrecent&size=25&page=1&q=a%20Muhammad%20Azzam%20Alwan) |
-| パンディ シッダールタ ラメシュ   | D1   |                  | 理C210 |                                                                       |
+| パンディ シッダールタ ラメシュ   | D1   |                  | 理C210 | [INSPIER-HEP](https://inspirehep.net/authors/3186336) |
+| 王 沢豊                          | D1   |                  | 理C213 |                                                                       |
 
 
 |                                  | 修士 |             |                |                                                                       |
 |----------------------------------|------|-------------|----------------|-----------------------------------------------------------------------|
 | 鵜生 滉平                        | M2   |             | 理C214 |                                                                       |
-| 王 沢豊                          | M2   |             | 理C213 |                                                                       |
 | 清水 啓貴                        | M2   |             | 理C213 |                                                                       |
 | 三好 絵梨                        | M2   |             | 理C210 |                                                                       |
 | 村上 いお                        | M1   |             | 理C214 |                                                                       |

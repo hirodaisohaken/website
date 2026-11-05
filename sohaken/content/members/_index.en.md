@@ -1,6 +1,6 @@
 ---
 title: "Members"
-date: 2026-04-14T04:01:00+09:00
+date: 2026-11-05T04:01:00+09:00
 description: "Our lab Staff, Post-Doc Researchers, Visitors, and Students"
 draft: false
 ---
@@ -43,18 +43,18 @@ Click on their names to learn more about their research and history.
 
 |   | Doctors  |  |  | |
 |-----------------------------|-------|-------------|---------------------------------|---------|
-| Cendikia Abdi               | OD | cendikiaabdi@*     | Sci-C212 |  |
-| Reishi Maeta                | D3 | maeta-reishi@*     |          |  |
+| Cendikia Abdi               | OD | cendikiaabdi@*     | Sci-C212 | [INSPIER-HEP](https://inspirehep.net/authors/3165206) |
+| Reishi Maeta                | D3 | maeta-reishi@*     |          | [INSPIER-HEP](https://inspirehep.net/authors/3088983) |
 | Naoki Yoshioka              | D3 | na-yoshioka@*      | Sci-C219 | [INSPIRE-HEP](https://inspirehep.net/literature?sort=mostrecent&size=25&page=1&q=a%20naoki%20yoshioka%20and%20r%20HUPD-%2A) |
 | Shonosuke Takeshita         | D3 | shonosuke@*        | Sci-C219 | [INSPIRE-HEP](https://inspirehep.net/literature?sort=mostrecent&size=25&page=1&q=shonosuke%20takeshita) |
 | Tomoharu Tahara             | D2 | t-tomoharu@*       | Sci-C214 | [INSPIRE-HEP](https://inspirehep.net/literature?sort=mostrecent&size=25&page=1&q=a%20tomoharu%20tahara%20and%20r%20HUPD-%2A) |
 | Muhammad Azzam Alwan        | D1 | azzam-alwan@*      | Sci-C210 | [INSPIRE-HEP](https://inspirehep.net/literature?sort=mostrecent&size=25&page=1&q=a%20Muhammad%20Azzam%20Alwan) |
-| Pandey Siddharth Ramesh     | D1 |                    | Sci-C210 |  |
+| Pandey Siddharth Ramesh     | D1 |                    | Sci-C210 | [INSPIER-HEP](https://inspirehep.net/authors/3186336) |
+| Zefeng Wang                 | D1 |                    | Sci-C213 |   |
 
 |   | Masters  |  |   | |
 |----------------------------------|------|-------------|-----------------|-----------------------------------------------------------------------|
 | Kohei Uno                  | M2 |            | Sci-C214 |   |
-| Zefeng Wang                | M2 |            | Sci-C213 |   |
 | Hiroki Shimizu             | M2 |            | Sci-C213 |   |
 | Eri Miyoshi                | M2 |            | Sci-C210 |   |
 | Io  Murakami               | M1 |            | Sci-C214 |   |
