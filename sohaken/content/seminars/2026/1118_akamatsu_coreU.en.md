@@ -1,14 +1,14 @@
 ---
 title: "Core-U Seminar: Dr. Yukinao Akamatsu"
 date: 2026-11-04T15:00:00+09:00
-description: "Wed, 11/18 ADSM405N+teams"
+description: "Wed, 11/18 B155+teams"
 draft: false
 ---
 
 - Speaker:
 Dr. Yukinao Akamatsu
 - Date:
-Wed, November 18 15:00 JST (UTC+9) Hybrid: Advanced Science of Matter building 405N + teams
+Wed, November 18 15:00-16:30 JST (UTC+9) Hybrid: Economy Dert. B155 + teams
 - Title:
 Alternative Signals for the QCD Critical Point
 

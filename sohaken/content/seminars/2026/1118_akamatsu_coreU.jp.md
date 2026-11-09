@@ -1,14 +1,14 @@
 ---
 title: "Core-U セミナー: 赤松 幸尚氏"
 date: 2026-11-04T15:00:00+09:00
-description: "11/18水 先端研405N+teams"
+description: "11/18水 B155+teams"
 draft: false
 ---
 
 - Speaker:
 赤松 幸尚氏
 - Date:
-11/18水 15:00- ハイブリッド: 先端研405N + teams
+11/18水 15:00-16:30 ハイブリッド: 経済学部棟B155 + teams
 - Title:
 Alternative Signals for the QCD Critical Point
 
